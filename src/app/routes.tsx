@@ -9,8 +9,6 @@ export const Routes = () => {
     <BrowserRouter>
       <Switch>
         <Route path="/login" component={Login} />
-      </Switch>
-      <Switch>
         <Route path="/:account" component={Template} />
       </Switch>
     </BrowserRouter>
