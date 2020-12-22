@@ -2,21 +2,22 @@ import React from 'react';
 import { Layout } from 'antd';
 import { Pages } from 'app/routes';
 import { SideMenu } from 'components/template/sidemenu';
+import { TopMenu } from 'components/template/topmenu';
+import { Container } from 'components/template/container';
+import { Footer } from 'components/template/footer';
 
 import styles from './styles.module.less';
-
-const { Header, Footer, Content } = Layout;
 
 export const Template = () => {
   return (
     <Layout className={styles.layout}>
       <SideMenu />
       <Layout>
-        <Header>Header</Header>
-        <Content>
+        <TopMenu />
+        <Container>
           <Pages />
-        </Content>
-        <Footer>Footer</Footer>
+        </Container>
+        <Footer />
       </Layout>
     </Layout>
   );

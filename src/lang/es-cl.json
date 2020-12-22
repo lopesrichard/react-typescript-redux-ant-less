@@ -1,0 +1,3391 @@
+{
+  "locale": "es-cl",
+  "phrases": {
+    "common": {
+      "server-error": "No se puede conectar con el servidor"
+    },
+    "components": {
+      "avatar": {
+        "alterar-foto": "Cambiar Foto"
+      },
+      "filter": {
+        "header": {
+          "filtros-aplicados": "Filtros aplicados: %{smart_count}",
+          "limpar": "Limpiar",
+          "nenhum-filtro": "No se aplicaron filtros"
+        }
+      },
+      "form": {
+        "document": {
+          "invalid": "Proporcione un %{doc} válido"
+        },
+        "email": {
+          "invalido": "Introduzca un correo electrónico válido"
+        },
+        "endereco": {
+          "bairro": "Barrio",
+          "cep": "CEP",
+          "cidade": "Ciudad",
+          "endereco": "Domicilio",
+          "endereco-complemento": "Complemento",
+          "endereco-numero": "Numero"
+        },
+        "file": {
+          "upload": "Seleccione Archivo"
+        },
+        "lang": {
+          "espanhol": "Español",
+          "ingles": "Inglés",
+          "portugues": "Portugués"
+        },
+        "list": {
+          "actions": "Acciones"
+        },
+        "month": {
+          "abril": "Abril",
+          "agosto": "Agosto",
+          "dezembro": "Diciembre",
+          "fevereiro": "Febrero",
+          "janeiro": "Enero",
+          "julho": "Julio",
+          "junho": "Junio",
+          "maio": "Mayo",
+          "marco": "Marzo",
+          "novembro": "Noviembre",
+          "outubro": "Octubre",
+          "setembro": "Septiembre"
+        },
+        "select": {
+          "placeholder": "Buscar..."
+        },
+        "sexo": {
+          "feminino": "Femenino",
+          "masculino": "Masculino"
+        },
+        "turno": {
+          "manha": "Mañana",
+          "noite": "Noche",
+          "tarde": "Tarde"
+        },
+        "validator": {
+          "required": "Se requiere el %{name}"
+        },
+        "vigencia": {
+          "divider": "Validez",
+          "error": "La fecha de finalización debe ser mayor que la fecha de inicio",
+          "radio": {
+            "label": "Editar plazo",
+            "options": {
+              "nao": "No",
+              "sim": "Si"
+            }
+          },
+          "range": {
+            "fim": "Fin del plazo",
+            "inicio": "Comienzo del plazo"
+          }
+        },
+        "week": {
+          "dom": "Dom",
+          "qua": "Mié",
+          "qui": "Jue",
+          "sab": "Sáb",
+          "seg": "Lun",
+          "sex": "Vie",
+          "sigla": {
+            "dom": "D",
+            "qua": "M",
+            "qui": "J",
+            "sab": "S",
+            "seg": "L",
+            "sex": "V",
+            "ter": "M"
+          },
+          "ter": "Mar"
+        },
+        "year": {
+          "placeholder": "Seleccionar año"
+        },
+        "yesno": {
+          "nao": "No",
+          "sim": "Sí"
+        }
+      },
+      "gantt": {
+        "filtro-tipos-alertas": {
+          "title-cabeceiras": "Diferentes cabeceros",
+          "title-cargo": "Puesto de servicio distinto del puesto de miembro de la tripulación",
+          "title-empresa-tripulante": "Compañía de servicios diferente a la compañía de miembros de la tripulación",
+          "title-empresa-veiculo": "Empresa de servicios diferente a la empresa de vehículos",
+          "title-frota": "Flota de servicio distinta a la flota de vehículos",
+          "title-horas-extras": "Exceso de horas extras",
+          "title-interjornada": "Descanso",
+          "title-main-icon": "Filtrar tipos de avisos",
+          "title-ocorrencias": "Ocurrencias"
+        },
+        "grupo": {
+          "add-grupo": {
+            "add-cargo": "Agregar cargo",
+            "add-frota": "Agregar flota",
+            "add-tripulante": "Agregar tripulación",
+            "add-veiculo": "Agregar vehículo",
+            "adicionar": "Agregar",
+            "cargo": "Cargo",
+            "frota": "Flota",
+            "numero": "Numero",
+            "tripulante": "Tripulación",
+            "veiculo": "Vehículo"
+          }
+        },
+        "overlay-servico": {
+          "avisos": "Advertencias",
+          "cargo": "Cargo",
+          "fim": "Destino",
+          "frequencia": "Frecuencia",
+          "frota": "Flota",
+          "inicio": "Origen",
+          "km": "Kilometraje",
+          "linha": "Línea",
+          "servico": "Servicio",
+          "tripulante": "Miembro de La Tripulación",
+          "veiculo": "Vehículo",
+          "veiculo-n": "Vehículo nº"
+        }
+      },
+      "lists": {
+        "document": {
+          "emissor": "Editor: %{emissor}",
+          "orgao": "Órgano Regulador: %{orgao}",
+          "tipo": "Tipo: %{tipo}"
+        },
+        "file-card": {
+          "registros": " Registro(s)"
+        },
+        "infinite-scroll": {
+          "empty": "No hay resultados"
+        }
+      },
+      "map": {
+        "visualizar-mapa": "Ver el mapa"
+      },
+      "menu": {
+        "acessorio-veicular": "Accesorio del Vehículo",
+        "agrupadores": "Agrupamientos",
+        "auditor": "Auditor de Tripulación",
+        "cadastros": "Registros",
+        "cargos": "Cargos",
+        "carrocerias": "Carrocerías",
+        "chassis": "Chasis",
+        "classe-frota": "Clases de Flota",
+        "classe-linha": "Clases de Línea",
+        "coord-frotas": "Flotas",
+        "coord-tripulantes": "Tripulación",
+        "coordenacao": "Coordinación",
+        "coordenacoes-grupos": "Grupos de Escala de Tripulación",
+        "distancias": "Distancias",
+        "divergencias": "Desacuerdos",
+        "escala-diaria": "Escala Diária",
+        "escala-projetada": "Escala Projetada",
+        "feriados": "Vacaciones",
+        "fornecedores": "Proveedores",
+        "frotas": "Flotas",
+        "funcionarios": "Empleados",
+        "funcoes": "Ocupaciónes",
+        "justificativa-cartao-ponto": "Justificaciones Tarjeta Ponto",
+        "linhas": "Líneas",
+        "locais": "Localizaciónes",
+        "motivo-troca-escala": "Razones para el Cambio de Escala",
+        "orgao-regulador": "Ente Regulador",
+        "planejamento": "Planificación",
+        "relatorios": "Informes de Tripulación",
+        "resumo-viagens": "Resumen de Viaje",
+        "rotas": "Rutas",
+        "sindicatos": "Sindicatos",
+        "tabelas": "Mesas",
+        "tempo-apresentacao-encerramento": "Tiempo de Presentación/Cierre",
+        "tempo-parada": "Tiempo de Parada",
+        "tempo-preparo": "Tiempo de Preparación",
+        "tipo-documento": "Tipos de Documentos",
+        "tipo-linha": "Tipos de Línea",
+        "tipo-local": "Tipos de Localización",
+        "tipo-ocorrencia-tripulacao": "Tipos de Ocurrencia",
+        "tipo-servico": "Tipos de Servicio",
+        "tipo-treinamento": "Tipos de Entrenamiento",
+        "trafego": "Tráfico",
+        "tripulantes": "Tripulación",
+        "veiculos": "Vehículos"
+      },
+      "modal": {
+        "ok": "Guardar"
+      },
+      "pages": {
+        "aplicar": "Aplicar",
+        "atualizar": "Actualizar la Información",
+        "cancelar": "Anular",
+        "confirmar-exclusao": "¿De verdad quieres borrar?",
+        "conflict-message": "Este registro ha sido modificado por otro usuario",
+        "deletar": "Borrar",
+        "editar": "Editar",
+        "enviar": "Enviar",
+        "erro-atualizacao": "Hubo un error de actualizacion",
+        "error": "Verifique los datos proporcionados",
+        "errors": {
+          "403": "Lo sentimos, no está autorizado para acceder a esta página.",
+          "404": "Lo sentimos, la página a la que intenta acceder no existe.",
+          "500": "Lo sentimos, parece que algo salió mal en el servidor.",
+          "inicio": "Comienzo"
+        },
+        "gerar": "Generar",
+        "import": {
+          "error": "Error al enviar el archivo",
+          "loading": "Enviando el archivo, espere ...",
+          "selecionar-arquivo": "Arrastre el archivo o haga clic para seleccionar"
+        },
+        "inicio": "Comienzo",
+        "list": {
+          "actions": {
+            "exportar-dados": "Exportar Datos",
+            "exportar-modelo": "Exportar Modelo",
+            "importar-dados": "Importar Datos",
+            "importar-imagens": "Insertar imágenes"
+          }
+        },
+        "nao": "No",
+        "render": {
+          "sexo": {
+            "feminino": "Femenino",
+            "masculino": "Masculino"
+          },
+          "status": {
+            "aguardando": "Esperando",
+            "concluida": "Terminado",
+            "erro": "Error",
+            "processando": "Procesando"
+          },
+          "yesno": {
+            "nao": "No",
+            "sim": "Si"
+          }
+        },
+        "sair-sem-salvar": "¿De verdad quieres irte sin guardar?",
+        "salvar": "Guardar",
+        "sim": "Si",
+        "sobrescrever": "Sobrescribir",
+        "template": {
+          "email-alert": {
+            "resend": "Reenviar email",
+            "sent": "Enviamos un correo electrónico de confirmación, revise su bandeja de entrada lo antes posible"
+          },
+          "global-search": {
+            "pesquisar": "Buscar..."
+          },
+          "menu": {
+            "items": {
+              "login": {
+                "administrador": "Administrador",
+                "meu-perfil": "Mi Perfil",
+                "sair": "Salir"
+              },
+              "notifications": {
+                "nao-lidas": "Mensajes no leídos",
+                "notification": {
+                  "criado-em": "a las %{hora} el %{data}",
+                  "criado-por": "Por %{nome}"
+                }
+              }
+            }
+          }
+        },
+        "titulo-alert-erros": "Problemas encontrados",
+        "upload": {
+          "falha-imagem": "Error al enviar la imagen",
+          "falha-imagens": "Error al enviar imágenes",
+          "falha-remover": "No pudimos realizar esta acción en este momento",
+          "inserir-imagens": "Insertar imágenes",
+          "loading": "Cargando...",
+          "remover-imagem": "Borrar imagen actual",
+          "selecionar-imagem": "Seleccionar imagen",
+          "selecionar-imagens": "Seleccionar imagenes",
+          "sucesso-imagem": "Imagen actualizada",
+          "sucesso-imagens": "Imágenes actualizadas",
+          "sucesso-remover": "Imagen borrada"
+        },
+        "voltar": "Volver"
+      },
+      "table": {
+        "empty": "Ningún resultado encontrado",
+        "pagination": {
+          "de": "de",
+          "exibindo": "Mostrando",
+          "registros": "registros"
+        },
+        "pesquisar": "Buscar",
+        "refresh": "Actualizar"
+      }
+    },
+    "entity": {
+      "acessorio-veicular": "Accesorios para Vehículos",
+      "acordo-sindical": "Acuerdo Sindical",
+      "agrupador": "Agrupador",
+      "cargo": "Cargo",
+      "carroceria": "Carrocería",
+      "cenario": "Escenario",
+      "chassi": "Chasis",
+      "cidade": "Ciudad",
+      "classe-frota": "Clase de Flota",
+      "classe-linha": "Clase de Línea",
+      "conta": "Cuenta",
+      "coordenacao-grupo": "Grupo de Coordinación",
+      "distancia": "Distância",
+      "documento": "Documento",
+      "email": "Correo Electrónico",
+      "empresa": "Empresa",
+      "exportacao": "Exportar",
+      "feriado": "Vacaciones",
+      "fornecedor": "Proveedor",
+      "frota": "Flota",
+      "funcao": "Ocupación",
+      "grupo-usuario": "Grupo de Usuario",
+      "imagem": "Imagen",
+      "importacao": "Importar",
+      "intervalo": "Intervalo",
+      "justificativa-cartao-ponto": "Justificación de la tarjeta Ponto",
+      "linha": "Línea",
+      "local": "Sitio",
+      "login": "Login",
+      "motivo-troca-escala": "Razón de Cambio de Escala",
+      "notificacao": "Notificación",
+      "ocorrencia-tripulacao": "Ocurrencia Tripulación",
+      "orgao-regulador": "Órgano Regulador",
+      "otimizacao": "Optimización",
+      "permissao": "Permiso",
+      "pessoa": "Miembro de La Tripulación",
+      "planejamento": "Planificación",
+      "rota": "Ruta",
+      "secao": "Sección",
+      "servico": "Servicio",
+      "sindicato": "Sindicato",
+      "tempo-apresentacao-encerramento": "Presentación y Hora de Cierre",
+      "tempo-parada": "Tiempo Detenido",
+      "tempo-preparo": "Tiempo de la Preparación",
+      "tipo-documento": "Tipo de Documento",
+      "tipo-linha": "Tipo de Línea",
+      "tipo-local": "Tipo de Sitio",
+      "tipo-ocorrencia-tripulacao": "Tipo de Ocurrencia Tripulación",
+      "tipo-servico": "Tipo de Servicio",
+      "tipo-treinamento": "Tipo de Formación",
+      "treinamento": "Formación",
+      "tripulante": "Miembro de La Tripulación",
+      "usuario": "Usuario",
+      "veiculo": "Vehículo"
+    },
+    "features": {
+      "acessorio-veicular": {
+        "edit": {
+          "add-message": "Accesorio del Vehículo %{identifier} registrado con éxito",
+          "delete-message": "Accesorio del Vehículo %{identifier} borrado con éxito",
+          "edit-message": "Accesorio del Vehículo %{identifier} actualizado con éxito",
+          "editando": "Actualizando Accesorio del Vehículo",
+          "novo": "Nuevo Acessorio del Vehículo"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "fixo": "Fijo"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "fixo": "Fijo"
+          },
+          "nao": "No",
+          "novo": "Nuevo Accesorio del Vehículo",
+          "sim": "Si",
+          "title": "Accesorios del Vehículo"
+        }
+      },
+      "acordo-sindical": {
+        "form": {
+          "calculo-hora-extra": "Calcular HE arriba",
+          "cargo": "Cargo",
+          "compensar-he-mensal": "Compensar HE en el mes",
+          "compensar-he-semana": "Compensar HE en el Semana",
+          "desconto-carona-escala": "Descuento de viaje desde escala",
+          "desconto-todos-intervalos": "Descuentar todos los intervalos",
+          "editando": "Actualizando Acuerdo",
+          "helpers": {
+            "calculo-hora-extra": "Calcular horas extras por horas sobre este valor",
+            "compensar-he-mensal": "Si el sistema compensa las horas extra diarias en el total de horas del mes",
+            "compensar-he-semana": "Si el sistema compensa las horas extra diarias en el total de horas de la semana",
+            "desconto-carona-escala": "Si el sistema ignora a los \"paseos\" en el cálculo de las horas trabajadas",
+            "desconto-todos-intervalos": "Si todos los descansos se deducen de las horas trabajadas en la jornada laboral",
+            "hora-extra-ij-menor": "Si el sistema calcula las horas extra para las horas de trabajo menos de las 11 a.m.",
+            "hora-final-adicional-noturno": "Predeterminado para 22:00 inicio y 5:00 final",
+            "intervalo-refeicao": "",
+            "limite-inter-jornada": "",
+            "limite-intervalos": "Límite de intervalos para la deducción del tiempo trabajado en la jornada laboral",
+            "perc-horas-espera": "Para el costo de la hoja: porcentaje para agregar a los intervalos por encima de los límites",
+            "tempo-maximo-espera": "Para intervalos superiores a este tiempo, se calculan horas de espera adicionales",
+            "tempo-maximo-intervalo": "Tiempo máximo para que un descanso sea considerado como un intervalo",
+            "tempo-minimo-intervalo": "Tiempo mínimo para que un descanso sea considerado como un intervalo",
+            "validar-intervalo": "Si el sistema acepta intervalos más largos que el entre viajes"
+          },
+          "hora-extra-ij-menor": "Calcular HE a IJ",
+          "hora-final-adicional-noturno": "Hora de finalización de lo adicional por trabajo nocturno",
+          "intervalo-refeicao": "Descanso para comer",
+          "limite-inter-jornada": "Límite inter viaje",
+          "limite-intervalos": "Límite de Intervalos",
+          "minimo-hora-extra": "Debe ser mayor o igual a 6 horas",
+          "minimo-interjornada": "Debe ser mayor o igual a 8 horas",
+          "novo": "Nuevo Acuerdo",
+          "perc-horas-espera": "Porcentaje de horas de espera",
+          "tempo-maximo-espera": "Tiempo de espera máximo",
+          "tempo-maximo-intervalo": "Tiempo de intervalo máximo ",
+          "tempo-minimo-intervalo": "Tiempo de intervalo mínimo",
+          "validar-intervalo": "Validar intervalo"
+        }
+      },
+      "agrupador": {
+        "edit": {
+          "add-message": "Agrupador %{identifier} registrado con éxito",
+          "delete-message": "Agrupador %{identifier} borrado con éxito",
+          "edit-message": "Agrupador %{identifier} actualizado con éxito",
+          "editando": "Actualizando Agrupador",
+          "novo": "Nuevo Agrupador"
+        },
+        "form": {
+          "codigo": "Código",
+          "cor": "Color",
+          "descricao": "Descripción",
+          "nome": "Nombre"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "cor": "Color",
+            "descricao": "Descripción",
+            "nome": "Nombre"
+          },
+          "novo": "Nuevo Agrupador",
+          "title": "Agrupadores"
+        }
+      },
+      "auditor": {
+        "divergencia": {
+          "cargo-invalido": "Título inválido",
+          "divergencia-origem-destino": "Divergencia de origen/destino",
+          "escala-ant-admissao": "Subido antes de la admisión",
+          "escala-pos-demissao": "Subió después de la resignación",
+          "filtro": {
+            "form": {
+              "agrupador": "Agrupador",
+              "divergencia": "Tipo de Desacuerdo",
+              "empresa": "Empresa",
+              "grupo": "Grupo de Escala",
+              "periodo": "Período"
+            },
+            "modal": {
+              "title": "Filtro de Desacuerdos"
+            }
+          },
+          "horas-extras": "Horas extras",
+          "interjornada-muito-curta": "Pequeño descanso",
+          "interjornada-muito-longa": "Largo descanso",
+          "intervalo-muito-longo": "Intervalo demasiado largo",
+          "jornada-longa": "Viaje largo",
+          "jornada-longa-sem-intervalo": "Largo viaje sin descanso",
+          "jornada-muito-longa": "Viaje muy largo",
+          "jornada-sem-viagem": "Viaje sin servicios",
+          "list-servicos": {
+            "columns": {
+              "codigo": "Desacuerdo",
+              "mensagem": "Nota"
+            }
+          },
+          "list-tripulantes": {
+            "columns": {
+              "codigo": "Divergencia",
+              "divergencias": "Desacuerdos",
+              "funcionario": "Miembro de La Tripulación",
+              "mensagem": "Nota"
+            }
+          },
+          "modal": {
+            "title": "Desacuerdos"
+          },
+          "muitas-noites-em-viagem": "Muchas noches en movimiento",
+          "pouca-folga": "Poca día libre",
+          "sem-escala": "Sin escala",
+          "sem-folga-domingos": "No hay domingo libre",
+          "sem-grupo": "Sin grupo",
+          "sem-tripulante": "Servicio no tripulado",
+          "trecho-sem-distancia": "Tramo de servicio sin distancia",
+          "tripulante-afastado": "Fuera con escala lanzada"
+        },
+        "modal-filtro": {
+          "form": {
+            "empresa": "Empresa",
+            "grupo": "Grupo de Escala",
+            "periodo": "Período"
+          },
+          "title": "Filtro de Resumen de Viaje"
+        },
+        "resumo-viagens": {
+          "resumo": "Resumen",
+          "title": "Resumen de viaje - %{descricao} - %{dataInicio} a %{dataFinal}",
+          "tripulacao-dia": "Miembro de La Tripulación por Cargo/Día",
+          "tripulantes": "Miembro de La Tripulación"
+        }
+      },
+      "cargo": {
+        "edit": {
+          "add-message": "Cargo %{identifier} registrado con éxito",
+          "delete-message": "Cargo %{identifier} borrado con éxito",
+          "edit-message": "Cargo %{identifier} actualizado con éxito",
+          "editando": "Actualizando Cargo",
+          "novo": "Nuevo Cargo"
+        },
+        "form": {
+          "codigo": "Código",
+          "cor": "Color",
+          "default": "Es predeterminado",
+          "descricao": "Descripción",
+          "entra-escala": "Entra en la Escala",
+          "tem-instrutor": "Tiene Instructor"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "cor": "Color",
+            "descricao": "Descripción",
+            "entra-escala": "Entra en la Escala",
+            "tem-instrutor": "Tiene Instructor"
+          },
+          "novo": "Nuevo Cargo",
+          "title": "Cargos"
+        }
+      },
+      "carroceria": {
+        "edit": {
+          "add-message": "Carrocería %{identifier} registrada con éxito",
+          "delete-message": "Carrocería %{identifier} borrada con éxito",
+          "edit-message": "Carrocería %{identifier} actualizada con éxito",
+          "editando": "Actualizando Carrocería",
+          "novo": "Nueva Carrocería"
+        },
+        "form": {
+          "eixos": "Ejes",
+          "fornecedor": "Proveedor",
+          "modelo": "Modelo",
+          "pneus": "Llantas"
+        },
+        "list": {
+          "columns": {
+            "eixos": "Ejes",
+            "fornecedor": "Proveedor",
+            "modelo": "Modelo",
+            "pneus": "Llantas"
+          },
+          "novo": "Nueva Carrocería",
+          "title": "Carrocerías"
+        }
+      },
+      "cenario": {
+        "edit": {
+          "add-message": "Escenario %{identifier} registrado con éxito",
+          "dados-gerais": "Datos generales",
+          "delete-message": "Escenario %{identifier} borrado con éxito",
+          "edit-message": "Escenario %{identifier} actualizado con éxito",
+          "editando": "Actualizando Escenario",
+          "novo": "Nuevo Escenario",
+          "servicos": "Servicios"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "empresa": "Compañia",
+            "planejamento": "Planificación",
+            "visivel": "Visible"
+          },
+          "import": {
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "empresa": "Compañia",
+            "file": "Archivo"
+          },
+          "servicos": {
+            "codigo": "Código",
+            "dados-gerais": "Datos generales",
+            "editando": "Actualizando Servicio",
+            "empresa": "Compañia",
+            "linha": "Línea",
+            "local-liberacao": "Localización de Liberación",
+            "local-recolhimento": "Localización de Destino",
+            "partida": "Hora de salida",
+            "chegada": "Hora de llegada",
+            "frequencia": "Frecuencia",
+            "novo": "Nuevo Servicio",
+            "operacao": "Operación",
+            "secoes": "Secciones",
+            "tripulante": "Tripulación"
+          }
+        },
+        "import": {
+          "cancel-import": "Cancelar",
+          "confirm-import": "Importar",
+          "success-import": "Su solicitud ha sido recibida con éxito. Se le notificará cuando se complete la importación.",
+          "title": "Importar Escenario"
+        },
+        "list": {
+          "actions": {
+            "edit": "Editar Escenario",
+            "otimizacao": "Optimización de Nueva Flota"
+          },
+          "cancel": "Cancelar",
+          "columns": {
+            "codigo": "Código",
+            "criado-em": "Fecha",
+            "criado-por": "Usuario",
+            "descricao": "Descripción",
+            "fim-vigencia": "Fin Plazo",
+            "inicio-vigencia": "Comienzo Plazo",
+            "nome": "Nombre",
+            "visivel": "Visible"
+          },
+          "erro-export": "Seleccione un escenario para exportar",
+          "export": "Exportar",
+          "export-cenario": "Exportando escenario",
+          "export-cenario-confirmation": "Por favor, confirme la exportación del escenario",
+          "novo": "Nuevo Escenario"
+        }
+      },
+      "chassi": {
+        "edit": {
+          "add-message": "Chasis %{identifier} registrado con éxito",
+          "delete-message": "Chasis %{identifier} borrado con éxito",
+          "edit-message": "Chasis %{identifier} actualizado con éxito",
+          "editando": "Actualizando Chasis",
+          "novo": "Nuevo Chasis"
+        },
+        "form": {
+          "comprimento": "Longitud (metros)",
+          "eixos": "Ejes",
+          "fornecedor": "Proveedor",
+          "largura": "Ancho (metros)",
+          "modelo": "Modelo",
+          "peso-bruto": "Peso Bruto",
+          "pneus": "Llantas"
+        },
+        "list": {
+          "columns": {
+            "comprimento": "Longitud (metros)",
+            "eixos": "Ejes",
+            "fornecedor": "Proveedor",
+            "largura": "Ancho (metros)",
+            "modelo": "Modelo",
+            "peso-bruto": "Peso Bruto",
+            "pneus": "Llantas"
+          },
+          "novo": "Nuevo Chasis",
+          "title": "Chasis"
+        }
+      },
+      "classe-frota": {
+        "edit": {
+          "add-message": "Clase de Flota %{identifier} registrada con éxito",
+          "delete-message": "Clase de Flota %{identifier} borrada con éxito",
+          "edit-message": "Clase de Flota %{identifier} actualizada con éxito",
+          "editando": "Actualizando Clase de Flota",
+          "novo": "Nueva Clase de Flota"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nueva Classe",
+          "title": "Clases de Flota"
+        }
+      },
+      "classe-linha": {
+        "edit": {
+          "add-message": "Clase de Línea %{identifier} registrada con éxito",
+          "delete-message": "Clase de Línea %{identifier} borrada con éxito",
+          "edit-message": "Clase de Línea %{identifier} actualizada con éxito",
+          "editando": "Actualizando Clase de Línea",
+          "novo": "Nueva Clase de Línea"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nueva Clase",
+          "title": "Clases de Línea"
+        }
+      },
+      "conta": {
+        "edit": {
+          "add-message": "Cuenta registrada con éxito",
+          "edit-message": "Cuenta actualizada con éxito",
+          "editando": "Actualizando Cuenta"
+        },
+        "form": {
+          "cnpj": "CNPJ",
+          "email": "E-mail",
+          "identificador-conta": "Identificador",
+          "identificadorEmpresa": "Identificador de la Compañia",
+          "locale": "Idioma",
+          "nomeUsuario": "Nombre",
+          "razao-social": "Nombre de la Compañia",
+          "razaoSocialEmpresa": "Razón social",
+          "senha": "Contraseña"
+        },
+        "register": {
+          "anterior": "Anterior",
+          "cadastrar": "Concluir",
+          "cnpj": "CNPJ",
+          "confirma-senha": "Confirmación de contraseña",
+          "conta": "Cuenta",
+          "email": "E-mail",
+          "empresa": "Compañia",
+          "erro-confirma-senha": "Las contraseñas no son similares",
+          "identificador-conta": "Identificador",
+          "locale": "Idioma",
+          "nome": "Nombre Completo",
+          "nome-usuario": "Nombre de Usuario",
+          "proximo": "Próximo",
+          "razao-social": "Nombre de la Compañia",
+          "senha": "Contraseña",
+          "usuario": "Usuario"
+        }
+      },
+      "coordenacao": {
+        "copiar-servico": {
+          "data": "Fecha",
+          "edit-message": "Servicio copiado con éxito",
+          "final": "Fin",
+          "frequencia": "Frecuencia",
+          "inicio": "Inicio",
+          "n-servico": "Núm. Servicio",
+          "novo": "Nuevo",
+          "novos-servicos": "Servicios Nuevos",
+          "partida": "Partida",
+          "periodo": "Período",
+          "title": "Copiar Servicio %{codigo}",
+          "tripulante": "Tripulación",
+          "veiculo": "Vehículo"
+        },
+        "edit-tripulante": {
+          "cargo": "Cargo",
+          "edit-message": "Tripulación alterada con éxito",
+          "empresa": "Empresa",
+          "motivo-troca-escala": "Razón",
+          "nao-tem-tripulante": "No hay tripulante para el servicio.",
+          "novo-tripulante": "Tripulación Nueva",
+          "numero": "Numero",
+          "observacoes": "Notas",
+          "periodo": "Período",
+          "title": "Cambiar equipo de servicio %{codigo}",
+          "tripulante": "Tripulación",
+          "tripulante-alterado": "Tripulación Alterada",
+          "tripulante-atual": "Tripulación Actual",
+          "validacao-numero-diferente": "Los miembros de la tripulación deben ser diferentes"
+        },
+        "frotas": {
+          "edit-veiculo": {
+            "cargo": "Cargo",
+            "edit-message": "Vehículo cambiado con éxito",
+            "empresa": "Empresa",
+            "motivo-troca-escala": "Razón",
+            "nao-tem-veiculo": "No hay vehículo para el servicio.",
+            "novo-veiculo": "Vehículo Nuevo",
+            "numero": "Numero",
+            "observacoes": "Notas",
+            "periodo": "Período",
+            "title": "Cambiar vehículo de servicio %{codigo}",
+            "validacao-numero-diferente": "Los vehículos deben ser diferentes",
+            "veiculo": "Vehículo",
+            "veiculo-alterado": "Vehículo Cambiado",
+            "veiculo-atual": "Vehículo Actual"
+          },
+          "gantt": {
+            "area-de": "Área de",
+            "grupo-add": "Agregar Vehículo",
+            "grupo-detalhes": "Detalles",
+            "grupo-painel": "Tablero de instrumentos del vehículo",
+            "novo-servico": "Nuevo Servicio",
+            "page-title": "Coordinación de Flotas",
+            "resumo": "Resumen",
+            "search-placeholder": "Vehículo",
+            "transferencia": "Portapapeles",
+            "voltar": "Volver"
+          },
+          "menu": {
+            "copiar": "Copiar",
+            "detalhes": "Detalles",
+            "editar": "Editar",
+            "editar-veiculo": "Editar Vehículo",
+            "mover-transferencia": "Mover al Portapapeles",
+            "novo": "Novo",
+            "sugerir-proxima": "Sugerir Siguiente",
+            "sugerir-veiculo": "Sugerir Vehículo"
+          },
+          "sugerir-veiculo": {
+            "columns": {
+              "horas-proxima-jornada": "Duración Proxima Viaje",
+              "horas-viagem-anterior": "Duración del viaje anterior",
+              "jornada-anterior-mais-tempo-preparo": "Viaje Anterior + Tiempo de la Preparación",
+              "observacao": "Notas",
+              "proxima-viagem": "Proxima Viaje",
+              "veiculo": "Vehículo",
+              "viagem-anterior": "Viaje Anterior"
+            },
+            "form": {
+              "empresa": "Empresa"
+            },
+            "title": "Sugerir vehículo para servicio %{codigo}",
+            "trocar": "Guardar",
+            "veiculo-alterado": "Vehículo Cambiado",
+            "veiculo-atual": "Vehículo Actual",
+            "veiculos-disponiveis": "Vehículos Disponibles"
+          }
+        },
+        "info-servico": {
+          "cargo": "Cargo",
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "desembarque": "Desembarque",
+          "destino": "Destino",
+          "embarque": "Embarque",
+          "empresa": "Empresa",
+          "etapas": "Etapas",
+          "fim": "Fin",
+          "frequencia": "Frecuencia",
+          "frota": {
+            "descricao": "Flota",
+            "numero": "Numero",
+            "veiculo": "Vehículo"
+          },
+          "inicio": "Inicio",
+          "jornada": "Jornada",
+          "liberacao": "Liberación",
+          "linha": "Línea",
+          "n-h-ext": "H. Ext",
+          "n-h-not": "H. Not. Adc. ",
+          "n-h-trab": "H. Trab",
+          "numero": "Numero",
+          "origem": "Origen",
+          "preparacao": "Preparación",
+          "recolhimento": "Retirada",
+          "secoes": "Secciones",
+          "servico": "Servicio",
+          "tipo-servico": "Tipo de Servicio",
+          "title": "Detalles del servicio %{codigo}",
+          "title-h-ext": "Horas Extras",
+          "title-h-not": "Horas Nocturnas Adicionales",
+          "title-h-trab": "Horas trabajadas",
+          "tripulacao": "Tripulación",
+          "tripulante": "Tripulación"
+        },
+        "modal-filtro-frotas": {
+          "filtro-form": {
+            "empresas": "Empresas",
+            "frotas": "Flotas",
+            "frotas-veiculos": "Flotas e Vehículo",
+            "incluir-terceiras": "Incluir Terceros",
+            "periodo": "Período",
+            "validacao-inicio-fim": "La fecha de finalización debe ser mayor o igual que la fecha de inicio",
+            "veiculos": "Vehículo"
+          },
+          "modal": {
+            "title": "Filtro de Coordinación de Flota"
+          }
+        },
+        "modal-filtro-tripulantes": {
+          "filtro-form": {
+            "bases": "Bases",
+            "cargos": "Cargos",
+            "empresas": "Empresas",
+            "grupos": "Grupos de Escala",
+            "periodo": "Período",
+            "tripulantes": "Tripulantes",
+            "validacao-inicio-fim": "La fecha de finalización debe ser mayor o igual que la fecha de inicio"
+          },
+          "modal": {
+            "title": "Filtro de Coordinación de Tripulación"
+          }
+        },
+        "sugerir-tripulante": {
+          "columns": {
+            "folgas-semana": "Semana Libre",
+            "grupo-escala": "Grupo Escala",
+            "horas-trabalhadas-jornada-anterior": "Hs. Trab. Jornada Anterior",
+            "horas-trabalhadas-proxima-jornada": "Hs. Trab. Proxima Jornada",
+            "jornada-anterior-mais-inter-jornada": "Jornada Anterior + Descanso",
+            "proxima-viagem": "Proxima Viaje",
+            "tripulante": "Tripulación",
+            "viagem-anterior": "Viaje Anterior",
+            "viagens-proximos-10-dias": "Viajes en los Próx. 10 Dias"
+          },
+          "empresa": "Empresa",
+          "observa-tripulantes-noites-folgas": "Ignore a los miembros de la tripulación con viajes de 4 noches o 6 días libres",
+          "residencia-tripulantes": "Tripulantes que residan en el origen o destino del servicio.",
+          "tempo-inter-jornada": "Tiempo Descanso",
+          "title": "Sugerir tripulación para el servicio %{codigo}",
+          "tripulante-alterado": "Tripulación alterada",
+          "tripulante-atual": "Tripulación Actual",
+          "tripulantes-disponiveis": "Tripulación Disponible",
+          "trocar": "Guardar"
+        },
+        "tripulantes": {
+          "gantt": {
+            "area-de": "Área de",
+            "detalhes": "Detalles",
+            "novo-servico": "Nuevo Servicio",
+            "page-title": "Coordinación de Tripulación",
+            "painel": "Painel de Tripulación",
+            "resumo": "Resumen",
+            "search-placeholder": "Tripulación",
+            "transferencia": "Portapapeles",
+            "voltar": "Volver"
+          },
+          "menu": {
+            "copiar": "Copiar",
+            "detalhes": "Detalles",
+            "editar": "Editar",
+            "editar-tripulante": "Editar Conductor",
+            "mover-transferencia": "Mover al Portapapeles",
+            "novo": "Novo",
+            "sugerir-proxima": "Sugerir Siguiente",
+            "sugerir-tripulante": "Sugerir Conductor"
+          }
+        }
+      },
+      "coordenacao-grupo": {
+        "edit": {
+          "add-message": "Grupo de Escala %{identifier} registrada con éxito",
+          "dados-gerais": "Datos Generales",
+          "delete-message": "Grupo de Escala %{identifier} borrada con éxito",
+          "edit-message": "Grupo de Escala %{identifier} actualizada con éxito",
+          "editando": "Actualizando Grupo de Escala",
+          "novo": "Nuevo Grupo de Escala",
+          "regras": "Reglas",
+          "servicos": "Servicios",
+          "tripulantes": "Tripulación"
+        },
+        "form": {
+          "balancear-adicional-noturno": "Saldo Noche Adicional",
+          "balancear-horas-extras": "Saldo las Horas Extras",
+          "balancear-horas-trabalhadas": "Saldo de Horas Trabajadas",
+          "codigo": "Código",
+          "completar-expediente": "Completo Conveniente",
+          "consulta-escala-liberada-ate": "Consulta Liberada Hasta",
+          "descricao": "Descripción",
+          "empresa": "Compañia",
+          "escalar-apos-plantao": "Subir Después Del Deber",
+          "final-otimizacao": "Fin de la Optimización",
+          "inicio-otimizacao": "Inicio de la Optimización",
+          "inter-jornada-minimo": "Inter Jornada - Mínimo",
+          "observacao": "Comentario",
+          "observar-folgas-sabado-domingo": "Descansos Sábado/Domingo",
+          "parametros": "Parámetros",
+          "verificar-folgas": "Ver Descansos",
+          "verificar-hora-extra": "Ver Horas Extras",
+          "verificar-turno": "Ver El Turno/Turismo Del Conductor",
+          "verificar-viagens-noturnas": "Ver Viajes nocturnos"
+        },
+        "list": {
+          "actions": {
+            "visualizar": "Ver"
+          },
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "empresa": "Empresa",
+            "observacao": "Nota",
+            "otimizacoes": "Optimizaciones"
+          },
+          "novo": "Nuevo Grupo de Escala",
+          "title": "Grupos de Escala"
+        },
+        "painel": {
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "detalhes": "Detalles",
+          "empresa": "Compañia",
+          "geral": {
+            "balancear-adicional-noturno": "Saldo Noche Adicional",
+            "balancear-horas-extras": "Saldo las Horas Extras",
+            "balancear-horas-trabalhadas": "Saldo de Horas Trabajadas",
+            "completar-expediente": "Completo Conveniente",
+            "consulta-escala-liberada-ate": "Consulta Liberada Hasta",
+            "escalar-apos-plantao": "Subir Después Del Deber",
+            "inter-jornada-minimo": "Inter Jornada - Mínimo",
+            "observar-folgas-sabado-domingo": "Descansos Sábado/Domingo",
+            "verificar-folgas": "Ver Descansos",
+            "verificar-hora-extra": "Ver Horas Extras",
+            "verificar-turno": "Ver El Turno/Turismo Del Conductor",
+            "verificar-viagens-noturnas": "Ver Viajes Nocturnos"
+          },
+          "nova-otimizacao": "Nueva Optimización",
+          "novo": "Nuevo Grupo",
+          "observacoes": "Comentarios",
+          "otimizacoes": "Optimizaciones de Tripulación",
+          "sem-requisitos": "Grupo sin servicios y/o tripulación",
+          "servicos": "Servicios",
+          "tab": {
+            "geral": "General",
+            "regras": "Reglas",
+            "servicos": "Servicios",
+            "tripulantes": "Miembro de la Tripulación"
+          },
+          "title": "Grupo de Escala",
+          "tripulantes": "Tripulación"
+        }
+      },
+      "coordenacao-grupo-regra": {
+        "form": {
+          "columns": {
+            "codigo": "Código",
+            "frequencia": "Frecuencia",
+            "servico-anterior": "Servicio Anterior",
+            "servico-posterior": "Servicio Posterior"
+          },
+          "erro-frequencia": "Las frecuencias deben tener el mismo número de días",
+          "novo": "Nueva Regla"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "frequencia": "Frecuencia",
+            "servico-anterior": "Servicio Anterior",
+            "servico-posterior": "Servicio Posterior"
+          }
+        }
+      },
+      "coordenacao-grupo-servico": {
+        "form": {
+          "cargo": "Cargo",
+          "editando": "Actualizando Servicio",
+          "empresa": "Compañía",
+          "filtro": {
+            "cargo": "Cargo",
+            "codigo": "Servicio",
+            "destino": "Destino",
+            "frequencia": "Frecuencia",
+            "horario": "Hora",
+            "origem": "Origen"
+          },
+          "frequencia": "Frecuencia",
+          "local-origem": "Lugar de Origen",
+          "localizar": "Localizar",
+          "novo": "Nuevo Servicio",
+          "servico": "Servicio",
+          "tripulante-preferencial": "Membro de la Tripulación Preferida"
+        },
+        "list": {
+          "columns": {
+            "cargo": "Cargo",
+            "empresa": "Compañía",
+            "frequencia": "Frecuencia",
+            "local-origem": "Lugar de Origen",
+            "servico": "Servicio",
+            "tripulante-preferencial": "Membro de la Tripulación Preferido"
+          }
+        },
+        "servico-list": {
+          "adicionar": "Adicionar",
+          "columns": {
+            "cargo": "Cargo",
+            "codigo": "Código",
+            "destino": "Destino",
+            "frequencia": "Frecuencia",
+            "frequencia-servico": "Frecuencia do Servicio",
+            "hora-final": "Hora de Llegada",
+            "hora-inicio": "Hora de Salida",
+            "linha": "Linha",
+            "origem": "Origen",
+            "tripulante-preferencial": "Membro de la Tripulación Preferido"
+          },
+          "filtro": {
+            "cargo": "Cargo",
+            "codigo": "Código",
+            "destino": "Destino",
+            "frequencia": "Frecuencia",
+            "horario": "Hora",
+            "origem": "Origen"
+          },
+          "selecionar": "Seleccione",
+          "title": "Localizar Servicios"
+        }
+      },
+      "coordenacao-grupo-tripulante": {
+        "form": {
+          "base-provisoria": "Base Provisional",
+          "editando": "Actualizando Miembro de la Tripulación",
+          "frequencia": "Frecuencia",
+          "novo": "Nuevo Miembro de la Tripulación",
+          "tripulante": "Miembro de la Tripulación",
+          "turno-preferencial": "Turno Preferido"
+        },
+        "list": {
+          "columns": {
+            "base-provisoria": "Base Provisional",
+            "frequencia": "Frecuencia",
+            "tripulante": "Miembro de la Tripulación",
+            "turno-preferencial": "Turno Preferido"
+          }
+        }
+      },
+      "coordenacao-servico": {
+        "edit": {
+          "dados-gerais": "Datos Generales",
+          "operacao": "Operación",
+          "secoes": "Secciones",
+          "servico-excluido": "Servicio Eliminado.",
+          "servico-salvo": "Servicio Guardado",
+          "title": "Editar Servicio %{codigo}",
+          "title-novo": "Servicio Nuevo",
+          "tripulante": "Tripulación"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Servicio",
+            "descricao": "Descripción",
+            "empresa": "Empresa",
+            "final": "Fecha y Hora de Finalización",
+            "frequencia": "Frecuencia",
+            "frota": "Flota",
+            "inicio": "Fecha y Hora de Inicio",
+            "linha": "Línea",
+            "observacao-tripulante": "Notas para la Tripulación",
+            "observacao-viagem": "Notas de Viajes",
+            "tipo-servico": "Tipo de Servicio",
+            "veiculo": "Vehículo"
+          },
+          "intervalos": {
+            "final-intervalo": "Fin del Descanso",
+            "inicio-intervalo": "Inicio del Intervalo",
+            "novo": "Intervalo Nuevo",
+            "ordem": "Orden"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Liberación de la Op. de Desplazamiento",
+            "deslocamento-operacional-recolhimento": "Recogida de Op. de Desplazamiento",
+            "help-tempo": "Ingrese la hora en formato horas:minutos",
+            "local-liberacao": "Lugar de Liberación",
+            "local-recolhimento": "Lugar de Recogida",
+            "tempo-desembarque": "Tiempo de aterrizaje",
+            "tempo-embarque": "Tiempo de Abordar",
+            "tempo-preparo": "Tiempo de Preparación"
+          },
+          "secoes": {
+            "chegada": "Llegada",
+            "dias-chegada": "Días después de la Llegada",
+            "dias-partida": "Días después de la Partido",
+            "editando": "Sección de Edición",
+            "help-plataforma": "Caja de la estación de autobuses",
+            "hora-chegada": "Hora da Llegada",
+            "hora-partida": "Hora da Partido",
+            "local-destino": "Lugar de Destino",
+            "local-origem": "Lugar de Origen",
+            "novo": "Nueva Sección",
+            "ordem": "Orden",
+            "partida": "Partido",
+            "plataforma": "Plataforma"
+          },
+          "tripulantes": {
+            "cargo": "Cargo",
+            "chegada": "Llegada",
+            "dados-gerais": "Datos Generales",
+            "editando": "Edición de Tripulación",
+            "frequencia": "Frecuencia",
+            "funcao": "Ocupación",
+            "help-tempo": "Ingrese la hora en formato horas:minutos",
+            "hora-chegada": "Hora da Llegada",
+            "hora-partida": "Hora da Partido",
+            "intervalos": "Intervalos",
+            "jornada-unica": "Viaje Único",
+            "local-destino": "Lugar de Destino",
+            "local-origem": "Lugar de Origen",
+            "novo": "Tripulación Nueva",
+            "observacao-patio": "Nota al Patio",
+            "observacao-tripulante": "Notas para la Tripulación",
+            "partida": "Partido",
+            "revezar-motorista": "Revezar Motorista",
+            "revezar-tripulante": "Revezar Tripulación",
+            "tempo-apresentacao": "Tiempo de Presentación",
+            "tempo-saida": "Tempo de Salida",
+            "tripulante": "Tripulación"
+          }
+        }
+      },
+      "distancia": {
+        "edit": {
+          "add-message": "Distancia %{identifier} registrada con éxito",
+          "delete-message": "Distancia %{identifier} borrada con éxito",
+          "edit-message": "Distancia %{identifier} actualizada con éxito",
+          "editando": "Actualizando Distancia",
+          "novo": "Nueva Distancia"
+        },
+        "form": {
+          "destino": "Destino",
+          "origem": "Origen",
+          "quilometragem": "Kilometraje",
+          "rota": "Ruta"
+        },
+        "list": {
+          "columns": {
+            "destino": "Destino",
+            "origem": "Origen",
+            "quilometragem": "Kilometraje",
+            "rota": "Ruta"
+          },
+          "novo": "Nueva Distancia",
+          "title": "Distancias"
+        }
+      },
+      "documento": {
+        "form": {
+          "codigo": "Código",
+          "complemento": "Complemento/Categoría",
+          "custo": "Costo",
+          "descricao": "Descripción",
+          "emissor": "Emisor",
+          "numero": "Numero",
+          "orgao-regulador": "Ente Regulador",
+          "tipo-documento": "Tipo de Documento"
+        },
+        "list": {
+          "documentos-empty": "No hay documentos"
+        }
+      },
+      "email": {
+        "verify": {
+          "email-verificado": "Su email ha sido verificado",
+          "erros-encontrados": "Se encontraron errores al intentar verificar su email",
+          "pode-fechar": "Ahora puede cerrar esta pantalla o hacer clic en el botón de abajo para pasar al sistema",
+          "prosseguir-ao-sistema": "Proceder al sistema",
+          "relogar": "Puede continuar con el sistema y solicitar un nuevo email de verificación"
+        }
+      },
+      "empresa": {
+        "contrato-form": {
+          "numero": "Numero"
+        },
+        "edit": {
+          "add-message": "Compañia %{identifier} registrada con éxito",
+          "contratos": "Contratos",
+          "delete-message": "Compañia %{identifier} borrada con éxito",
+          "edit-message": "Compañia %{identifier} actualizada con éxito",
+          "editando": "Actualizando Compañia",
+          "novo": "Nueva Compañia",
+          "principal": "Principal"
+        },
+        "form": {
+          "bairro": "Barrio",
+          "cep": "CEP",
+          "cidade": "Ciudad",
+          "cnpj": "CNPJ",
+          "codigo": "Código",
+          "contratos": {
+            "novo": "Nuevo contrato"
+          },
+          "dia-semana-inicio": "Día Inicio de la semana",
+          "e-mail": "Email",
+          "endereco": "Dirección",
+          "filial": "Subsidiaria",
+          "inscricao-estadual": "Inscripción Estadual",
+          "logo": "Logo",
+          "matriz": "Matriz",
+          "nome": "Nombre",
+          "otimizacao": "Optimización",
+          "principal": "Principal",
+          "sindicato": "Sindicato",
+          "telefone": "Teléfono",
+          "terceirizada": "Subcontratada",
+          "vigencia": "Validez"
+        },
+        "list": {
+          "columns": {
+            "cidade": "Ciudad",
+            "cnpj": "CNPJ",
+            "codigo": "Código",
+            "nome": "Nombre",
+            "telefone": "Teléfono"
+          },
+          "novo": "Nueva Compañia",
+          "title": "Compañías"
+        }
+      },
+      "entity": {
+        "export": {
+          "cancel-export": "Cancelar",
+          "confirm-export": "Exportar",
+          "error-export": "No pudimos completar su solicitud",
+          "explanation": "Después de confirmar la solicitud para exportar los registros, puede continuar usando el sistema con normalidad. Se le notificará cuando el archivo esté disponible.",
+          "success-export": "Su solicitud ha sido recibida con éxito. Se le notificará cuando se complete la exportación.",
+          "title": "Exportar %{entity}"
+        },
+        "import": {
+          "cancel-import": "Cancelar",
+          "confirm-import": "Importar",
+          "success-import": "Su solicitud ha sido recibida con éxito. Se le notificará cuando se complete la importación.",
+          "title": "Importar %{entity}"
+        }
+      },
+      "exportacao": {
+        "list": {
+          "columns": {
+            "data": "Fecha",
+            "entidade": "Entidad",
+            "registros": "Cuantidad de Registros",
+            "status": "Status",
+            "tamanho": "Tamaño",
+            "usuario": "Importado Por"
+          }
+        }
+      },
+      "feriado": {
+        "edit": {
+          "add-message": "Vacaciones %{identifier} registradas con éxito",
+          "dados-gerais": "Datos generales",
+          "delete-message": "Vacaciones %{identifier} borradas con éxito",
+          "edit-message": "Vacaciones %{identifier} actualizadas con éxito",
+          "editando": "Actualizando Vacaciones",
+          "empresas": "Compañías",
+          "novo": "Nuevas Vacaciones"
+        },
+        "form": {
+          "data": "Fecha",
+          "descricao": "Descripción",
+          "marcar-desmarcar-todos": "Marcar/Desmarcar todas"
+        },
+        "list": {
+          "columns": {
+            "data": "Fecha",
+            "descricao": "Descripción"
+          },
+          "novo": "Nuevas Vacaciones",
+          "title": "Vacaciones"
+        }
+      },
+      "fornecedor": {
+        "edit": {
+          "add-message": "Proveedor %{identifier} registrado con éxito",
+          "delete-message": "Proveedor %{identifier} borrado con éxito",
+          "edit-message": "Proveedor %{identifier} actualizado con éxito",
+          "editando": "Actualizando Proveedor",
+          "novo": "Nuevo Proveedor"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nuevo Proveedor",
+          "title": "Proveedores"
+        }
+      },
+      "frota": {
+        "edit": {
+          "add-message": "Flota %{identifier} registrada con éxito",
+          "delete-message": "Flota %{identifier} borrada con éxito",
+          "edit-message": "Flota %{identifier} actualizada con éxito",
+          "editando": "Actualizando Flota",
+          "novo": "Nueva Flota"
+        },
+        "form": {
+          "autonomia": "Autonomía",
+          "capacidade-passageiros": "Capacidad de Pasajeros",
+          "classe-frota": "Clase de Flota",
+          "codigo": "Código",
+          "cor": "Color",
+          "custo": "Costo",
+          "descricao": "Descripción",
+          "eixos": "Ejes",
+          "empresa-terceirizada": "Compañia Terceirizada",
+          "frota-terceirizada": "Flota Tercerizada",
+          "ordem": "Orden"
+        },
+        "list": {
+          "columns": {
+            "capacidade-passageiros": "Capacidad de Pasajeros",
+            "classe-frota": "Clase de Flota",
+            "codigo": "Código",
+            "cor": "Color",
+            "descricao": "Descripción",
+            "empresa-terceirizada": "Compañia Terceirizada"
+          },
+          "novo": "Nueva Flota",
+          "title": "Flotas"
+        }
+      },
+      "funcao": {
+        "edit": {
+          "add-message": "Ocupación %{identifier} registrada con éxito",
+          "delete-message": "Ocupación %{identifier} borrada con éxito",
+          "edit-message": "Ocupación %{identifier} actualizada con éxito",
+          "editando": "Actualizando Ocupación",
+          "novo": "Nueva Ocupación"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descricao"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nueva Ocupación",
+          "title": "Ocupaciónes"
+        }
+      },
+      "grupo-usuario": {
+        "edit": {
+          "add-message": "Grupo de Usuarios registrado con éxito",
+          "dados-gerais": "Dados Generales",
+          "delete-message": "Grupo de Usuarios borrado con éxito",
+          "edit-message": "Grupo de Usuarios actualizado con éxito",
+          "editando": "Actualizando Grupo de Usuarios",
+          "novo": "Nuevo Grupo de Usuarios",
+          "permissoes": "Permisos"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "permissoes": {
+            "admin/api": "API",
+            "admin/conta": "Cuenta",
+            "admin/empresas": "Compañías",
+            "admin/exportacoes": "Exportaciones",
+            "admin/grupos-usuario": "Grupos de Usuario",
+            "admin/importacoes": "Importaciones",
+            "admin/otimizacoes": "Optimizaciones",
+            "admin/relatorios": "Informes",
+            "admin/usuarios": "Usuario",
+            "configuracoes/acessorios-veiculares": "Accesorio del Vehículo",
+            "configuracoes/agrupadores": "Agrupadores",
+            "configuracoes/cargos": "Cargos",
+            "configuracoes/carrocerias": "Carrocería",
+            "configuracoes/chassis": "Chasis",
+            "configuracoes/classes-frotas": "Classes de Flotas",
+            "configuracoes/classes-linhas": "Clases de Líneas",
+            "configuracoes/coordenacoes-grupos": "Grupos de Escala",
+            "configuracoes/distancias": "Distancias",
+            "configuracoes/feriados": "Vacaciones",
+            "configuracoes/fornecedores": "Proveedores",
+            "configuracoes/frotas": "Flotas",
+            "configuracoes/funcoes": "Ocupaciónes",
+            "configuracoes/justificativas-cartao-ponto": "Justificaciones Tarjeta Ponto",
+            "configuracoes/locais": "Localizaciónes",
+            "configuracoes/motivos-troca-escala": "Razones para el Cambio de Báscula",
+            "configuracoes/orgaos-reguladores": "Entes Reguladores",
+            "configuracoes/rotas": "Rutas",
+            "configuracoes/sindicatos": "Sindicatos",
+            "configuracoes/tempos-apresentacao-encerramento": "Tiempo de Presentación/Cierre",
+            "configuracoes/tempos-parada": "Tiempo de Parada",
+            "configuracoes/tempos-preparo": "Tiempo de Preparación",
+            "configuracoes/tipo-locais": "Tipos de Localización",
+            "configuracoes/tipo-ocorrencias-tripulacao": "Tipos de Ocurrencias",
+            "configuracoes/tipos-documento": "Tipos de Documentos",
+            "configuracoes/tipos-linhas": "Tipos de Línes",
+            "configuracoes/tipos-servicos": "Tipos de Servicios",
+            "configuracoes/tipos-treinamentos": "Tipos de Entrenamiento",
+            "coordenacoes": "Coordinación",
+            "coordenacoes/frotas": "Coordinación Flota",
+            "coordenacoes/tripulantes": "Coordinación Tripulación",
+            "funcionarios": "Empleados",
+            "linhas": "Líneas",
+            "marcar-desmarcar-todos": "Marcar/Desmarcar todas",
+            "planejamentos": "Planificación",
+            "trafegos": "Liberación",
+            "veiculos": "Vehículos"
+          }
+        },
+        "list": {
+          "columns": {
+            "descricao": "Descripción",
+            "padrao": "Patrón"
+          },
+          "novo": "Nuevo Grupo de Usuarios",
+          "title": "Grupos de Usuarios"
+        }
+      },
+      "importacao": {
+        "list": {
+          "columns": {
+            "data": "Importado en",
+            "entidade": "Entidad",
+            "registros": "Cuantidad de Registros",
+            "registros-importados": "Registros Importados",
+            "status": "Status",
+            "usuario": "Importado Por"
+          }
+        }
+      },
+      "intervalo": {
+        "form": {
+          "final-intervalo": "Fin del Intervalo",
+          "inicio-intervalo": "Inicio del intervalo",
+          "novo": "Nuevo Intervalo",
+          "ordem": "Orden"
+        }
+      },
+      "justificativa-cartao-ponto": {
+        "edit": {
+          "add-message": "Tarjeta Ponto de justificación %{identifier} cadastrado com sucesso",
+          "delete-message": "Tarjeta Ponto de justificación %{identifier} excluído com sucesso",
+          "edit-message": "Tarjeta Ponto de justificación %{identifier} atualizado com sucesso",
+          "editando": "Edición de Tarjeta Ponto de justificación ",
+          "novo": "Tarjeta Ponto de justificación Nueva"
+        },
+        "form": {
+          "descricao": "Descripción",
+          "grupo": "Grupo",
+          "justificativa": "Justificación",
+          "justificativa-cartao-ponto-pai": "Grupo",
+          "tipo": "Tipo"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Descripción",
+            "justificativa-cartao-ponto-pai": "Grupo",
+            "tipo": "Tipo"
+          },
+          "grupo": "Grupo",
+          "justificativa": "Justificación",
+          "novo": "Justificación Nueva",
+          "title": "Justificaciones Tarjeta Ponto"
+        }
+      },
+      "linha": {
+        "edit": {
+          "add-message": "Línea %{identifier} registrada con éxito",
+          "delete-message": "Línea %{identifier} borrada con éxito",
+          "edit-message": "Línea %{identifier} actualizada con éxito",
+          "editando": "Actualizando Línea",
+          "novo": "Nueva Línea"
+        },
+        "form": {
+          "agrupadores": "Agrupadores",
+          "classe-linha": "Clase de Línea",
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "empresa": "Compañia",
+          "frota-basica": "Flota Básica",
+          "permite-dobra": "Permite doblez",
+          "prefixo": "Prefijo",
+          "tipo-linha": "Tipo de Línea"
+        },
+        "list": {
+          "columns": {
+            "classe-linha": "Clase de Línea",
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "empresa": "Compañia",
+            "frota-basica": "Flota Básica",
+            "permite-dobra": "Permite doblez",
+            "prefixo": "Prefijo",
+            "tipo-linha": "Tipo de Línea"
+          },
+          "novo": "Nueva Línea",
+          "title": "Líneas"
+        }
+      },
+      "local": {
+        "edit": {
+          "add-message": "Localización %{identifier} registrada con éxito",
+          "delete-message": "Localización %{identifier} borrada con éxito",
+          "edit-message": "Localización %{identifier} actualizada con éxito",
+          "editando": "Actualizando Localización",
+          "novo": "Nueva Localización"
+        },
+        "form": {
+          "base-operacional": "Base Operacional",
+          "base-operacional-vinculada": "Base Operacional Vinculada",
+          "cidade": "Ciudad",
+          "codigo": "Código",
+          "criterio-gestao": "Criterios de Gestión",
+          "latitude": "Latitud",
+          "longitude": "Longitud",
+          "nome": "Nombre",
+          "tipo-local": "Tipo de Localización"
+        },
+        "list": {
+          "columns": {
+            "base-operacional": "Base Operacional",
+            "base-operacional-vinculada": "Base Operacional Vinculada",
+            "cidade": "Ciudad",
+            "codigo": "Código",
+            "criterio-gestao": "Criterios de Gestión",
+            "nome": "Nombre",
+            "tipo-local": "Tipo de Localización"
+          },
+          "nao": "No",
+          "novo": "Nueva Localización",
+          "sim": "Si",
+          "title": "Localizaciónes"
+        }
+      },
+      "login": {
+        "form": {
+          "conta": "Compañía",
+          "esqueceu-senha": "¿Olvidó su contraseña?",
+          "senha": "Contraseña",
+          "usuario": "Usuario"
+        },
+        "recuperacao-senha": {
+          "alteracao": {
+            "button": "Redefinir Contraseña",
+            "erro": "Ocurrio un error",
+            "sucesso": "Tu contraseña ha sido cambiada"
+          },
+          "form": {
+            "confirma-senha": "Confirmación de contraseña",
+            "conta": "Compañía",
+            "email": "Email",
+            "erro-confirma-senha": "Las contraseñas no coinciden",
+            "senha": "Contraseña"
+          },
+          "requisicao": {
+            "button": "Redefinir Contraseña"
+          }
+        },
+        "signin": {
+          "button": "Iniciar sesión",
+          "cadastre-se": "Registrarse",
+          "sem-conta": "¿Aún no tienes una cuenta?"
+        }
+      },
+      "motivo-troca-escala": {
+        "edit": {
+          "add-message": "Motivo para Troca de Escala %{identifier} registrada con éxito",
+          "delete-message": "Motivo para Troca de Escala %{identifier} borrada con éxito",
+          "edit-message": "Motivo para Troca de Escala %{identifier} actualizada con éxito",
+          "editando": "Actualizando Motivo para Troca de Escala ",
+          "novo": "Nuevo Motivo para Troca de Escala "
+        },
+        "form": {
+          "descricao": "Descripción",
+          "motivo": "Motivo",
+          "motivo-troca-escala-pai": "Motivo Pai",
+          "submotivo": "Submotivo",
+          "tipo": "Tipo"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Descripción",
+            "motivo": "Motivo",
+            "motivo-troca-escala-pai": "Motivo Pai",
+            "submotivo": "Submotivo",
+            "tipo": "Tipo"
+          },
+          "motivo": "Razón",
+          "novo": "Nuevo Motivo",
+          "submotivo": "Submotiva",
+          "title": "Motivos para Troca de Escala"
+        }
+      },
+      "ocorrencia-tripulacao": {
+        "edit": {
+          "add-message": "Ocurrencia %{identifier} registrada con éxito",
+          "delete-message": "Ocurrencia %{identifier} borrada con éxito",
+          "edit-message": "Ocurrencia %{identifier} actualizada con éxito",
+          "editando": "Actualizando Ocurrencia",
+          "novo": "Nueva Ocurrencia"
+        },
+        "form": {
+          "editando": "Edición de Ocurrencia",
+          "fim": "Fin",
+          "inicio": "Comienzo",
+          "novo": "Nueva Ocurrencia",
+          "tipo-ocorrencia-tripulacao": "Tipo de Ocurrencia"
+        },
+        "list": {
+          "columns": {
+            "criado-em": "Fecha",
+            "criado-por": "Usuario",
+            "fim": "Fin",
+            "inicio": "Comienzo",
+            "tipo-ocorrencia-tripulacao": "Tipo de Ocurrencia"
+          },
+          "novo": "Nueva Ocurrencia",
+          "title": "Ocurrencias de la Tripulación"
+        }
+      },
+      "orgao-regulador": {
+        "edit": {
+          "add-message": "Ente Regulador %{identifier} registrado con éxito",
+          "delete-message": "Ente Regulador %{identifier} borrado con éxito",
+          "edit-message": "Ente Regulador %{identifier} actualizado con éxito",
+          "editando": "Actualizando Ente Regulador",
+          "novo": "Nuevo Ente Regulador"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nuevo Ente Regulador",
+          "title": "Entes Reguladores"
+        }
+      },
+      "otimizacao": {
+        "compare": {
+          "columns": {
+            "fim": "Fin",
+            "inicio": "Inicio",
+            "limitacao-frota": "Limitación de Flota",
+            "otimizacao": "Optimización",
+            "parametros": "Parámetros",
+            "reducao-tp": "Reducción T.P",
+            "tipo": "Tipo",
+            "viagem-vazia": "Viaje Vacío"
+          },
+          "limite-frota": "%{smart_count} vehículo/flota |||| %{smart_count} vehículos/flota",
+          "max-minutos": "Máx. %{smart_count} min |||| Máx. %{smart_count} mins",
+          "max-trecho": "Máx. %{smart_count} tramo |||| Máx. %{smart_count} tramos",
+          "title": "Comparación de Optimizaciones de Flota"
+        },
+        "coordenacao-grupo": {
+          "edit": {
+            "add-message": "Optimización de Grupos de Escala %{identifier} registrado exitosamente",
+            "delete-message": "Optimización de Grupos de Escala %{identifier} eliminado con éxito",
+            "edit-message": "Optimización de Grupos de Escala %{identifier} actualizado con éxito",
+            "editando": "Edición de Optimización de Grupos de Escala",
+            "novo": "Nueva Optimización de Grupos de Escala",
+            "otimizar": "Optimizar"
+          },
+          "list": {
+            "actions": {
+              "auditor": "Auditor",
+              "excluir": "Eliminar",
+              "visualizar": "Ver"
+            },
+            "columns": {
+              "criado-em": "Fecha",
+              "criado-por": "Usuario",
+              "descricao": "Descripción",
+              "final-otimizacao": "Fin",
+              "inicio-otimizacao": "Inicio",
+              "status": "Estado"
+            }
+          }
+        },
+        "edit": {
+          "add-message": "Optimización %{identifier} registrada con éxito",
+          "delete-message": "Optimización %{identifier} borrada con éxito",
+          "edit-message": "Optimización %{identifier} actualizada con éxito",
+          "editando": "Actualizando Optimización de Frota",
+          "novo": "Nueva Optimización de Frota",
+          "otimizar": "Optimizar"
+        },
+        "envio": {
+          "enviadas": {
+            "columns": {
+              "acoes": "Acción",
+              "criado-em": "Fecha",
+              "criado-por": "Usuario",
+              "final": "Fecha Fin",
+              "inicio": "Fecha Inicial",
+              "otimizacao-tripulacao": "Optimización de la Tripulación"
+            },
+            "excluir": "Eliminar",
+            "mensagens": {
+              "title": "Errores de Validación"
+            },
+            "title": "Optimización Enviada"
+          },
+          "parametros": {
+            "columns": {
+              "criado-em": "Fecha",
+              "criado-por": "Usuario",
+              "descricao": "Descripción",
+              "final-otimizacao": "Fin",
+              "inicio-otimizacao": "Inicio",
+              "status": "Estado"
+            },
+            "enviar": "Enviar",
+            "mensagens": {
+              "title": "Errores de Validación"
+            },
+            "otimizacoes": {
+              "title": "Optimización de Tripulación"
+            },
+            "periodo": "Período",
+            "title": "Parámetros",
+            "validar": "Validar"
+          },
+          "title": "Enviar Optimización para Coordinación - %{descricao} - %{inicioOtimizacao} a %{finalOtimizacao}"
+        },
+        "filtro-compare-frota": {
+          "title": "Filtro de Comparación de Flotas"
+        },
+        "filtro-compare-tripulante": {
+          "title": "Filtro de Comparación de Tripulación"
+        },
+        "form": {
+          "ciclico": "Ciclico",
+          "combinatoria": "Combinacional?",
+          "dados-gerais": "Datos Generales",
+          "data": "De",
+          "descricao": "Descripción",
+          "deslocamento": "Desplazamiento",
+          "dia-semana-inicio": "Día de Inicio",
+          "frotas": {
+            "columns": {
+              "frota": "Flota",
+              "quantidade": "Cantidad"
+            },
+            "title": "Seleccionar Flotas"
+          },
+          "garagens": {
+            "columns": {
+              "garagem": "Garaje",
+              "max-minutos": "Minutos"
+            },
+            "title": "Seleccionar Garajes"
+          },
+          "limitacao-frota": "Limitación de Flota",
+          "max-combinacoes": "Máximo",
+          "max-minutos": "Máximo en minutos",
+          "maximo-por-frota": "Máximo",
+          "minutos": "Minutos",
+          "num-semanas": "No. semanas",
+          "observacoes": "Comentarios",
+          "padrao": "Estándar",
+          "periodo": "Período",
+          "premissas": "Supuestos",
+          "reducao-tp": "Reducción de T.P.",
+          "selecionar": "Seleccione",
+          "tipo": "Tipo",
+          "tipos-servico": {
+            "columns": {
+              "minutos": "Minutos",
+              "servico": "Tipo de Servicio"
+            },
+            "title": "Seleccionar Tipos de Servicio"
+          },
+          "viagem-vazia": "Viaje Vacío"
+        },
+        "list": {
+          "actions": {
+            "comparar": "Comparar",
+            "editar": "Editar",
+            "enviar-coordenacao": "Enviar a Coordinación",
+            "excluir": "Eliminar",
+            "otimizacao": "Nueva Optimización de Tripulación",
+            "resumo": "Resumen",
+            "visualizar": "Ver"
+          },
+          "columns": {
+            "criado-em": "Fecha",
+            "criado-por": "Usuario",
+            "descricao": "Descripción",
+            "final-otimizacao": "Fin Optimización",
+            "inicio-otimizacao": "Comienzo Optimización",
+            "status": "Status"
+          },
+          "novo": "Nueva Optimización de Flota",
+          "title": "Optimizaciones de Flota"
+        },
+        "motorista": {
+          "edit": {
+            "add-message": "Optimización de Tripulación %{identifier} registrada con éxito",
+            "delete-message": "Optimización de Tripulación %{identifier} borrada con éxito",
+            "edit-message": "Optimización de Tripulación %{identifier} actualizada con éxito",
+            "editando": "Actualizando Optimización de Tripulación",
+            "novo": "Nueva Optimización de Tripulación",
+            "otimizar": "Optimizar"
+          },
+          "envio": {
+            "enviadas": {
+              "columns": {
+                "acoes": "Acciones",
+                "final": "Fecha de Final",
+                "inicio": "Fecha de Inicio",
+                "otimizacao-tripulacao": "Optimización de Tripulación"
+              },
+              "excluir": "Eliminar",
+              "mensagens": {
+                "title": "Errores de Validación"
+              },
+              "title": "Optimizaciones Enviadas"
+            },
+            "parametros": {
+              "columns": {
+                "criado-em": "Fecha",
+                "criado-por": "Usuario",
+                "descricao": "Descripción",
+                "final-otimizacao": "Final Optimización",
+                "inicio-otimizacao": "Inicio Optimización",
+                "status": "Status"
+              },
+              "enviar": "Enviar",
+              "mensagens": {
+                "title": "Errores de Validación"
+              },
+              "otimizacoes": {
+                "title": "Optimizaciones de Tripulación"
+              },
+              "periodo": "Período",
+              "title": "Parámetros",
+              "validar": "Validar"
+            },
+            "title": "Enviar Optimización para Coordinación - %{descricao} - %{inicioOtimizacao} a %{finalOtimizacao}"
+          },
+          "form": {
+            "descricao": "Descripción",
+            "final-otimizacao": "Final Optimización",
+            "inicio-otimizacao": "Inicio Optimización",
+            "maximo-interjornada": "Debe ser menor o igual a 20 horas",
+            "maximo-jornada": "Debe ser menor o igual a 15 horas",
+            "minimo-interjornada": "Debe ser mayor o igual a 8 horas",
+            "minimo-jornada": "Debe ser mayor o igual a 6 horas.",
+            "observacoes": "Notas",
+            "parametros": {
+              "helpers": {
+                "horas-interjornada": "Valor Mínimo 8:00h e Máximo 20:00h",
+                "horas-jornada": "Informar horas y minutos de inter jornada en formato \"HH:mm\""
+              },
+              "horas-jornada": "Horas da Jornada",
+              "inter-jornada": "Inter Jornada",
+              "limite-horas-extra": "Límite de Horas Extra",
+              "limite-maximo-intervalo": "Límite Máx. Intervalo",
+              "limite-minimo-intervalo": "Límite Mín. Intervalo",
+              "numero-motoristas-limite": "Límite de Conductores",
+              "title": "Parámetros"
+            }
+          },
+          "list": {
+            "actions": {
+              "editar": "Editar",
+              "excluir": "Eliminar",
+              "resumo": "Resumen",
+              "visualizar": "Ver"
+            },
+            "columns": {
+              "criado-em": "Data",
+              "criado-por": "Usuario",
+              "descricao": "Descripción",
+              "final-otimizacao": "Final Optimización",
+              "inicio-otimizacao": "Inicio Optimización",
+              "status": "Status"
+            },
+            "novo": "Nueva Optimización de Tripulación",
+            "title": "Optimizaciones de Tripulación"
+          },
+          "resumo": {
+            "mensagens": {
+              "title": "Publicaciones"
+            },
+            "motoristas-dia": {
+              "title": "Tripulación por Cargo/Día"
+            },
+            "parametros": {
+              "helpers": {
+                "horas-jornada": "Horas y minutos de Inter Jornada"
+              },
+              "horas-jornada": "Horas de Jornada",
+              "inter-jornada": "Inter Jornada",
+              "limite-horas-extra": "Límite de horas extras",
+              "limite-maximo-intervalo": "Límite Máx. Intervalo",
+              "limite-minimo-intervalo": "LÍmite Mín. Intervalo",
+              "numero-motoristas-limite": "Límite de Conductores",
+              "title": "Parámetros"
+            },
+            "resumo": {
+              "adicional-noturno": "Saldo Noche Adicional",
+              "custo-motoristas": "Costo de los Conductores",
+              "folgas-total": "Total Días Libres",
+              "horas-disponiveis-motoristas": "Horas Disponibles Conductores",
+              "horas-extras": "Horas Extras",
+              "horas-jornada": "Horas da Jornada",
+              "horas-trabalhadas": "Horas Trabajadas",
+              "km-percorridos": "Km Viajados",
+              "media-horas-trabalhadas": "Promedio de Horas Trabajadas",
+              "numero-motoristas": "Nº de Conductores",
+              "repousos-remunerados": "Descansos Pagados",
+              "tempo-em-viagem": "Tiempo Total de Viaje",
+              "title": "Resumen",
+              "viagens-periodo": "Viajes en el Período",
+              "viagens-sem-tripulante": "Viajes no Tripulados"
+            },
+            "title": "Resumen de la Optimización - %{descricao}",
+            "title-simples": "Optimización de la Tripulación Resumida"
+          }
+        },
+        "resumo": {
+          "frotas-dia": {
+            "title": "Vehículos por Flota/Día"
+          },
+          "mensagens": {
+            "title": "Publicaciones"
+          },
+          "parametros": {
+            "ciclica": "Cíclico",
+            "deslocamento": "Desplazamiento",
+            "deslocamento-list": {
+              "limite": "Límite",
+              "tipo-servico": "Tipo de Servicio"
+            },
+            "limitacao-frota": "Limitación de Flota",
+            "limitacao-frotas": {
+              "frota": "Flota",
+              "limite": "Límite"
+            },
+            "nao": "No",
+            "periodo": "Período",
+            "reducao-tempo-preparo": "Reducción no T.P.",
+            "reducao-tp": {
+              "garagem": "Garaje",
+              "limite": "Límite"
+            },
+            "sim": "Si",
+            "tipo": "Tipo",
+            "title": "Parámetros",
+            "viagem-vazia": "Viaje Vacío"
+          },
+          "resumo": {
+            "frota": "Flota",
+            "n-veiculos": "Nº de Vehículos",
+            "title": "Resumen",
+            "veiculos": "Vehículos"
+          },
+          "title": "Resumen Optimización de Flota - %{descricao} - %{inicioOtimizacao} a %{finalOtimizacao}",
+          "title-simples": "Resumen Optimización de Flota"
+        }
+      },
+      "otimizacao-servico": {
+        "edit": {
+          "dados-gerais": "Datos Generales",
+          "operacao": "Operación",
+          "secoes": "Secciones",
+          "servico-excluido": "Servicio Eliminado",
+          "servico-salvo": "Servicio Guardado",
+          "title": "Editar Servicio %{codigo}",
+          "title-novo": "Nuevo Servicio",
+          "tripulante": "Tripulación"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Servicio",
+            "descricao": "Descripción",
+            "empresa": "Empresa",
+            "final": "Fecha y Hora de Finalización",
+            "frequencia": "Frecuencia",
+            "frota": "Flota",
+            "inicio": "Fecha y Hora de Inicio",
+            "linha": "Línea",
+            "numero-veiculo": "Numero de Vehículo",
+            "observacao-tripulante": "Observación para la Tripulación",
+            "tipo-servico": "Tipo de Servicio"
+          },
+          "intervalos": {
+            "final-intervalo": "Fin del Descanso",
+            "inicio-intervalo": "Inicio del Descanso",
+            "novo": "Descanso Nuevo",
+            "ordem": "Orden"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Liberación de la Op. de Desplazamiento",
+            "deslocamento-operacional-recolhimento": "Recogida de Op. de Desplazamiento",
+            "help-tempo": "Ingrese la hora en formato horas:minutos",
+            "local-liberacao": "Ubicación de Liberación",
+            "local-recolhimento": "Lugar de Recogida",
+            "tempo-desembarque": "Tiempo de Aterrizaje",
+            "tempo-embarque": "Tiempo de Abordar",
+            "tempo-preparo": "Tiempo de Preparación"
+          },
+          "secoes": {
+            "chegada": "Llegada",
+            "dias-chegada": "Días después de la llegada",
+            "dias-partida": "Días después de la salida",
+            "editando": "Editando la Sección",
+            "help-plataforma": "Caja de la estación de autobuses",
+            "hora-chegada": "Hora de Llegada",
+            "hora-partida": "Hora de Salida",
+            "local-destino": "Lugar de Destino",
+            "local-origem": "Lugar de Origen",
+            "novo": "Nueva Sección",
+            "ordem": "Ordem",
+            "partida": "Salida",
+            "plataforma": "Plataforma"
+          },
+          "tripulantes": {
+            "cargo": "Cargo",
+            "chegada": "Llegada",
+            "dados-gerais": "Datos Generales",
+            "editando": "Edición de Tripulación",
+            "frequencia": "Frecuencia",
+            "funcao": "Ocupación",
+            "help-tempo": "Ingrese la hora en formato horas:minutos",
+            "hora-chegada": "Hora da Llegada",
+            "hora-partida": "Hora da Salida",
+            "intervalos": "Descanso",
+            "local-destino": "Lugar de Destino",
+            "local-origem": "Lugar de Origen",
+            "novo": "Tripulación Nueva",
+            "numero-pessoa": "Numero do Tripulación",
+            "partida": "Salida",
+            "revezar-motorista": "Revezar Motorista",
+            "revezar-tripulante": "Revezar Tripulación",
+            "tempo-apresentacao": "Tiempo de Presentación",
+            "tempo-saida": "Tempo de Salida",
+            "tripulante": "Tripulación",
+            "viagem-dupla": "Viaje Doble"
+          }
+        }
+      },
+      "otimizacao-tripulacao": {
+        "compare": {
+          "columns": {
+            "fim": "Fin",
+            "horas-disponiveis-motoristas": "Hs. Conductor Disponible",
+            "horas-extras": "Hs. Extras",
+            "horas-jornada": "Límite Hs. Viaje",
+            "horas-trabalhadas": "Hs. Trabajadas",
+            "inicio": "Inicio",
+            "inter-jornada": "Límite de Hs. de Intervalo",
+            "km-percorridos": "Km Viajado",
+            "limite-horas-extras": "Límite Hs. Extras",
+            "limite-maximo-intervalo": "Límite Max. Intervalo",
+            "limite-minimo-intervalo": "Límite Min. Intervalo",
+            "media-horas-trabalhadas": "Promedio Hs. Trabajadas",
+            "numero-motoristas": "Nº de Tripulación",
+            "numero-motoristas-limite": "Nº de Tripulación Límite",
+            "otimizacao": "Optimización",
+            "parametros": "Parámetros",
+            "resumo": "Resumen",
+            "tempo-em-viagem": "Tiempo de Viaje"
+          },
+          "title": "Comparación de Optimizaciones de Tripulación"
+        },
+        "list": {
+          "actions": {
+            "comparar": "Comparar",
+            "editar": "Editar",
+            "excluir": "Eliminar",
+            "resumo": "Resumen",
+            "visualizar": "Ver"
+          },
+          "columns": {
+            "criado-em": "Fecha",
+            "criado-por": "Usuario",
+            "descricao": "Descripción",
+            "final-otimizacao": "Fin",
+            "inicio-otimizacao": "Inicio",
+            "status": "Estado"
+          },
+          "title": "Optimizaciones de Tripulación"
+        }
+      },
+      "pessoa": {
+        "edit": {
+          "acesso-sistema": "Acceso al sistema",
+          "add-message": "Empleado %{identifier} registrado con éxito",
+          "dados-gerais": "Dados Generales",
+          "delete-message": "Empleado %{identifier} borrado con éxito",
+          "documentos": "Documentos",
+          "edit-message": "Empleado %{identifier} actualizado con éxito",
+          "editando": "Actualizando Empleado",
+          "novo": "Nuevo Empleado",
+          "ocorrencias": "Ocurrencias",
+          "parametros-otimizacao": "Parámetros de Optimización",
+          "treinamentos": "Entrenamientos"
+        },
+        "form": {
+          "acesso-sistema": {
+            "grupo-usuario": "Grupo de usuario",
+            "possui-acesso": "Liberar acceso al sistema",
+            "senha": "Contraseña",
+            "usuario": "Usuario"
+          },
+          "dados-gerais": {
+            "admissao": "Admisión",
+            "agrupadores": "Agrupadores",
+            "apelido": "Apodo",
+            "bairro": "Barrio",
+            "base": "Base Provisional",
+            "cargo": "Cargo",
+            "celular": "Teléfono Móvil",
+            "cep": "Código postal",
+            "cidade": "Ciudad",
+            "codigo": "Código",
+            "cpf": "CPF",
+            "dados-registro": "Datos de Registro",
+            "demissao": "Resignación",
+            "e-instrutor": "Es Instructor",
+            "email": "Email",
+            "empresa": "Compañia",
+            "endereco": "Dirección",
+            "instrutor": "Instructor",
+            "nascimento": "Nacimiento",
+            "nome": "Nombre",
+            "sexo": "Sexo",
+            "tam-calca": "Tamaño del Pantalón",
+            "tam-camisa": "Tamaño del Camisa",
+            "tam-sapato": "Tamaño del Zapato",
+            "tamanho-vestimenta": "Talla de Ropa",
+            "telefone": "Teléfono",
+            "vigencia": "Validez"
+          },
+          "documentos": {
+            "codigo": "Código",
+            "complemento": "Complemento",
+            "descricao": "Descripción",
+            "editando": "Actualizando Documento",
+            "emissor": "Editor",
+            "novo": "Nuevo Documento",
+            "numero": "Numero",
+            "orgao-regulador": "Órgano Regulador",
+            "tipo-documento": "Tipo de Documento"
+          },
+          "parametros-otimizacao": {
+            "diarias": "Diarias",
+            "dorme-fora": "Se queda fuera",
+            "editando": "Actualizando",
+            "horas-diarias": "Horas Diarias",
+            "horas-semanais": "Horas Semanales",
+            "salario": "Salario",
+            "turismo": "Turismo",
+            "turno": "Turno"
+          }
+        },
+        "list": {
+          "columns": {
+            "cargo": "Cargo",
+            "celular": "Teléfono Móvil",
+            "codigo": "Código",
+            "empresa": "Compañia",
+            "nome": "Nombre"
+          },
+          "novo": "Nuevo Empleado",
+          "title": "Empleados"
+        },
+        "painel": {
+          "a": "a",
+          "admissao": "Admisión",
+          "apelido": "Apodo",
+          "bairro": "Barrio",
+          "base": "Base Provisional",
+          "cargo": "Cargo",
+          "celular": "Teléfono móvil",
+          "cep": "Código postal",
+          "cidade": "Ciudad",
+          "codigo": "Código",
+          "contato": "Dirección y Contacto",
+          "cpf": "CPF",
+          "dados-gerais": "Dados Generales",
+          "demissao": "Resignación",
+          "detalhes": "Detalles",
+          "documentos": "Documentos",
+          "documentos-empty": "No hay documentos",
+          "e-instrutor": "Es Instructor",
+          "editando-imagem": "Actualizando Imagen del Empleado",
+          "email": "Email",
+          "empresa": "Compañia",
+          "endereco": "Dirección",
+          "endereco-complemento": "Complemento",
+          "endereco-numero": "Numero",
+          "grupo": "Grupo de Escala |||| Grupos de Escala",
+          "instrutor": "Instructor",
+          "nascimento": "Nacimiento",
+          "nome": "Nombre",
+          "novo": "Nuevo Empleado",
+          "ocorrencias-empty": "No hay ocurrencias",
+          "parametros-otimizacao": "Parámetros de Optimización",
+          "placa": "Matrícula",
+          "sexo": "Sexo",
+          "sim": "Si",
+          "tab": {
+            "documentos": "Documentos",
+            "ocorrencias": "Ocurrencias",
+            "proximas-viagens": "Próximos Viajes",
+            "treinamentos": "Entrenamientos"
+          },
+          "tam-calca": "Pantalones",
+          "tam-camisa": "Camisa",
+          "tam-sapato": "Zapato",
+          "telefone": "Teléfono",
+          "title": "Empleado",
+          "vestimenta": "Tallas de Ropa"
+        },
+        "proximas-viagens": {
+          "destino": "Destino",
+          "empresa": "Empresa",
+          "empty": "No hay resultados",
+          "final": "Fin",
+          "frota": "Flota",
+          "inicio": "Inicio",
+          "linha": "Línea",
+          "origem": "Origen",
+          "plataforma": "Plataforma",
+          "servico": "Servicio",
+          "tipo": "Tipo",
+          "veiculo": "Vehículo"
+        },
+        "upload": {
+          "explanation": "Para que la subida funcione, es necesario cambiar el nombre de las imágenes, de acuerdo con el código del empleado."
+        }
+      },
+      "planejamento": {
+        "edit": {
+          "add-message": "Planificación %{identifier} registrada con éxito",
+          "delete-message": "Planificación %{identifier} borrada con éxito",
+          "edit-message": "Planificación %{identifier} actualizada con éxito",
+          "editando": "Actualizando Planificación",
+          "novo": "Nueva Planificación"
+        },
+        "edit-tripulante": {
+          "cargo": "Cargo",
+          "edit-message": "Tripulación alterada con éxito",
+          "motivo-troca-escala": "Razón",
+          "novo-tripulante": "Tripulación Nueva",
+          "numero": "Numero",
+          "observacoes": "Notas",
+          "periodo": "Período",
+          "title": "Cambiar equipo de servicio %{codigo}",
+          "tripulante-atual": "Tripulación Actual",
+          "validacao-inicio-fim": "El Dafa final debe ser mayor o igual a la fecha de inicio",
+          "validacao-numero-diferente": "Los miembros de la tripulación deben ser diferentes"
+        },
+        "edit-veiculo": {
+          "cargo": "Cargo",
+          "edit-message": "Vehículo alterada con éxito",
+          "motivo-troca-escala": "Razón",
+          "nao-tem-tripulante": "No hay vehículo para el servicio",
+          "novo-veiculo": "Vehículo Nuevo",
+          "numero": "Numero",
+          "observacoes": "Notas",
+          "periodo": "Período",
+          "title": "Cambiar vehículo de servicio %{codigo}",
+          "validacao-inicio-fim": "El Dafa final debe ser mayor o igual a la fecha de inicio",
+          "validacao-numero-diferente": "Los vehículos deben ser diferentes",
+          "veiculo-atual": "Vehículo Actual"
+        },
+        "form": {
+          "descricao": "Descripción",
+          "empresa": "Compañia",
+          "nome": "Nombre",
+          "planejamento": "Planificación",
+          "visivel": "Visible"
+        },
+        "frotas": {
+          "gantt": {
+            "area-de": "Área de",
+            "detalhes": "Detalles",
+            "grupo-add": "Agregar Flota",
+            "novo-servico": "Nuevo Servicio",
+            "page-title": "Planificación de Flota %{planejamento} - Cenário %{cenario} - %{otimizacao}",
+            "resumo": "Resumen",
+            "transferencia": "Portapapeles",
+            "voltar": "Volver"
+          },
+          "menu": {
+            "copiar": "Copiar",
+            "detalhes": "Detalles",
+            "editar": "Editar",
+            "editar-veiculo": "Editar Vehículo",
+            "mover-transferencia": "Mover al Portapapeles",
+            "sugerir-proxima": "Sugerir Siguiente"
+          }
+        },
+        "gantt-filter": {
+          "cargos": "Cargos",
+          "fim": "Fin",
+          "frotas": "Flotas",
+          "inicio": "Comienzo"
+        },
+        "info-servico": {
+          "cargo": "Cargo",
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "desembarque": "Desembarque",
+          "destino": "Destino",
+          "embarque": "Embarque",
+          "empresa": "Empresa",
+          "etapas": "Etapas",
+          "fim": "Fin",
+          "frequencia": "Frecuencia",
+          "frota": {
+            "descricao": "Flota",
+            "numero": "Numero",
+            "veiculo": "Veículo"
+          },
+          "inicio": "Comienzo",
+          "jornada": "Jornada",
+          "liberacao": "Liberación",
+          "linha": "Línea",
+          "n-h-ext": "H. Ext",
+          "n-h-not": "H. Adc. Trab. Noct.",
+          "n-h-trab": "H. Trab",
+          "numero": "Numero",
+          "origem": "Origen",
+          "preparacao": "Preparación",
+          "recolhimento": "Recogimiento",
+          "secoes": "Secciones",
+          "servico": "Servicio",
+          "tipo-servico": "Tipo de Servicio",
+          "title": "Detalles del servicio %{codigo}",
+          "title-h-ext": "Horas Extras",
+          "title-h-not": "Horas de adicional por trabajo nocturno",
+          "title-h-trab": "Horas Trabajadas",
+          "tripulacao": "Tripulación"
+        },
+        "list": {
+          "columns": {
+            "cenarios": "Nº de Escenarios",
+            "descricao": "Descripción",
+            "empresa": "Compañia",
+            "fim-vigencia": "Fim Plazo",
+            "inicio-vigencia": "Comienzo Plazo",
+            "nome": "Nombre"
+          },
+          "novo": "Nueva Planificación",
+          "title": "Planificación"
+        },
+        "painel": {
+          "ate": "Hasta",
+          "cenarios": "Escenarios",
+          "descricao": "Descripción",
+          "detalhes": "Detalles",
+          "nome": "Nombre",
+          "novo": "Nueva Planificación",
+          "otimizacoes": "Optimizaciónes",
+          "title": "Planificación",
+          "vigencia": "Plazo de"
+        },
+        "tripulantes": {
+          "gantt": {
+            "area-de": "Área de",
+            "detalhes": "Detalles",
+            "grupo-add": "Agregar Cargo",
+            "novo-servico": "Nuevo Servicio",
+            "page-title": "Planificación Tripulación %{planejamento} - Cenário %{cenario} - %{otiFrota} - %{otimizacao}",
+            "resumo": "Resumen",
+            "transferencia": "Portapapeles",
+            "voltar": "Volver"
+          },
+          "menu": {
+            "copiar": "Copiar",
+            "detalhes": "Detalles",
+            "editar": "Editar",
+            "editar-tripulante": "Editar Conductor",
+            "mover-transferencia": "Mover al Portapapeles",
+            "sugerir-proxima": "Sugerir Siguiente"
+          }
+        }
+      },
+      "relatorio": {
+        "list": {
+          "columns": {
+            "data": "Fecha",
+            "status": "Status",
+            "tamanho": "Tamaño",
+            "tipo": "Tipo de Informe",
+            "usuario": "Emitido por"
+          }
+        },
+        "relatorios": {
+          "escala-diaria": {
+            "add-message": "Su solicitud se ha programado correctamente, se le notificará al final de la generación del informe",
+            "form": {
+              "destino": "Destino",
+              "empresa": "Empresa",
+              "modelo": "Modelo",
+              "modelo-data": "Ordenado por Fecha",
+              "modelo-tripulante": "Agrupados por Tripulación",
+              "origem": "Origen",
+              "periodo": "Período",
+              "validacao-inicio-fim": "La fecha de finalización debe ser mayor o igual que la fecha de inicio",
+              "veiculo": "Vehículo"
+            },
+            "novo": "Generar Informe de Escala Diario"
+          },
+          "escala-projetada": {
+            "add-message": "Su solicitud se ha programado correctamente, se le notificará al final de la generación del informe",
+            "form": {
+              "bases": "Bases",
+              "cargos": "Cargos",
+              "empresa": "Empresa",
+              "grupos": "Grupos de Escala",
+              "periodo": "Período",
+              "tripulantes": "Tripulación",
+              "validacao-inicio-fim": "La fecha de finalización debe ser mayor o igual que la fecha de inicio"
+            },
+            "novo": "Generar Informe de Escala Proyectada"
+          }
+        },
+        "tipo": {
+          "escala-diaria": "Escala Diario",
+          "escala-projetada": "Escala Proyectada"
+        }
+      },
+      "rota": {
+        "edit": {
+          "add-message": "Ruta %{identifier} registrada con éxito",
+          "delete-message": "Ruta %{identifier} borrada con éxito",
+          "edit-message": "Ruta %{identifier} actualizada con éxito",
+          "editando": "Actualizando Ruta",
+          "novo": "Nueva Ruta"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nueva Ruta",
+          "title": "Rutas"
+        }
+      },
+      "secao": {
+        "form": {
+          "chegada": "Llegada",
+          "editando": "Actualizando Sección",
+          "hora-chegada": "Hora da Llegada",
+          "hora-partida": "Hora da Salida",
+          "local-destino": "Localización de Destino",
+          "local-origem": "Localización de Origen",
+          "novo": "Nueva Sección",
+          "ordem": "Orden",
+          "partida": "Salida",
+          "principal": {
+            "chegada": "Llegada",
+            "dias-chegada": "Días después de la llegada",
+            "dias-partida": "Días después de la salida",
+            "help-dias-chegada": "Días en relación a la salida del servicio",
+            "help-dias-partida": "Días en relación a la salida del servicio",
+            "help-plataforma": "Caja de la estación de autobuses",
+            "hora-chegada": "Hora de Llegada",
+            "hora-partida": "Hora de Salida",
+            "local-destino": "Localización de Destino",
+            "local-origem": "Localización de Origen",
+            "ordem": "Orden",
+            "partida": "Salida",
+            "plataforma": "Plataforma"
+          }
+        }
+      },
+      "servico": {
+        "form": {
+          "dados-gerais": {
+            "codigo": "Servicio",
+            "descricao": "Descripción",
+            "empresa": "Compañia",
+            "final": "Fecha y Hora de Finalización",
+            "frequencia": "Frecuencia",
+            "frota": "Flota",
+            "inicio": "Fecha y hora de Inicio",
+            "linha": "Línea",
+            "observacao": "Nota del Servicio",
+            "observacao-tripulante": "Nota para el conductor",
+            "observacao-viagem": "Notas de la Viaje",
+            "tipo-servico": "Tipo de Servicio",
+            "veiculo": "Vehículo"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Desplazamiento de liberación Op.",
+            "deslocamento-operacional-recolhimento": "Desplazamiento de la Colección Op.",
+            "help-tempo": "Tiempo en formato de horas:minutos",
+            "local-liberacao": "Localización de Liberación",
+            "local-recolhimento": "Localización de Destino",
+            "tempo-desembarque": "Tiempo de Desembarque",
+            "tempo-embarque": "Tiempo de Embarque",
+            "tempo-preparo": "Tiempo de preparación"
+          }
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "empresa": "Compañia",
+            "linha": "Líneas",
+            "local-liberacao": "Localización de Liberación",
+            "local-recolhimento": "Localización de Destino"
+          }
+        }
+      },
+      "sindicato": {
+        "edit": {
+          "acordos": "Acuerdos",
+          "add-message": "Sindicato %{identifier} registrado con éxito",
+          "delete-message": "Sindicato %{identifier} borrado con éxito",
+          "edit-message": "Sindicato %{identifier} actualizado con éxito",
+          "editando": "Actualizando Sindicato",
+          "novo": "Nuevo Sindicato",
+          "principal": "Principal"
+        },
+        "form": {
+          "cidade": "Ciudad",
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "endereco": "Dirección",
+          "nome": "Nombre",
+          "telefone": "Teléfono"
+        },
+        "list": {
+          "columns": {
+            "cidade": "Ciudad",
+            "codigo": "Código",
+            "nome": "Nombre",
+            "telefone": "Teléfono"
+          },
+          "novo": "Nuevo Sindicato",
+          "title": "Sindicatos"
+        }
+      },
+      "tempo-apresentacao-encerramento": {
+        "edit": {
+          "add-message": "Tiempo de Presentación/Cierre %{identifier} registrado con éxito",
+          "delete-message": "Tiempo de Presentación/Cierre %{identifier} borrado con éxito",
+          "edit-message": "Tiempo de Presentación/Cierre %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tiempo de Presentación/Cierre",
+          "novo": "Nuevo Tiempo de Presentación/Cierre"
+        },
+        "form": {
+          "frota": "Flota",
+          "help-tempo": "Tempo em minutos",
+          "local": "Localización",
+          "tempo-apresentacao": "Tiempo de presentación",
+          "tempo-encerramento": "Tiempo de cierre"
+        },
+        "list": {
+          "columns": {
+            "frota": "Flota",
+            "local": "Localización",
+            "tempo-apresentacao": "Tiempo de Presentación",
+            "tempo-encerramento": "Tiempo de Cierre"
+          },
+          "novo": "Nuevo Tiempo",
+          "title": "Tiempo de Presentación/Cierre"
+        }
+      },
+      "tempo-parada": {
+        "edit": {
+          "add-message": "Tiempo de Parada %{identifier} registrado con éxito",
+          "delete-message": "Tiempo de Parada %{identifier} borrado con éxito",
+          "edit-message": "Tiempo de Parada %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tiempo de Parada",
+          "novo": "Nuevo Tiempo de Parada"
+        },
+        "form": {
+          "frota": "Flota",
+          "help-tempo": "Tiempo en minutos",
+          "local": "Localización",
+          "tempo-desembarque": "Tiempo de Desembarque",
+          "tempo-embarque": "Tiempo de Embarque",
+          "tempo-transito": "Tiempo de Tráfico"
+        },
+        "list": {
+          "columns": {
+            "frota": "Flota",
+            "local": "Localización",
+            "tempo-desembarque": "Tiempo de Desembarque",
+            "tempo-embarque": "Tiempo de Embarque",
+            "tempo-transito": "Tiempo de Tráfico"
+          },
+          "novo": "Nuevo Tiempo",
+          "title": "Tiempo de Parada"
+        }
+      },
+      "tempo-preparo": {
+        "edit": {
+          "add-message": "Tiempo de Preparación %{identifier} registrado con éxito",
+          "delete-message": "Tiempo de Preparación %{identifier} borrado con éxito",
+          "edit-message": "Tiempo de Preparación %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tiempo de Preparación",
+          "novo": "Nuevo Tiempo de Preparación"
+        },
+        "form": {
+          "frota": "Flota",
+          "help-tempo": "Tempo em minutos",
+          "local": "Localización",
+          "tempo": "Tiempo de Preparación"
+        },
+        "list": {
+          "columns": {
+            "frota": "Flota",
+            "local": "Localización",
+            "tempo": "Tiempo de Preparación"
+          },
+          "novo": "Nuevo Tiempo de Preparación",
+          "title": "Tiempo de Preparación"
+        }
+      },
+      "tipo-documento": {
+        "edit": {
+          "add-message": "Tipo de Documento %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Documento %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Documento %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Documento",
+          "novo": "Nuevo Tipo de Documento"
+        },
+        "form": {
+          "alerta-vencimento": "Aviso de Vencimiento",
+          "codigo": "Código",
+          "descricao": "Descripción",
+          "influencia-otimizacao-frota": "Influencia de la optimización de la flota",
+          "influencia-otimizacao-motorista": "Influencia de la optimización del conductor"
+        },
+        "list": {
+          "columns": {
+            "alerta-vencimento": "Aviso de Vencimiento",
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "influencia-otimizacao-frota": "Influencia de la optimización de la flota",
+            "influencia-otimizacao-motorista": "Influencia de la optimización del conductor"
+          },
+          "novo": "Nuevo Tipo",
+          "title": "Tipos de Documento"
+        }
+      },
+      "tipo-linha": {
+        "edit": {
+          "add-message": "Tipo de Línea %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Línea %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Línea %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Línea",
+          "novo": "Nuevo Tipo de Línea"
+        },
+        "form": {
+          "codigo": "Código",
+          "descricao": "Descripción"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "descricao": "Descripción"
+          },
+          "novo": "Nuevo Tipo",
+          "title": "Tipos de Línea"
+        }
+      },
+      "tipo-local": {
+        "edit": {
+          "add-message": "Tipo de Localización %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Localización %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Localización %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Localización",
+          "novo": "Nuevo Tipo de Localización"
+        },
+        "form": {
+          "descricao": "Descripción",
+          "possui-embarque-desembarque": "Tiene embarque o desembarque",
+          "possui-integracao-vendas": "Tiene integración de ventas",
+          "possui-troca-motorista": "Tiene cambio de conductor"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Descripción",
+            "possui-embarque-desembarque": "Tiene embarque o desembarque",
+            "possui-integracao-vendas": "Tiene integración de ventas",
+            "possui-troca-motorista": "Tiene cambio de conductor"
+          },
+          "nao": "No",
+          "novo": "Nuevo Tipo",
+          "sim": "Si",
+          "title": "Tipos de Localización"
+        }
+      },
+      "tipo-ocorrencia-tripulacao": {
+        "edit": {
+          "add-message": "Tipo de Ocurrencia %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Ocurrencia %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Ocurrencia %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Ocurrencia",
+          "novo": "Nuevo Tipo de Ocurrencia"
+        },
+        "form": {
+          "codigo": "Código",
+          "considerar-repouso-remunerado": "Considere el descanso pagado",
+          "cor": "Color",
+          "descricao": "Descripción",
+          "ignorar-calculo-horas-trabalhadas": "Ignorar cálculo de horas trabajadas",
+          "impedir-escala": "Previene la Escala"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "considerar-repouso-remunerado": "Considere el descanso pagado",
+            "cor": "Color",
+            "descricao": "Descripción",
+            "ignorar-calculo-horas-trabalhadas": "Ignorar Cálculo HT",
+            "impedir-escala": "Previene la Escala"
+          },
+          "nao": "No",
+          "novo": "Nuevo Tipo",
+          "sim": "Si",
+          "title": "Tipos de Ocurrencia"
+        }
+      },
+      "tipo-servico": {
+        "edit": {
+          "add-message": "Tipo de Servicio %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Servicio %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Servicio %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Servicio",
+          "novo": "Nuevo Tipo de Servicio"
+        },
+        "form": {
+          "captura-gps": "Captura de GPS",
+          "codigo": "Código",
+          "cor": "Color",
+          "descricao": "Descripción",
+          "monitriip": "Monitriip",
+          "prioridade": "Prioridad",
+          "validar-sistema-vendas": "Validar Sistema de Ventas"
+        },
+        "list": {
+          "columns": {
+            "captura-gps": "Captura de GPS",
+            "codigo": "Código",
+            "cor": "Color",
+            "descricao": "Descripción",
+            "monitriip": "Monitriip",
+            "prioridade": "Prioridad",
+            "validar-sistema-vendas": "Validar Sistema de Ventas"
+          },
+          "nao": "No",
+          "novo": "Nuevo Tipo",
+          "sim": "Si",
+          "title": "Tipos de Servicio"
+        }
+      },
+      "tipo-treinamento": {
+        "edit": {
+          "add-message": "Tipo de Entrenamiento %{identifier} registrado con éxito",
+          "delete-message": "Tipo de Entrenamiento %{identifier} borrado con éxito",
+          "edit-message": "Tipo de Entrenamiento %{identifier} actualizado con éxito",
+          "editando": "Actualizando Tipo de Entrenamiento",
+          "novo": "Nuevo Tipo de Entrenamiento"
+        },
+        "form": {
+          "descricao": "Descripción",
+          "duracao": "Duración",
+          "help-validade": "Ingrese la validez en días",
+          "validade": "Validez"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Descripción",
+            "duracao": "Duración (Horas)",
+            "validade": "Validez (Dias)"
+          },
+          "novo": "Nuevo Tipo",
+          "title": "Tipos de Entrenamiento"
+        }
+      },
+      "trafego": {
+        "detalhes": {
+          "apresentacao": "Presentación",
+          "encerramento": "Clausura",
+          "liberacao": "Liberación",
+          "title": "Tráfico"
+        },
+        "form": {
+          "apresentacao-confirmada": "Presentación Confirmada",
+          "cargo": "Cargo",
+          "data": "Fecha",
+          "destino": "Destino",
+          "dia-anterior": "Día Anterior",
+          "editado": "Servicio Editado Correctamente",
+          "empresa": "Empresa",
+          "encerramento-confirmado": "Cierre Confirmado",
+          "grupo": "Grupo de Escala",
+          "liberacao-confirmada": "Liberación Confirmada",
+          "local-trajeto": "Ubicación de la Ruta",
+          "observacao-patio": "Patio",
+          "observacao-tripulante": "Tripulación",
+          "origem": "Origen",
+          "periodo": "Período",
+          "proximo-dia": "Día siguiente",
+          "tripulante": "Tripulación",
+          "veiculo": "Vehículo"
+        },
+        "list": {
+          "actions": {
+            "cancelar": "Cancelar",
+            "confirmar": "Confirmar",
+            "confirmar-apresentacao": "Confirmar Presentación",
+            "confirmar-encerramento": "Confirmar Cierre",
+            "confirmar-liberacao": "Confirmar Liberación",
+            "detalhes": "Detalles",
+            "editar-tripulante": "Cambiar Tripulación",
+            "observacoes": "Notas",
+            "observacoes-title": "Notas de Servicio %{servico}",
+            "salvar": "Guardar",
+            "sugerir-tripulante": "Sugerir Tripulación"
+          },
+          "apresentado": "Presentación de viajes realizados por %{tripulante} em %{data}",
+          "ciente": "Ciencia de viajes realizada por %{tripulante} em %{data}",
+          "columns": {
+            "destino": "Destino",
+            "empresa": "Empresa",
+            "final": "Fin",
+            "frota": "Flota",
+            "horario-rodoviaria": "Horario del Autobús",
+            "inicio": "Inicio",
+            "linha": "Línea",
+            "origem": "Origen",
+            "plataforma": "Plataforma",
+            "servico": "Servicio",
+            "tipo-linha": "Tipo",
+            "tripulante": "Tripulación",
+            "veiculo": "Vehículo"
+          },
+          "nao-apresentado": "Presentación de viaje no realizado",
+          "nao-ciente": "Ciencia de viajes no hecha"
+        },
+        "painel": {
+          "encerramento": "Cierre",
+          "liberacao": "Liberación ",
+          "realizado": "Consumado",
+          "title": "Tráfico",
+          "todas": "Todas"
+        }
+      },
+      "treinamento": {
+        "form": {
+          "duracao": "Duración",
+          "editando": "Edición de Entrenamiento",
+          "final-treinamento": "Fin",
+          "inicio-treinamento": "Comienzo",
+          "instrutor": "Instructor",
+          "local": "Localización",
+          "novo": "Nuevo Entrenamiento",
+          "tipo-treinamento": "Tipo de Entrenamiento",
+          "validade": "Validez"
+        },
+        "list": {
+          "duracao": "Duración",
+          "final-treinamento": "Fin",
+          "inicio-treinamento": "Comienzo",
+          "tipo-treinamento": "Tipo"
+        }
+      },
+      "tripulante": {
+        "form": {
+          "cargo": "Cargo",
+          "chegada": "Llegada",
+          "dados-gerais": "Datos Generales",
+          "editando": "Actualizando Tripulante",
+          "hora-chegada": "Hora da Llegada",
+          "hora-partida": "Hora da Salida",
+          "intervalos": "Intervalos",
+          "local-destino": "Localización de Destino",
+          "local-origem": "Localización de Origen",
+          "novo": "Nuevo Tripulante",
+          "partida": "Salida",
+          "principal": {
+            "cargo": "Cargo",
+            "chegada": "Llegada",
+            "dias-chegada": "Nº de días de llegada",
+            "dias-partida": "Nº de días para la salida",
+            "frequencia": "Frecuencia",
+            "funcao": "Ocupación",
+            "help-dias-chegada": "Nº de días de salida en relación al inicio del viaje.",
+            "help-dias-partida": "Nº de días de llegada en relación con el inicio del viaje",
+            "help-tempo": "Tiempo en formato de horas:minutos",
+            "hora-chegada": "Hora de Llegada",
+            "hora-partida": "Hora de Salida",
+            "jornada-unica": "Jornada Única",
+            "local-destino": "Localización de Destino",
+            "local-origem": "Localización de Origen",
+            "partida": "Salida",
+            "revezar-motorista": "Turnar Conductor",
+            "revezar-tripulante": "Revezar Tripulación",
+            "tempo-apresentacao": "Tiempo de presentación",
+            "tempo-saida": "Tiempo de Salida",
+            "tripulante": "Tripulación"
+          }
+        },
+        "info-jornada": {
+          "coordenacao": {
+            "cargo": "Cargo",
+            "custo": "Costo",
+            "fim": "Fin",
+            "folgas": "Folgas",
+            "folgas-domingo": "Folgas Domingo",
+            "horas-espera": "Horas Espera",
+            "horas-extras": "Horas Extras",
+            "horas-trabalhadas": "Horas Trabajadas",
+            "inicio": "Inicio",
+            "km-percorridos": "Km Viajados",
+            "numero-viagens": "Numero de Viajes",
+            "repousos-remunerados": "Repousos Remunerados",
+            "title": "Información de la Tripulación - Coordinación",
+            "tripulante": "Tripulación"
+          },
+          "list": {
+            "complemento": "Complemento",
+            "destino": "Destino",
+            "final": "Fin",
+            "frota": "Flota",
+            "inicio": "Inicio",
+            "linha": "Línea",
+            "observacao": "Nota",
+            "origem": "Origen",
+            "tempo-viagem": "Duración"
+          },
+          "planejamento": {
+            "cargo": "Cargo",
+            "custo": "Costo",
+            "fim": "Fin",
+            "folgas": "Días Libres",
+            "folgas-domingo": "Días Libres Domingo",
+            "horas-espera": "Horas Espera",
+            "horas-extras": "Horas Extras",
+            "horas-trabalhadas": "Horas Trabajadas",
+            "inicio": "Inicio",
+            "km-percorridos": "Km Viajados",
+            "numero": "Numero",
+            "numero-viagens": "Numero de Viajes",
+            "repousos-remunerados": "Descansos Pagados",
+            "title": "Información de la Tripulación - Planificación"
+          }
+        },
+        "list": {
+          "columns": {
+            "folgas-casa": "Días Libres Casa",
+            "folgas-domingo": "Días Libres Domingo",
+            "folgas-fora": "Días Libres Fora",
+            "folgas-total": "Total Días Libres",
+            "horas-adicional-noturno": "Noche Adicional",
+            "horas-espera": "Horas Espera",
+            "horas-extras": "Horas Extras",
+            "horas-trabalhadas": "Horas Trabajadas",
+            "numero-viagens": "Nº de Viajes",
+            "observacao": "Nota",
+            "pessoa": "Tripulación",
+            "repousos-remunerados": "Descansos Pagados"
+          }
+        }
+      },
+      "usuario": {
+        "admin": {
+          "painel": {
+            "api": {
+              "title": "API"
+            },
+            "conta": {
+              "title": "Cuenta"
+            },
+            "empresas": {
+              "novo": "Nueva Empresa",
+              "title": "Empresas"
+            },
+            "exportacoes": {
+              "title": "Exportaciones"
+            },
+            "grupos-usuarios": {
+              "novo": "Nuevo Grupo",
+              "title": "Grupos de Usuarios"
+            },
+            "importacoes": {
+              "title": "Importaciones"
+            },
+            "otimizacao-frota": {
+              "title": "Optimización de flota"
+            },
+            "otimizacao-grupo": {
+              "title": "Optimización de Grupo de Escala"
+            },
+            "otimizacao-tripulacao": {
+              "title": "Optimización de tripulación"
+            },
+            "relatorios": {
+              "title": "Informes"
+            },
+            "tab": {
+              "api": "API",
+              "empresas": "Empresas",
+              "exportacoes": "Exportaciones",
+              "geral": "General",
+              "grupos-usuarios": "Grupos de Usuarios",
+              "importacoes": "Importaciones",
+              "otimizacoes": "Optimizaciónes",
+              "relatorios": "Informes",
+              "usuarios": "Usuarios"
+            },
+            "usuarios": {
+              "title": "Usuarios"
+            }
+          }
+        },
+        "edit": {
+          "add-message": "Usuario %{identifier} registrado con éxito",
+          "delete-message": "Usuario %{identifier} borrado con éxito",
+          "edit-message": "Usuario %{identifier} actualizado con éxito",
+          "editando": "Editar Usuario",
+          "novo": "Nuevo Usuario",
+          "salvar": "Guardar",
+          "saved-message": "Contraseña alterada con éxito",
+          "titulo-alert-erros": "Problemas encontrados"
+        },
+        "form": {
+          "celular": "Teléfono Móvil",
+          "confirme-nova-senha": "Confirmar nueva contraseña",
+          "email": "E-mail",
+          "empresa": "Empresa",
+          "erro-confirma-senha": "Las contraseñas no son similares",
+          "grupo": "Grupo de Usuario",
+          "nome": "Nombre Completo",
+          "nome-usuario": "Nombre de Usuario",
+          "nova-senha": "Nueva contraseña",
+          "senha": "Contraseña",
+          "senha-atual": "Contraseña actual"
+        },
+        "list": {
+          "columns": {
+            "ativo": "Activo",
+            "cargo": "Cargo",
+            "celular": "Teléfono móvil",
+            "empresa": "Compañia",
+            "grupo": "Grupo",
+            "nome": "Nombre",
+            "ultimo-acesso": "Último Acceso",
+            "usuario": "Usuario"
+          },
+          "confirmacao-ativacao": "Usuario %{nome} activado con éxito",
+          "confirmacao-desativacao": "Usuario %{nome} desactivado con éxito",
+          "confirmar-ativacao": "Quieres activado el usuario %{nome}?",
+          "confirmar-desativacao": "Quieres desactivado el usuario %{nome}?",
+          "editando": "Actualizando Usuario",
+          "novo": "Nuevo Usuario"
+        },
+        "painel": {
+          "a": "a",
+          "admissao": "Fecha de admisión",
+          "apelido": "Apodo",
+          "bairro": "Barrio",
+          "base": "Base Provisional",
+          "cargo": "Cargo",
+          "celular": "Teléfono móvil",
+          "cep": "Código postal",
+          "cidade": "Ciudad",
+          "codigo": "Código",
+          "cpf": "CPF",
+          "dados-gerais": "Datos generales",
+          "demissao": "Fecha de renuncia",
+          "detalhes": "Detalles",
+          "documentos-empty": "No hay documentos",
+          "e-instrutor": "Es instructor",
+          "editando-imagem": "Actualizando de foto de usuario",
+          "email": "E-mail",
+          "empresa": "Compañia",
+          "endereco": "Dirección",
+          "grupo-usuario": "Grupo de usuario",
+          "instrutor": "Instructor",
+          "login": "Usuario",
+          "nascimento": "Fecha de nacimiento",
+          "nome": "Nombre",
+          "ocorrencias-empty": "No hay ocurrencias",
+          "parametros-otimizacao": "Parámetros de Optimización",
+          "placa": "Matrícula",
+          "sexo": "Sexo",
+          "sim": "Si",
+          "tab": {
+            "login": "Registros de inicio de sesión",
+            "senha": "Cambiar contraseña"
+          },
+          "tam-calca": "Pantalones",
+          "tam-camisa": "Camisa",
+          "tam-sapato": "Zapato",
+          "telefone": "Teléfono",
+          "title": "Usuario",
+          "vestimenta": "Tallas de ropa"
+        }
+      },
+      "usuario-login": {
+        "list": {
+          "dispositivo": "Dispositivo",
+          "local": "Local",
+          "quando": "Logado Em"
+        }
+      },
+      "veiculo": {
+        "edit": {
+          "add-message": "Vehículo %{identifier} registrado con éxito",
+          "dados-gerais": "Datos Generales",
+          "delete-message": "Vehículo %{identifier} borrado con éxito",
+          "documentos": "Documentos",
+          "edit-message": "Vehículo %{identifier} actualizado con éxito",
+          "editando": "Actualizando Vehículo",
+          "novo": "Nuevo Vehículo"
+        },
+        "form": {
+          "dados-gerais": {
+            "agrupadores": "Agrupadores",
+            "carroceria": "Carrocería",
+            "chassi": "Chasi",
+            "codigo": "Código",
+            "codigo-chassi": "Código de Chasis",
+            "empresa": "Compañia",
+            "fabricacao": "Año de Fabricación",
+            "frota": "Flota",
+            "modelo-carroceria": "Modelo",
+            "modelo-chassi": "Modelo",
+            "placa": "Matrícula"
+          },
+          "documentos": {
+            "codigo": "Código",
+            "descricao": "Descripción",
+            "editando": "Actualizando Documento",
+            "emissor": "Editor",
+            "novo": "Nuevo Documento",
+            "numero": "Número",
+            "orgao-regulador": "Órgano Regulador",
+            "tipo-documento": "Tipo de Documento"
+          }
+        },
+        "info-jornada": {
+          "coordenacao": {
+            "custo": "Costo",
+            "fim": "Fin",
+            "frota": "Flota",
+            "inicio": "Inicio",
+            "km-media": "Km de Viaje Promedio",
+            "km-percorridos": "Km Viajados",
+            "numero": "Número",
+            "numero-viagens": "Número de Viajes",
+            "perc-viagem": "% Viaje",
+            "tempo-deslocamentos": "Tempo Deslocamentos",
+            "tempo-em-viagem": "Tempo em Viaje",
+            "tempo-medio": "Tiempo Medio de Viaje",
+            "tempo-parado": "Tempo Parado",
+            "tempo-preparacao": "Tiempo de Preparación",
+            "title": "Información del Vehículo - Coordinación",
+            "veiculo": "Vehículo"
+          },
+          "planejamento": {
+            "custo": "Costo",
+            "fim": "Fin",
+            "frota": "Flota",
+            "inicio": "Inicio",
+            "km-media": "Km de Viaje Promedio",
+            "km-percorridos": "Km Viajados",
+            "numero": "Número",
+            "numero-viagens": "Número de Viajes",
+            "perc-viagem": "% Viaje",
+            "tempo-deslocamentos": "Tempo Deslocamentos",
+            "tempo-em-viagem": "Tempo em Viaje",
+            "tempo-medio": "Tiempo Medio de Viaje",
+            "tempo-parado": "Tempo Parado",
+            "tempo-preparacao": "Tiempo de Preparación",
+            "title": "Información del Vehículo - Planificación"
+          }
+        },
+        "list": {
+          "columns": {
+            "codigo": "Código",
+            "codigo-chassi": "Código de Chasis",
+            "empresa": "Empresa",
+            "fabricacao": "Año de Fabricación",
+            "frota": "Flota",
+            "placa": "Matrícula",
+            "prefixo": "Prefijo"
+          },
+          "novo": "Nuevo Vehículo",
+          "title": "Vehículos"
+        },
+        "painel": {
+          "carroceria": "Carrocería",
+          "chassi": "Chasi",
+          "codigo": "Código",
+          "codigo-chassi": "Código do Chasi",
+          "dados-gerais": "Dados Generales",
+          "detalhes": "Detalles",
+          "documentos": "Documentos",
+          "documentos-empty": "No há documentos",
+          "editando-imagem": "Actualizando Imagen del Vehículo",
+          "empresa": "Compañia",
+          "fabricacao": "Año de Fabricación",
+          "frota": "Flota",
+          "novo": "Nuevo Vehículo",
+          "placa": "Matrícula",
+          "tab": {
+            "documentos": "Documentos",
+            "ocorrencias": "Ocurrencias",
+            "proximas-viagens": "Próximos Viajes"
+          },
+          "title": "Vehículo"
+        },
+        "proximas-viagens": {
+          "destino": "Destino",
+          "empresa": "Empresa",
+          "empty": "No hay resultados",
+          "final": "Fin",
+          "frota": "Flota",
+          "inicio": "Inicio",
+          "linha": "Línea",
+          "origem": "Origen",
+          "plataforma": "Plataforma",
+          "servico": "Servicio",
+          "tipo": "Tipo",
+          "tripulante": "Tripulación"
+        },
+        "upload": {
+          "explanation": "Para que la subida funcione, es necesario cambiar el nombre de las imágenes, de acuerdo con el código del vehículo."
+        }
+      }
+    },
+    "hubs": {
+      "exportacao": {
+        "baixar": "Descargar archivo",
+        "criado-em": "a las %{hora} el %{data}",
+        "criado-por": "Por %{nome}",
+        "mensagens": "Mensajes:",
+        "tamanho": "Tamaño:"
+      },
+      "importacao": {
+        "connection-error": "Hubo un problema al comunicarse con uno de nuestros servidores, los servicios de importación y exportación están actualmente inactivos.",
+        "criado-em": "a las %{hora} el %{data}",
+        "criado-por": "Por %{nome}",
+        "exportar": "Exportar Plantilla",
+        "mensagens": "Mensajes:",
+        "n-registros": "Cantidad de registros:",
+        "n-registros-importados": "Cantidad de registros importados:",
+        "visualizar": "Ver"
+      },
+      "otimizacao": {
+        "criado-em": "a las %{hora} el %{data}",
+        "criado-por": "Por %{nome}",
+        "visualizar": "Ver"
+      },
+      "relatorio": {
+        "baixar": "Descargar Archivo",
+        "criado-em": "a las %{hora} do dia %{data}",
+        "criado-por": "Por %{nome}",
+        "mensagens": "Mensajes:",
+        "nome": "Reporte %{tipo}",
+        "tamanho": "Tamaño:",
+        "tipo": "Tipo"
+      }
+    }
+  }
+}

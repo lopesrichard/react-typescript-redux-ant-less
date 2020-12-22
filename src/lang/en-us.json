@@ -1,0 +1,3357 @@
+{
+  "locale": "en-us",
+  "phrases": {
+    "common": {
+      "server-error": "Server unavailable"
+    },
+    "components": {
+      "avatar": {
+        "alterar-foto": "Change Photo"
+      },
+      "filter": {
+        "header": {
+          "filtros-aplicados": "Applied filters: %{smart_count}",
+          "limpar": "Clear",
+          "nenhum-filtro": "No filters applied"
+        }
+      },
+      "form": {
+        "document": {
+          "invalid": "Please provide a valid %{doc}"
+        },
+        "email": {
+          "invalido": "Enter a valid email"
+        },
+        "endereco": {
+          "bairro": "Neighborhood",
+          "cep": "Zip code",
+          "cidade": "City",
+          "endereco": "Address first line",
+          "endereco-complemento": "Address second line",
+          "endereco-numero": "Building Number"
+        },
+        "file": {
+          "upload": "Select file"
+        },
+        "lang": {
+          "espanhol": "Spanish",
+          "ingles": "English",
+          "portugues": "Portuguese"
+        },
+        "list": {
+          "actions": "Actions"
+        },
+        "month": {
+          "abril": "April",
+          "agosto": "August",
+          "dezembro": "December",
+          "fevereiro": "February",
+          "janeiro": "January",
+          "julho": "July",
+          "junho": "June",
+          "maio": "May",
+          "marco": "March",
+          "novembro": "November",
+          "outubro": "October",
+          "setembro": "September"
+        },
+        "select": {
+          "placeholder": "Search..."
+        },
+        "sexo": {
+          "feminino": "Female",
+          "masculino": "Male"
+        },
+        "turno": {
+          "manha": "Morning",
+          "noite": "Night",
+          "tarde": "Afternoon"
+        },
+        "validator": {
+          "required": "%{name} is required"
+        },
+        "vigencia": {
+          "divider": "Validity",
+          "error": "End date must be greater than the start date",
+          "radio": {
+            "label": "Edit Term",
+            "options": {
+              "nao": "No",
+              "sim": "Yes"
+            }
+          },
+          "range": {
+            "fim": "End of Term",
+            "inicio": "Start of Term"
+          }
+        },
+        "week": {
+          "dom": "Sun",
+          "qua": "Wed",
+          "qui": "Thu",
+          "sab": "Sat",
+          "seg": "Mon",
+          "sex": "Fri",
+          "sigla": {
+            "dom": "S",
+            "qua": "W",
+            "qui": "T",
+            "sab": "S",
+            "seg": "M",
+            "sex": "F",
+            "ter": "T"
+          },
+          "ter": "Tue"
+        },
+        "year": {
+          "placeholder": "Select year"
+        },
+        "yesno": {
+          "nao": "No",
+          "sim": "Yes"
+        }
+      },
+      "gantt": {
+        "filtro-tipos-alertas": {
+          "title-cabeceiras": "Different headboards",
+          "title-cargo": "Service company different from crew member company",
+          "title-empresa-tripulante": "Service company different from crew member company",
+          "title-empresa-veiculo": "Service company different from vehicle company",
+          "title-frota": "Service fleet other than vehicle fleet",
+          "title-horas-extras": "Excess overtime",
+          "title-interjornada": "Rest time",
+          "title-main-icon": "Filter types of notices",
+          "title-ocorrencias": "Occurrences"
+        },
+        "grupo": {
+          "add-grupo": {
+            "add-cargo": "Add crew member",
+            "add-frota": "Add fleet",
+            "add-tripulante": "Add crew member",
+            "add-veiculo": "Add vehicle",
+            "adicionar": "Add",
+            "cargo": "Position",
+            "frota": "Fleet",
+            "numero": "Number",
+            "tripulante": "Crew Member",
+            "veiculo": "Vehicle"
+          }
+        },
+        "overlay-servico": {
+          "avisos": "Warnings",
+          "cargo": "Position",
+          "fim": "Destination",
+          "frequencia": "Frequency",
+          "frota": "Fleet",
+          "inicio": "Origin",
+          "km": "Distance",
+          "linha": "Line",
+          "servico": "Service",
+          "tripulante": "Crew",
+          "veiculo": "Vehicle",
+          "veiculo-n": "Vehicle nº"
+        }
+      },
+      "lists": {
+        "document": {
+          "emissor": "Issuer: %{emissor}",
+          "orgao": "Regulatory Body: %{orgao}",
+          "tipo": "Type: %{tipo}"
+        },
+        "file-card": {
+          "registros": "Document(s)"
+        },
+        "infinite-scroll": {
+          "empty": "No Data"
+        }
+      },
+      "map": {
+        "visualizar-mapa": "View Map"
+      },
+      "menu": {
+        "acessorio-veicular": "Vehicle Accessory",
+        "agrupadores": "Groupers",
+        "auditor": "Crew Auditor",
+        "cadastros": "Registration",
+        "cargos": "Positions",
+        "carrocerias": "Bodyworks",
+        "chassis": "Chassis",
+        "classe-frota": "Fleet Classes",
+        "classe-linha": "Line Classes",
+        "coord-frotas": "Fleets",
+        "coord-tripulantes": "Crew",
+        "coordenacao": "Coordination",
+        "coordenacoes-grupos": "Crew Scale Groups",
+        "distancias": "Distances",
+        "divergencias": "Divergencies",
+        "escala-diaria": "Daily Scale",
+        "escala-projetada": "Projected Scale",
+        "feriados": "Holidays",
+        "fornecedores": "Providers",
+        "frotas": "Fleets",
+        "funcionarios": "Employees",
+        "funcoes": "Functions",
+        "justificativa-cartao-ponto": "Point Card Justifications",
+        "linhas": "Lines",
+        "locais": "Locations",
+        "motivo-troca-escala": "Reasons for Scale Switching",
+        "orgao-regulador": "Regulatory bodies",
+        "planejamento": "Planning",
+        "relatorios": "Crew Reports",
+        "resumo-viagens": "Trip Summaries",
+        "rotas": "Routes",
+        "sindicatos": "Syndicates",
+        "tabelas": "Tables",
+        "tempo-apresentacao-encerramento": "Presentation/Closing Time",
+        "tempo-parada": "Downtime",
+        "tempo-preparo": "Preparation Time",
+        "tipo-documento": "Document Types",
+        "tipo-linha": "Line Types",
+        "tipo-local": "Location Types",
+        "tipo-ocorrencia-tripulacao": "Occurrence Type",
+        "tipo-servico": "Services Types",
+        "tipo-treinamento": "Training Types",
+        "trafego": "Traffic",
+        "tripulantes": "Crew Members",
+        "veiculos": "Vehicles"
+      },
+      "modal": {
+        "ok": "Save"
+      },
+      "pages": {
+        "aplicar": "Apply",
+        "atualizar": "Update Info",
+        "cancelar": "Cancel",
+        "confirmar-exclusao": "Do you really want to delete?",
+        "conflict-message": "This record has been changed by another user",
+        "deletar": "Delete",
+        "editar": "Edit",
+        "enviar": "Submit",
+        "erro-atualizacao": "An error has occurred while updating",
+        "error": "Check the data provided",
+        "errors": {
+          "403": "Sorry, you are not authorized to access this page.",
+          "404": "Sorry, the page you are trying to access does not exist.",
+          "500": "Sorry, it looks like something went wrong on the server.",
+          "inicio": "Start"
+        },
+        "gerar": "Generate",
+        "import": {
+          "error": "Error sending file",
+          "loading": "Sending the file, please wait ...",
+          "selecionar-arquivo": "Drag the file or click to select"
+        },
+        "inicio": "Start",
+        "list": {
+          "actions": {
+            "exportar-dados": "Export Data",
+            "exportar-modelo": "Export Model",
+            "importar-dados": "Import Data",
+            "importar-imagens": "Insert Images"
+          }
+        },
+        "nao": "No",
+        "render": {
+          "sexo": {
+            "feminino": "Female",
+            "masculino": "Male"
+          },
+          "status": {
+            "aguardando": "Awaiting",
+            "concluida": "Completed",
+            "erro": "Error",
+            "processando": "Processing"
+          },
+          "yesno": {
+            "nao": "No",
+            "sim": "Yes"
+          }
+        },
+        "sair-sem-salvar": "Do you want to leave without saving?",
+        "salvar": "Save",
+        "sim": "Yes",
+        "sobrescrever": "Overwrite",
+        "template": {
+          "email-alert": {
+            "resend": "Resend email",
+            "sent": "We sent a confirmation email, check your inbox as soon as possible"
+          },
+          "global-search": {
+            "pesquisar": "Search..."
+          },
+          "menu": {
+            "items": {
+              "login": {
+                "administrador": "Administrator",
+                "meu-perfil": "My Profile",
+                "sair": "Exit"
+              },
+              "notifications": {
+                "nao-lidas": "Unread messages",
+                "notification": {
+                  "criado-em": "at %{hora} of %{data}",
+                  "criado-por": "By %{nome}"
+                }
+              }
+            }
+          }
+        },
+        "titulo-alert-erros": "Problems found",
+        "upload": {
+          "falha-imagem": "Failed to upload image",
+          "falha-imagens": "Failed to upload images",
+          "falha-remover": "We were unable to perform this action at this time",
+          "inserir-imagens": "Insert images",
+          "loading": "Loading...",
+          "remover-imagem": "Remove current image",
+          "selecionar-imagem": "Select image",
+          "selecionar-imagens": "Select images",
+          "sucesso-imagem": "Image",
+          "sucesso-imagens": "Updated images",
+          "sucesso-remover": "Image removed"
+        },
+        "voltar": "Return"
+      },
+      "table": {
+        "empty": "No results found",
+        "pagination": {
+          "de": "of",
+          "exibindo": "Showing",
+          "registros": "records"
+        },
+        "pesquisar": "Search",
+        "refresh": "Refresh"
+      }
+    },
+    "entity": {
+      "acessorio-veicular": "Vehicle Accessory",
+      "acordo-sindical": "Union Agreement",
+      "agrupador": "Grouping",
+      "cargo": "Position",
+      "carroceria": "Bodywork",
+      "cenario": "Scenario",
+      "chassi": "Chassis",
+      "cidade": "City",
+      "classe-frota": "Fleet Class",
+      "classe-linha": "Line Class",
+      "conta": "Account",
+      "coordenacao-grupo": "Coordination Group",
+      "distancia": "Distance",
+      "documento": "Document",
+      "email": "E-mail",
+      "empresa": "Company",
+      "exportacao": "Export",
+      "feriado": "holiday",
+      "fornecedor": "Supplier",
+      "frota": "Fleet",
+      "funcao": "Function",
+      "grupo-usuario": "User Group",
+      "imagem": "Image",
+      "importacao": "Import",
+      "intervalo": "Break",
+      "justificativa-cartao-ponto": "Point Card Justification",
+      "linha": "Line",
+      "local": "Place",
+      "login": "Login",
+      "motivo-troca-escala": "Scale Change Justification",
+      "notificacao": "Notification",
+      "ocorrencia-tripulacao": "Crew Incidents",
+      "orgao-regulador": "Regulatory Body",
+      "otimizacao": "Optimization",
+      "permissao": "Permission",
+      "pessoa": "Crew",
+      "planejamento": "Planning",
+      "rota": "Route",
+      "secao": "Section",
+      "servico": "Service",
+      "sindicato": "Union",
+      "tempo-apresentacao-encerramento": "Presentment / Release Times",
+      "tempo-parada": "Downtime",
+      "tempo-preparo": "Preparation Time",
+      "tipo-documento": "Document Type",
+      "tipo-linha": "Line Type",
+      "tipo-local": "Location Type",
+      "tipo-ocorrencia-tripulacao": "Crew Incident Types",
+      "tipo-servico": "Service Types",
+      "tipo-treinamento": "Crew Training Types",
+      "treinamento": "Crew Member Training",
+      "tripulante": "Crew Member",
+      "usuario": "User",
+      "veiculo": "Vehicle"
+    },
+    "features": {
+      "acessorio-veicular": {
+        "edit": {
+          "add-message": "Vehicle Accessory %{identifier} successfully registered",
+          "delete-message": "Vehicle Accessory %{identifier} successfully deleted",
+          "edit-message": "Vehicle Accessory %{identifier} successfully updated",
+          "editando": "Updating Vehicle Accessory",
+          "novo": "New Vehicle Accessory"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description",
+          "fixo": "Fixed"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description",
+            "fixo": "Fixed"
+          },
+          "nao": "No",
+          "novo": "New Vehicle Accessory",
+          "sim": "Yes",
+          "title": "Vehicle Accessories"
+        }
+      },
+      "acordo-sindical": {
+        "form": {
+          "calculo-hora-extra": "Calculate HE Above",
+          "cargo": "Position",
+          "compensar-he-mensal": "Compensate HE in the Month",
+          "compensar-he-semana": "Compensate HE in the Week",
+          "desconto-carona-escala": "Discount Ride from Scale",
+          "desconto-todos-intervalos": "Discount All Intervals",
+          "editando": "Updating Agreement",
+          "helpers": {
+            "calculo-hora-extra": "Calculate overtime for hours above this value",
+            "compensar-he-mensal": "If the system compensates for daily overtime in the total hours of the month",
+            "compensar-he-semana": "If the system compensates for daily overtime in the total hours of the week",
+            "desconto-carona-escala": "If the system ignores the \"hitchhikers\" in the calculation of hours worked",
+            "desconto-todos-intervalos": "If all intervals are to be deducted from the hours worked on the working day",
+            "hora-extra-ij-menor": "If the system calculates overtime for work hours less than 11 hours",
+            "hora-final-adicional-noturno": "Default for 22:00 start and 5:00 end",
+            "intervalo-refeicao": "",
+            "limite-inter-jornada": "",
+            "limite-intervalos": "Limit number of intervals for deduction of time worked in the working day",
+            "perc-horas-espera": "For sheet cost - percentage to add to the intervals above the limits",
+            "tempo-maximo-espera": "For intervals above this time - additional waiting hours are calculated",
+            "tempo-maximo-intervalo": "Maximum time to deduct the time worked in the working day",
+            "tempo-minimo-intervalo": "Minimum time for a break to be considered as an interval",
+            "validar-intervalo": "If the system accepts intervals that are longer than the workday"
+          },
+          "hora-extra-ij-menor": "Calculate HE to IJ",
+          "hora-final-adicional-noturno": "Night Time End Time",
+          "intervalo-refeicao": "Meal Interval",
+          "limite-inter-jornada": "Inter Workday Limit",
+          "limite-intervalos": "Interval Limit",
+          "minimo-hora-extra": "Must be greater than or equal to 6 hours",
+          "minimo-interjornada": "Must be greater than or equal to 8 hours",
+          "novo": "New Agreement",
+          "perc-horas-espera": "Waiting Hours Percent",
+          "tempo-maximo-espera": "Maximum Waiting Time",
+          "tempo-maximo-intervalo": "Maximum Interval Time",
+          "tempo-minimo-intervalo": "Minimum Interval Time",
+          "validar-intervalo": "Validate Interval"
+        }
+      },
+      "agrupador": {
+        "edit": {
+          "add-message": "Grouper %{identifier} successfully registered",
+          "delete-message": "Grouper %{identifier} successfully deleted",
+          "edit-message": "Grouper %{identifier} successfully updated",
+          "editando": "Updating Grouper",
+          "novo": "New Grouper"
+        },
+        "form": {
+          "codigo": "Code",
+          "cor": "Color",
+          "descricao": "Description",
+          "nome": "Name"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "cor": "Color",
+            "descricao": "Description",
+            "nome": "Name"
+          },
+          "novo": "New grouper",
+          "title": "Groupers"
+        }
+      },
+      "auditor": {
+        "divergencia": {
+          "cargo-invalido": "Invalid Position",
+          "divergencia-origem-destino": "Origin/destination Divergencies",
+          "escala-ant-admissao": "Put to work before addmission",
+          "escala-pos-demissao": "Put to work after dismissal",
+          "filtro": {
+            "form": {
+              "agrupador": "Grouping",
+              "divergencia": "Divergency Type",
+              "empresa": "Company",
+              "grupo": "Scale Group",
+              "periodo": "Date"
+            },
+            "modal": {
+              "title": "Divergency Filter"
+            }
+          },
+          "horas-extras": "Overtime",
+          "interjornada-muito-curta": "Rest time too short",
+          "interjornada-muito-longa": "Rest time too long",
+          "intervalo-muito-longo": "Long break",
+          "jornada-longa": "Long workday",
+          "jornada-longa-sem-intervalo": "Long workday without break",
+          "jornada-muito-longa": "Workday too long",
+          "jornada-sem-viagem": "Workday without trips",
+          "list-servicos": {
+            "columns": {
+              "codigo": "Divergengy",
+              "mensagem": "Notes"
+            }
+          },
+          "list-tripulantes": {
+            "columns": {
+              "codigo": "Divergency",
+              "divergencias": "Divergencies",
+              "funcionario": "Crew Member",
+              "mensagem": "Notes"
+            }
+          },
+          "modal": {
+            "title": "Divergencies"
+          },
+          "muitas-noites-em-viagem": "Working too many nights",
+          "pouca-folga": "Too few days off",
+          "sem-escala": "Not set to work",
+          "sem-folga-domingos": "No days off on sundays",
+          "sem-grupo": "No group",
+          "sem-tripulante": "No crew",
+          "trecho-sem-distancia": "Section without registered distance",
+          "tripulante-afastado": "Set to work while away"
+        },
+        "modal-filtro": {
+          "form": {
+            "empresa": "Company",
+            "grupo": "Work Group",
+            "periodo": "Date"
+          },
+          "title": "Trip Summaries Filter"
+        },
+        "resumo-viagens": {
+          "resumo": "Summary",
+          "title": "Trip Summary - %{descricao} - %{dataInicio} to %{dataFinal}",
+          "tripulacao-dia": "Crew by Position/Day",
+          "tripulantes": "Crew"
+        }
+      },
+      "cargo": {
+        "edit": {
+          "add-message": "Position %{identifier} successfully registered",
+          "delete-message": "Position %{identifier} successfully deleted",
+          "edit-message": "Position %{identifier} successfully updated",
+          "editando": "Updating Position",
+          "novo": "New Position"
+        },
+        "form": {
+          "codigo": "Code",
+          "cor": "Color",
+          "default": "It's Default",
+          "descricao": "Description",
+          "entra-escala": "Enter the Scale",
+          "tem-instrutor": "Has Instructor"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "cor": "Color",
+            "descricao": "Description",
+            "entra-escala": "Enter the Scale",
+            "tem-instrutor": "Has Instructor"
+          },
+          "novo": "New Position",
+          "title": "Positions"
+        }
+      },
+      "carroceria": {
+        "edit": {
+          "add-message": "Bodywork %{identifier} successfully registered",
+          "delete-message": "Bodywork % ={identifier} successfully deleted",
+          "edit-message": "Bodywork %{identifier} successfully updated",
+          "editando": "Updating Bodywork",
+          "novo": "New Bodywork"
+        },
+        "form": {
+          "eixos": "Axles",
+          "fornecedor": "Provider",
+          "modelo": "Model",
+          "pneus": "Tires"
+        },
+        "list": {
+          "columns": {
+            "eixos": "Axles",
+            "fornecedor": "Provider",
+            "modelo": "Model",
+            "pneus": "Tires"
+          },
+          "novo": "New Bodywork",
+          "title": "Bodyworks"
+        }
+      },
+      "cenario": {
+        "edit": {
+          "add-message": "Scenario %{identifier} successfully registered",
+          "dados-gerais": "General data",
+          "delete-message": "Scenario %{identifier} successfully deleted",
+          "edit-message": "Scenario %{identifier} successfully updated",
+          "editando": "Updating Scenario",
+          "novo": "New Scenario",
+          "servicos": "Services"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Code",
+            "descricao": "Description",
+            "empresa": "Company",
+            "nome": "Name",
+            "planejamento": "Planning",
+            "visivel": "Visible"
+          },
+          "import": {
+            "codigo": "Code",
+            "descricao": "Description",
+            "empresa": "Company",
+            "file": "File",
+            "nome": "Name"
+          },
+          "servicos": {
+            "codigo": "Code",
+            "dados-gerais": "General data",
+            "editando": "Updating Service",
+            "empresa": "Company",
+            "linha": "Line",
+            "local-liberacao": "Release Location",
+            "local-recolhimento": "Destination",
+            "partida": "Departure time",
+            "chegada": "Arrival time",
+            "frequencia": "Frequency",
+            "novo": "New Service",
+            "operacao": "Operation",
+            "secoes": "Sections",
+            "tripulante": "Crew"
+          }
+        },
+        "import": {
+          "cancel-import": "Cancel",
+          "confirm-import": "Import",
+          "success-import": "Your request has been successfully received. You will be notified when the import is complete.",
+          "title": "Import Scenario"
+        },
+        "list": {
+          "actions": {
+            "edit": "Edit Scenario",
+            "otimizacao": "New Fleet Optimization"
+          },
+          "cancel": "Cancel",
+          "columns": {
+            "codigo": "Code",
+            "criado-em": "Date",
+            "criado-por": "User",
+            "descricao": "Description",
+            "fim-vigencia": "End Term",
+            "inicio-vigencia": "Start Term",
+            "nome": "Name",
+            "visivel": "Visible"
+          },
+          "erro-export": "Select a scenario to export",
+          "export": "Exportar",
+          "export-cenario": "Exporting scenario",
+          "export-cenario-confirmation": "Please confirm the exportation of the scenario",
+          "novo": "New Scenario"
+        }
+      },
+      "chassi": {
+        "edit": {
+          "add-message": "Chassis %{identifier} successfully registered",
+          "delete-message": "Chassis %{identifier} successfully deleted",
+          "edit-message": "Chassis %{identifier} successfully updated",
+          "editando": "Updating Chassis",
+          "novo": "New Chassis"
+        },
+        "form": {
+          "comprimento": "Length (meters)",
+          "eixos": "Axles",
+          "fornecedor": "Provider",
+          "largura": "Width (meters)",
+          "modelo": "Model",
+          "peso-bruto": "Gross weight",
+          "pneus": "Tires"
+        },
+        "list": {
+          "columns": {
+            "comprimento": "Length (meters)",
+            "eixos": "Axles",
+            "fornecedor": "Provider",
+            "largura": "Width (meters)",
+            "modelo": "Model",
+            "peso-bruto": "Gross weight",
+            "pneus": "Tires"
+          },
+          "novo": "New Chassis",
+          "title": "Chassis"
+        }
+      },
+      "classe-frota": {
+        "edit": {
+          "add-message": "Fleet Class %{identifier} successfully registered",
+          "delete-message": "Fleet Class %{identifier} successfully deleted",
+          "edit-message": "Fleet Class %{identifier} successfully updated",
+          "editando": "Updating Fleet Class",
+          "novo": "New Fleet Class"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Class",
+          "title": "Fleet Classes"
+        }
+      },
+      "classe-linha": {
+        "edit": {
+          "add-message": "Line Class %{identifier} successfully registered",
+          "delete-message": "Line Class %{identifier} successfully deleted",
+          "edit-message": "Line Class %{identifier} successfully updated",
+          "editando": "Updating Line Class",
+          "novo": "New Line Class"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Class",
+          "title": "Line Classes"
+        }
+      },
+      "conta": {
+        "edit": {
+          "add-message": "Account successfully registered",
+          "edit-message": "Account successfully updated",
+          "editando": "Updating Account"
+        },
+        "form": {
+          "cnpj": "CNPJ",
+          "email": "E-mail",
+          "identificador-conta": "Identifier",
+          "identificadorEmpresa": "Company Identifier",
+          "locale": "Language",
+          "nomeUsuario": "Name",
+          "razao-social": "Company Name",
+          "razaoSocialEmpresa": "Social Reason",
+          "senha": "Password"
+        },
+        "register": {
+          "anterior": "Previous",
+          "cadastrar": "Complete",
+          "cnpj": "CNPJ",
+          "confirma-senha": "Password confirmation",
+          "conta": "Account",
+          "email": "E-mail",
+          "empresa": "Company",
+          "erro-confirma-senha": "The passwords are different",
+          "identificador-conta": "Identifier",
+          "locale": "Language",
+          "nome": "Full name",
+          "nome-usuario": "User name",
+          "proximo": "Next",
+          "razao-social": "Company Name",
+          "senha": "Password",
+          "usuario": "User"
+        }
+      },
+      "coordenacao": {
+        "copiar-servico": {
+          "data": "Date",
+          "edit-message": "Service copy successful",
+          "final": "End",
+          "frequencia": "Frequency",
+          "inicio": "Start",
+          "n-servico": "Service Number",
+          "novo": "New",
+          "novos-servicos": "New Services",
+          "partida": "Departure",
+          "periodo": "Period",
+          "title": "Copy Service %{codigo}",
+          "tripulante": "Crew Member",
+          "veiculo": "Vehicle"
+        },
+        "edit-tripulante": {
+          "cargo": "Position",
+          "edit-message": "Crew member edit successful",
+          "empresa": "Company",
+          "motivo-troca-escala": "Reason",
+          "nao-tem-tripulante": "No crew member assigned",
+          "novo-tripulante": "New Crew Member",
+          "numero": "Number",
+          "observacoes": "Notes",
+          "periodo": "Period",
+          "title": "Change Service %{codigo} Crew",
+          "tripulante": "Crew Member",
+          "tripulante-alterado": "Crew Member Changed",
+          "tripulante-atual": "Current Crew Member",
+          "validacao-numero-diferente": "Crew members must be different"
+        },
+        "frotas": {
+          "edit-veiculo": {
+            "cargo": "Position",
+            "edit-message": "Vehicled Edit Successful",
+            "empresa": "Company",
+            "motivo-troca-escala": "Reason",
+            "nao-tem-veiculo": "No Vehicle Assigned",
+            "novo-veiculo": "New Vehicle",
+            "numero": "Number",
+            "observacoes": "Notes",
+            "periodo": "Period",
+            "title": "Change Service %{codigo} Vehicle",
+            "validacao-numero-diferente": "Vehicles must be different",
+            "veiculo": "Vehicle",
+            "veiculo-alterado": "Vehicle Changed",
+            "veiculo-atual": "Current Vehicle"
+          },
+          "gantt": {
+            "area-de": "Area",
+            "grupo-add": "Add Vehicle",
+            "grupo-detalhes": "Details",
+            "grupo-painel": "Vehicle Dashboard",
+            "novo-servico": "New Service",
+            "page-title": "Fleet Coordination",
+            "resumo": "Resume",
+            "search-placeholder": "Vehicle",
+            "transferencia": "Transfer",
+            "voltar": "Return"
+          },
+          "menu": {
+            "copiar": "Copy",
+            "detalhes": "Details",
+            "editar": "Edit",
+            "editar-veiculo": "Edit Vehicle",
+            "mover-transferencia": "Move to Tranfer Area",
+            "novo": "New",
+            "sugerir-proxima": "Suggest Next",
+            "sugerir-veiculo": "Suggest Vehicle"
+          },
+          "sugerir-veiculo": {
+            "columns": {
+              "horas-proxima-jornada": "Duration of following trip",
+              "horas-viagem-anterior": "Duration of previous trip",
+              "jornada-anterior-mais-tempo-preparo": "Previous trip + Preparation time",
+              "observacao": "Notes",
+              "proxima-viagem": "Following Trip",
+              "veiculo": "Vehicle",
+              "viagem-anterior": "Previoust Trip"
+            },
+            "form": {
+              "empresa": "Company"
+            },
+            "title": "Sugest vehicle for service %{codigo}",
+            "trocar": "Chage Vehicle",
+            "veiculo-alterado": "Vehicle Updated",
+            "veiculo-atual": "Current Vehicle",
+            "veiculos-disponiveis": "Available Vehicles"
+          }
+        },
+        "info-servico": {
+          "cargo": "Position",
+          "codigo": "Code",
+          "descricao": "Description",
+          "desembarque": "Landing",
+          "destino": "Destination",
+          "embarque": "Boarding",
+          "empresa": "Company",
+          "etapas": "Sections",
+          "fim": "End",
+          "frequencia": "Frequency",
+          "frota": {
+            "descricao": "Fleet",
+            "numero": "Number",
+            "veiculo": "Vehicle"
+          },
+          "inicio": "Start",
+          "jornada": "Workday",
+          "liberacao": "Release",
+          "linha": "Line",
+          "n-h-ext": "Overtime",
+          "n-h-not": "Night Overtime",
+          "n-h-trab": "Work Hours",
+          "numero": "Number",
+          "origem": "Origin",
+          "preparacao": "Preparation",
+          "recolhimento": "Retreat",
+          "secoes": "Sections",
+          "servico": "Service",
+          "tipo-servico": "Service Type",
+          "title": "Service Details - %{codigo}",
+          "title-h-ext": "Overtime",
+          "title-h-not": "Night Overtime",
+          "title-h-trab": "Work Hours",
+          "tripulacao": "Crew",
+          "tripulante": "Crew Member"
+        },
+        "modal-filtro-frotas": {
+          "filtro-form": {
+            "empresas": "Companies",
+            "frotas": "Fleets",
+            "frotas-veiculos": "Fleets and Vehicles",
+            "incluir-terceiras": "Inclute Thirds",
+            "periodo": "Period",
+            "validacao-inicio-fim": "End date must be greater than start date",
+            "veiculos": "Vehicles"
+          },
+          "modal": {
+            "title": "Fleet Coordination Filter"
+          }
+        },
+        "modal-filtro-tripulantes": {
+          "filtro-form": {
+            "bases": "Bases",
+            "cargos": "Positions",
+            "empresas": "Companies",
+            "grupos": "Scale Groups",
+            "periodo": "Period",
+            "tripulantes": "Crew",
+            "validacao-inicio-fim": "End date must be greater than start date"
+          },
+          "modal": {
+            "title": "Crew Coordination Filter"
+          }
+        },
+        "sugerir-tripulante": {
+          "columns": {
+            "folgas-semana": "Weekday day off",
+            "grupo-escala": "Scale Group",
+            "horas-trabalhadas-jornada-anterior": "Previous Workday Duration",
+            "horas-trabalhadas-proxima-jornada": "Next Workday Duration",
+            "jornada-anterior-mais-inter-jornada": "Previous Workday + Rest Time",
+            "proxima-viagem": "Next Trip",
+            "tripulante": "Crew Member",
+            "viagem-anterior": "Previous Trip",
+            "viagens-proximos-10-dias": "Trips next 10 days"
+          },
+          "empresa": "Company",
+          "observa-tripulantes-noites-folgas": "Ignore Crew Members With 4 Night Trips or 6 days off",
+          "residencia-tripulantes": "Crew Members who Reside at the Origin or Destination",
+          "tempo-inter-jornada": "Rest Time Duration",
+          "title": "Crew Member Sugestion for Service %{codigo}",
+          "tripulante-alterado": "Crew Member Changed",
+          "tripulante-atual": "Current Crew Member",
+          "tripulantes-disponiveis": "Available Crew Members",
+          "trocar": "Save"
+        },
+        "tripulantes": {
+          "gantt": {
+            "area-de": "Area",
+            "detalhes": "Details",
+            "novo-servico": "New Service",
+            "page-title": "Crew Coordination",
+            "painel": "Crew Panel",
+            "resumo": "Resume",
+            "search-placeholder": "Crew",
+            "transferencia": "Transfer",
+            "voltar": "Return"
+          },
+          "menu": {
+            "copiar": "Copy",
+            "detalhes": "Details",
+            "editar": "Edit",
+            "editar-tripulante": "Edit Crew",
+            "mover-transferencia": "Move to Transfer Area",
+            "novo": "New",
+            "sugerir-proxima": "Suggest Next",
+            "sugerir-tripulante": "Suggest Crew"
+          }
+        }
+      },
+      "coordenacao-grupo": {
+        "edit": {
+          "add-message": "Scale Group %{identifier} successfully registered",
+          "dados-gerais": "General Data",
+          "delete-message": "Scale Group %{identifier} successfully deleted",
+          "edit-message": "Scale Group %{identifier} successfully updated",
+          "editando": "Updating Scale Group",
+          "novo": "New Scale Group",
+          "regras": "Rules",
+          "servicos": "Services",
+          "tripulantes": "Crew"
+        },
+        "form": {
+          "balancear-adicional-noturno": "Balance Night Overtime",
+          "balancear-horas-extras": "Balance Overtime",
+          "balancear-horas-trabalhadas": "Balance Worked Hours",
+          "codigo": "Code",
+          "completar-expediente": "Complete Expedient",
+          "consulta-escala-liberada-ate": "Consultation Released Until",
+          "descricao": "Description",
+          "empresa": "Company",
+          "escalar-apos-plantao": "Schedule After Duty",
+          "final-otimizacao": "Optimization End",
+          "inicio-otimizacao": "Optimization Start",
+          "inter-jornada-minimo": "Inter Workday - Minimum",
+          "observacao": "Comment",
+          "observar-folgas-sabado-domingo": "Saturday/Sunday Breaks",
+          "parametros": "Parameters",
+          "verificar-folgas": "Check Breaks",
+          "verificar-hora-extra": "Check Overtime",
+          "verificar-turno": "Check Driver's Shift/Tourism",
+          "verificar-viagens-noturnas": "Check Night Travel"
+        },
+        "list": {
+          "actions": {
+            "visualizar": "Visualise"
+          },
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description",
+            "empresa": "Company",
+            "observacao": "Comment",
+            "otimizacoes": "Optimizations"
+          },
+          "novo": "New Scale Group",
+          "title": "Scale Group"
+        },
+        "painel": {
+          "codigo": "Code",
+          "descricao": "Description",
+          "detalhes": "Details",
+          "empresa": "Company",
+          "geral": {
+            "balancear-adicional-noturno": "Balance Night Additional",
+            "balancear-horas-extras": "Balance Overtime",
+            "balancear-horas-trabalhadas": "Balance Worked Hours",
+            "completar-expediente": "Complete Expedient",
+            "consulta-escala-liberada-ate": "Consultation Released Until",
+            "escalar-apos-plantao": "Schedule After Duty",
+            "inter-jornada-minimo": "Inter Workday - Minimum",
+            "observar-folgas-sabado-domingo": "Saturday/Sunday Breaks",
+            "verificar-folgas": "Check Breaks",
+            "verificar-hora-extra": "Check Overtime",
+            "verificar-turno": "Check Driver's Shift/Tourism",
+            "verificar-viagens-noturnas": "Check Night Travel"
+          },
+          "nova-otimizacao": "New Optimization",
+          "novo": "New Group",
+          "observacoes": "Comments",
+          "otimizacoes": "Crew Optimizations",
+          "sem-requisitos": "Group without services and/or crew members",
+          "servicos": "Services",
+          "tab": {
+            "geral": "General",
+            "regras": "Rules",
+            "servicos": "Services",
+            "tripulantes": "Crew Members"
+          },
+          "title": "Scale Group",
+          "tripulantes": "Crew"
+        }
+      },
+      "coordenacao-grupo-regra": {
+        "form": {
+          "columns": {
+            "codigo": "Code",
+            "frequencia": "Frequency",
+            "servico-anterior": "Previous Service",
+            "servico-posterior": "After Service"
+          },
+          "erro-frequencia": "Frequencies must have the same number of days",
+          "novo": "New Rule"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "frequencia": "Frequency",
+            "servico-anterior": "Previous Service",
+            "servico-posterior": "After Service"
+          }
+        }
+      },
+      "coordenacao-grupo-servico": {
+        "form": {
+          "cargo": "Position",
+          "editando": "Updating Service",
+          "empresa": "Company",
+          "filtro": {
+            "cargo": "Position",
+            "codigo": "Service",
+            "destino": "Destination",
+            "frequencia": "Frequency",
+            "horario": "Time",
+            "origem": "Origin"
+          },
+          "frequencia": "Frequency",
+          "local-origem": "Origin Location",
+          "localizar": "Find",
+          "novo": "New Service",
+          "servico": "Service",
+          "tripulante-preferencial": "Preferred Crew Member"
+        },
+        "list": {
+          "columns": {
+            "cargo": "Position",
+            "empresa": "Company",
+            "frequencia": "Frequency",
+            "local-origem": "Origin Location",
+            "servico": "Service",
+            "tripulante-preferencial": "Preferred Crew Member"
+          }
+        },
+        "servico-list": {
+          "adicionar": "Add",
+          "columns": {
+            "cargo": "Position",
+            "codigo": "Code",
+            "destino": "Destiny",
+            "frequencia": "Frequency",
+            "frequencia-servico": "Service Frequency",
+            "hora-final": "Arrival Time",
+            "hora-inicio": "Departure Time",
+            "linha": "Line",
+            "origem": "Origin",
+            "tripulante-preferencial": "Preferred Crew Member"
+          },
+          "filtro": {
+            "cargo": "Position",
+            "codigo": "Code",
+            "destino": "Destiny",
+            "frequencia": "Frequency",
+            "horario": "Time",
+            "origem": "Origin"
+          },
+          "selecionar": "Select",
+          "title": "Find Services"
+        }
+      },
+      "coordenacao-grupo-tripulante": {
+        "form": {
+          "base-provisoria": "Provisional Basis",
+          "editando": "Updating Crew Member",
+          "frequencia": "Frequency",
+          "novo": "New Crew Member",
+          "tripulante": "Crew Member",
+          "turno-preferencial": "Preferred shift"
+        },
+        "list": {
+          "columns": {
+            "base-provisoria": "Provisional Basis",
+            "frequencia": "Frequency",
+            "tripulante": "Crew Member",
+            "turno-preferencial": "Preferred shift"
+          }
+        }
+      },
+      "coordenacao-servico": {
+        "edit": {
+          "dados-gerais": "General Data",
+          "operacao": "Operation",
+          "secoes": "Sections",
+          "servico-excluido": "Deleted Service.",
+          "servico-salvo": "Saved Service",
+          "title": "Edit Service %{codigo}",
+          "title-novo": "New Service",
+          "tripulante": "Crew Members"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Service",
+            "descricao": "Description",
+            "empresa": "Company",
+            "final": "End",
+            "frequencia": "Frequency",
+            "frota": "Fleet",
+            "inicio": "Start",
+            "linha": "Line",
+            "observacao-tripulante": "Notes for Crew Member",
+            "observacao-viagem": "Trip Notes",
+            "tipo-servico": "Service Type",
+            "veiculo": "Vehicle"
+          },
+          "intervalos": {
+            "final-intervalo": "Break End",
+            "inicio-intervalo": "Break Start",
+            "novo": "New Break",
+            "ordem": "Order"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Release",
+            "deslocamento-operacional-recolhimento": "Retreat",
+            "help-tempo": "Inform the time as hours:minutes",
+            "local-liberacao": "Release Location",
+            "local-recolhimento": "Retreat Location",
+            "tempo-desembarque": "Landing Location",
+            "tempo-embarque": "Landing Duration",
+            "tempo-preparo": "Preparation Time"
+          },
+          "secoes": {
+            "chegada": "Arrival",
+            "dias-chegada": "Days After for Arrival",
+            "dias-partida": "Days After for Departure",
+            "editando": "Editing Section",
+            "help-plataforma": "Station Box",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "local-destino": "Destination",
+            "local-origem": "Origin",
+            "novo": "New Section",
+            "ordem": "Order",
+            "partida": "Departure",
+            "plataforma": "Platform"
+          },
+          "tripulantes": {
+            "cargo": "Position",
+            "chegada": "Arrival",
+            "dados-gerais": "General Data",
+            "editando": "Editing Crew Member",
+            "frequencia": "Frequency",
+            "funcao": "Function",
+            "help-tempo": "Time in the format hours:minutes",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "intervalos": "Breaks",
+            "jornada-unica": "Single Journey",
+            "local-destino": "Destiny",
+            "local-origem": "Origin",
+            "novo": "New Crew Member",
+            "observacao-patio": "Notes for Patio",
+            "observacao-tripulante": "Notes for Crew Member",
+            "partida": "Departure",
+            "revezar-motorista": "Drivers Take Turns",
+            "revezar-tripulante": "Crew Members Take Turns",
+            "tempo-apresentacao": "Presentment Time",
+            "tempo-saida": "Release Time",
+            "tripulante": "Crew Member"
+          }
+        }
+      },
+      "distancia": {
+        "edit": {
+          "add-message": "Distance %{identifier} successfully registered",
+          "delete-message": "Distance %{identifier} successfully deleted",
+          "edit-message": "Distance %{identifier} successfully updated",
+          "editando": "Updating Distance",
+          "novo": "New Distance"
+        },
+        "form": {
+          "destino": "Destination",
+          "origem": "Origin",
+          "quilometragem": "Mileage",
+          "rota": "Route"
+        },
+        "list": {
+          "columns": {
+            "destino": "Destination",
+            "origem": "Origin",
+            "quilometragem": "Mileage",
+            "rota": "Route"
+          },
+          "novo": "New Distance",
+          "title": "Distances"
+        }
+      },
+      "documento": {
+        "form": {
+          "codigo": "Code",
+          "complemento": "Complement",
+          "custo": "Cost",
+          "descricao": "Description",
+          "emissor": "Issuer",
+          "numero": "Number",
+          "orgao-regulador": "Regulatory Body",
+          "tipo-documento": "Document Type"
+        },
+        "list": {
+          "documentos-empty": "No Documents"
+        }
+      },
+      "email": {
+        "verify": {
+          "email-verificado": "Your email has been verified",
+          "erros-encontrados": "Errors were encountered while trying to verify your email",
+          "pode-fechar": "You can now close this screen or click the button below to proceed to the system",
+          "prosseguir-ao-sistema": "Proceed to the system",
+          "relogar": "You can proceed to the system and request a new verification email"
+        }
+      },
+      "empresa": {
+        "contrato-form": {
+          "numero": "Number"
+        },
+        "edit": {
+          "add-message": "Company %{identifier} successfully registered",
+          "contratos": "Contracts",
+          "delete-message": "Company %{identifier} successfully deleted",
+          "edit-message": "Company %{identifier} successfully updated",
+          "editando": "Updating Company",
+          "novo": "New Company",
+          "principal": "Main"
+        },
+        "form": {
+          "bairro": "Neighborhood",
+          "cep": "Zip Code",
+          "cidade": "City",
+          "cnpj": "CNPJ",
+          "codigo": "Code",
+          "contratos": {
+            "novo": "New contract"
+          },
+          "dia-semana-inicio": "First weekday",
+          "e-mail": "E-mail",
+          "endereco": "Address",
+          "filial": "Subsidiary",
+          "inscricao-estadual": "State registration",
+          "logo": "Logo",
+          "matriz": "Headquarters",
+          "nome": "Name",
+          "otimizacao": "Optimization",
+          "principal": "Main",
+          "sindicato": "Sindicate",
+          "telefone": "Telephone",
+          "terceirizada": "Outsourced",
+          "vigencia": "Term of"
+        },
+        "list": {
+          "columns": {
+            "cidade": "City",
+            "cnpj": "CNPJ",
+            "codigo": "Code",
+            "email": "E-mail",
+            "nome": "Name",
+            "telefone": "Telephone"
+          },
+          "novo": "New Company",
+          "title": "Companies"
+        }
+      },
+      "entity": {
+        "export": {
+          "cancel-export": "Cancel",
+          "confirm-export": "Export",
+          "error-export": "Unable to fulfill your request",
+          "explanation": "After confirming the request, you'll still be able to use the system. You'll be notified when the file is ready.",
+          "success-export": "You request has been recieved. You'll be notified when the file is ready.",
+          "title": "Export %{entity}"
+        },
+        "import": {
+          "cancel-import": "Cancel",
+          "confirm-import": "Import",
+          "success-import": "You request has been recieved. You'll be notified when the data has been saved",
+          "title": "Import %{entity}"
+        }
+      },
+      "exportacao": {
+        "list": {
+          "columns": {
+            "data": "Date",
+            "entidade": "Entity",
+            "registros": "No. of Records",
+            "status": "Status",
+            "tamanho": "Size",
+            "usuario": "Imported by"
+          }
+        }
+      },
+      "feriado": {
+        "edit": {
+          "add-message": "Holiday %{identifier} successfully registered",
+          "dados-gerais": "General data",
+          "delete-message": "Holiday %{identifier} successfully deleted",
+          "edit-message": "Holiday %{identifier} successfully updated",
+          "editando": "Updating Holiday",
+          "empresas": "Business",
+          "novo": "New Holiday"
+        },
+        "form": {
+          "data": "Date",
+          "descricao": "Description",
+          "marcar-desmarcar-todos": "Check/Uncheck all"
+        },
+        "list": {
+          "columns": {
+            "data": "Date",
+            "descricao": "description"
+          },
+          "novo": "New holiday",
+          "title": "Holidays"
+        }
+      },
+      "fornecedor": {
+        "edit": {
+          "add-message": "Provider %{identifier} successfully registered",
+          "delete-message": "Provider %{identifier} successfully deleted",
+          "edit-message": "Provider %{identifier} successfully updated",
+          "editando": "Updating Provider",
+          "novo": "New Provider"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Provider",
+          "title": "Providers"
+        }
+      },
+      "frota": {
+        "edit": {
+          "add-message": "Fleet %{identifier} successfully registered",
+          "delete-message": "Fleet %{identifier} successfully deleted",
+          "edit-message": "Fleet %{identifier} successfully updated",
+          "editando": "Updating Fleet",
+          "novo": "New Fleet"
+        },
+        "form": {
+          "autonomia": "Autonomy",
+          "capacidade-passageiros": "Passenger Capacity",
+          "classe-frota": "Fleet Class",
+          "codigo": "Code",
+          "cor": "Color",
+          "custo": "Cost",
+          "descricao": "Description",
+          "eixos": "Axles",
+          "empresa-terceirizada": "Outsourced Company",
+          "frota-terceirizada": "Outsourced Fleet",
+          "ordem": "Order"
+        },
+        "list": {
+          "columns": {
+            "capacidade-passageiros": "Passenger Capacity",
+            "classe-frota": "Fleet Class",
+            "codigo": "Code",
+            "cor": "Color",
+            "descricao": "Description",
+            "empresa-terceirizada": "Outsourced Company"
+          },
+          "novo": "New Fleet",
+          "title": "Fleets"
+        }
+      },
+      "funcao": {
+        "edit": {
+          "add-message": "Role %{identifier} successfully registered",
+          "delete-message": "Role %{identifier} successfully deleted",
+          "edit-message": "Role %{identifier} successfully updated",
+          "editando": "Updating Role",
+          "novo": "New Role"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Role",
+          "title": "Roles"
+        }
+      },
+      "grupo-usuario": {
+        "edit": {
+          "add-message": "User Group successfully registered",
+          "dados-gerais": "General Data",
+          "delete-message": "User Group successfully deteled",
+          "edit-message": "User Group successfully updated",
+          "editando": "Updating User Group",
+          "novo": "New User Group",
+          "permissoes": "Permissions"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description",
+          "permissoes": {
+            "admin/api": "API",
+            "admin/conta": "Account",
+            "admin/empresas": "Companies",
+            "admin/exportacoes": "Exports",
+            "admin/grupos-usuario": "User Groups",
+            "admin/importacoes": "Imports",
+            "admin/otimizacoes": "Optimizations",
+            "admin/relatorios": "Reports",
+            "admin/usuarios": "Users",
+            "configuracoes/acessorios-veiculares": "Vehicle Accessories",
+            "configuracoes/agrupadores": "Groupers",
+            "configuracoes/cargos": "Positions",
+            "configuracoes/carrocerias": "Bodyworks",
+            "configuracoes/chassis": "Chassis",
+            "configuracoes/classes-frotas": "Fleet Classes",
+            "configuracoes/classes-linhas": "Line Classes",
+            "configuracoes/coordenacoes-grupos": "Scale Groups",
+            "configuracoes/distancias": "Distances",
+            "configuracoes/feriados": "Holidays",
+            "configuracoes/fornecedores": "Providers",
+            "configuracoes/frotas": "Fleets",
+            "configuracoes/funcoes": "Functions",
+            "configuracoes/justificativas-cartao-ponto": "Time Card Justfications",
+            "configuracoes/locais": "Locations",
+            "configuracoes/motivos-troca-escala": "Reasons for Scale Changes",
+            "configuracoes/orgaos-reguladores": "Regulatory bodies",
+            "configuracoes/rotas": "Routes",
+            "configuracoes/sindicatos": "Syndicates",
+            "configuracoes/tempos-apresentacao-encerramento": "Presentation/Closing Times",
+            "configuracoes/tempos-parada": "Downtimes",
+            "configuracoes/tempos-preparo": "Preparation times",
+            "configuracoes/tipo-locais": "Location Types",
+            "configuracoes/tipo-ocorrencias-tripulacao": "Occurrence Types",
+            "configuracoes/tipos-documento": "Documents Types",
+            "configuracoes/tipos-linhas": "Line Types",
+            "configuracoes/tipos-servicos": "Services Types",
+            "configuracoes/tipos-treinamentos": "Crew Training Types",
+            "coordenacoes": "Coordinations",
+            "coordenacoes/frotas": "Fleet Coordination",
+            "coordenacoes/tripulantes": "Crew Coordination",
+            "funcionarios": "Employees",
+            "linhas": "Lines",
+            "marcar-desmarcar-todos": "Check/Uncheck all",
+            "planejamentos": "Plannings",
+            "trafegos": "Releases",
+            "veiculos": "Vehicles"
+          }
+        },
+        "list": {
+          "columns": {
+            "descricao": "Description",
+            "padrao": "Standard"
+          },
+          "novo": "New User Group",
+          "title": "User Groups"
+        }
+      },
+      "importacao": {
+        "list": {
+          "columns": {
+            "data": "Imported In",
+            "entidade": "Entity",
+            "registros": "No. of Records",
+            "registros-importados": "Imported Records",
+            "status": "Status",
+            "usuario": "Imported by"
+          }
+        }
+      },
+      "intervalo": {
+        "form": {
+          "final-intervalo": "End of Interval",
+          "inicio-intervalo": "Start of Interval",
+          "novo": "New Interval",
+          "ordem": "Order"
+        }
+      },
+      "justificativa-cartao-ponto": {
+        "edit": {
+          "add-message": "Time Card Justification %{identifier} successfully created",
+          "delete-message": "Time Card Justification %{identifier} successfully deleted",
+          "edit-message": "Time Card Justification %{identifier} successfully updated",
+          "editando": "Editing Time Card Justification ",
+          "novo": "New Time Card Justification "
+        },
+        "form": {
+          "descricao": "Description",
+          "grupo": "Group",
+          "justificativa": "Justification",
+          "justificativa-cartao-ponto-pai": "Group",
+          "tipo": "Type"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Description",
+            "justificativa-cartao-ponto-pai": "Group",
+            "tipo": "Type"
+          },
+          "grupo": "Group",
+          "justificativa": "Justification",
+          "novo": "New Justification",
+          "title": "Time Card Justifications"
+        }
+      },
+      "linha": {
+        "edit": {
+          "add-message": "Line %{identifier} successfully registered",
+          "delete-message": "Line %{identifier} successfully deleted",
+          "edit-message": "Line %{identifier} successfully updated",
+          "editando": "Updating Line",
+          "novo": "New Line"
+        },
+        "form": {
+          "agrupadores": "Groupers",
+          "classe-linha": "Line Class",
+          "codigo": "Code",
+          "descricao": "Description",
+          "empresa": "Company",
+          "frota-basica": "Basic Fleet",
+          "permite-dobra": "Allows Fold",
+          "prefixo": "Prefix",
+          "tipo-linha": "Line Type"
+        },
+        "list": {
+          "columns": {
+            "classe-linha": "Line Class",
+            "codigo": "Code",
+            "descricao": "Description",
+            "empresa": "Company",
+            "frota-basica": "Basic Fleet",
+            "permite-dobra": "Allows Fold",
+            "prefixo": "Prefix",
+            "tipo-linha": "Line Type"
+          },
+          "novo": "New Line",
+          "title": "Lines"
+        }
+      },
+      "local": {
+        "edit": {
+          "add-message": "Location %{identifier} successfully registered",
+          "delete-message": "Location %{identifier} successfully deleted",
+          "edit-message": "Location %{identifier} successfully updated",
+          "editando": "Updating Location",
+          "novo": "New Location"
+        },
+        "form": {
+          "base-operacional": "Operational Basis",
+          "base-operacional-vinculada": "Bound Operating Base",
+          "cidade": "City",
+          "codigo": "Code",
+          "criterio-gestao": "Management Criteria",
+          "latitude": "Latitude",
+          "longitude": "Longitude",
+          "nome": "Name",
+          "tipo-local": "Location Type"
+        },
+        "list": {
+          "columns": {
+            "base-operacional": "Operational Basis",
+            "base-operacional-vinculada": "Bound Operating Base",
+            "cidade": "City",
+            "codigo": "Code",
+            "criterio-gestao": "Management Criteria",
+            "nome": "Name",
+            "tipo-local": "Location Type"
+          },
+          "nao": "No",
+          "novo": "New Location",
+          "sim": "Yes",
+          "title": "Locations"
+        }
+      },
+      "login": {
+        "form": {
+          "conta": "Company",
+          "esqueceu-senha": "Forgot your password?",
+          "senha": "Password",
+          "usuario": "User"
+        },
+        "recuperacao-senha": {
+          "alteracao": {
+            "button": "Redefine Password",
+            "erro": "An error has occurred",
+            "sucesso": "Your password has been changed"
+          },
+          "form": {
+            "confirma-senha": "Password confirmation",
+            "conta": "Company",
+            "email": "E-mail",
+            "erro-confirma-senha": "Passwords don't match",
+            "senha": "Password"
+          },
+          "requisicao": {
+            "button": "Redefine Password"
+          }
+        },
+        "signin": {
+          "button": "Enter",
+          "cadastre-se": "Sign-in",
+          "sem-conta": "Don't have an account yet?"
+        }
+      },
+      "motivo-troca-escala": {
+        "edit": {
+          "add-message": "Scale Change Reason %{identifier} successfully registered",
+          "delete-message": "Scale Change Reason %{identifier} successfully deleted",
+          "edit-message": "Scale Change Reason %{identifier} successfully updated",
+          "editando": "Editing Scale Change Reason",
+          "novo": "New Scale Change Reason"
+        },
+        "form": {
+          "descricao": "Description",
+          "motivo": "Reason",
+          "motivo-troca-escala-pai": "Father Reason",
+          "submotivo": "Subreason",
+          "tipo": "Type"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Description",
+            "motivo": "Reason",
+            "motivo-troca-escala-pai": "Father Reason",
+            "submotivo": "Subreason",
+            "tipo": "Type"
+          },
+          "motivo": "Reason",
+          "novo": "New Reason",
+          "submotivo": "Subreason",
+          "title": "Scale Change Reasons"
+        }
+      },
+      "ocorrencia-tripulacao": {
+        "edit": {
+          "add-message": "Occurrence %{identifier} successfully registered",
+          "delete-message": "Occurrence %{identifier} successfully deleted",
+          "edit-message": "Occurrence %{identifier} successfully updated",
+          "editando": "Updating Occurrence",
+          "novo": "New Occurrence"
+        },
+        "form": {
+          "editando": "Editing Occurrence",
+          "fim": "End",
+          "inicio": "Start",
+          "novo": "New Occurrence",
+          "tipo-ocorrencia-tripulacao": "Occurrence Type"
+        },
+        "list": {
+          "columns": {
+            "criado-em": "Date",
+            "criado-por": "User",
+            "fim": "End",
+            "inicio": "Start",
+            "tipo-ocorrencia-tripulacao": "Occurrence Type"
+          },
+          "novo": "New Occurrence",
+          "title": "Crew Occurrences"
+        }
+      },
+      "orgao-regulador": {
+        "edit": {
+          "add-message": "Regulatory Body %{identifier} successfully registered",
+          "delete-message": "Regulatory Body %{identifier} successfully deleted",
+          "edit-message": "Regulatory Body %{identifier} successfully updated",
+          "editando": "Updating Regulatory Body",
+          "novo": "New Regulatory Body"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Regulatory Body",
+          "title": "Regulatory Bodies"
+        }
+      },
+      "otimizacao": {
+        "compare": {
+          "columns": {
+            "fim": "End",
+            "inicio": "Start",
+            "limitacao-frota": "Fleet Limitation",
+            "otimizacao": "Optimization",
+            "parametros": "Parameters",
+            "reducao-tp": "Preparation Time Reduction",
+            "tipo": "Type",
+            "viagem-vazia": "Empty Trips"
+          },
+          "limite-frota": "%{smart_count} Vehicle/Fleet |||| %{smart_count} Vehicles/Fleet",
+          "max-minutos": "Max. %{smart_count} min |||| Max. %{smart_count} mins",
+          "max-trecho": "Max. %{smart_count} trecho |||| Max. %{smart_count} trechos",
+          "title": "Fleet Optimizations Comparison"
+        },
+        "coordenacao-grupo": {
+          "edit": {
+            "add-message": "Scale group optimization %{identifier} successfully created",
+            "delete-message": "Scale group optimization %{identifier} successfully deleted",
+            "edit-message": "Scale group optimization %{identifier} successfully updated",
+            "editando": "Editing Scale Group Optimization",
+            "novo": "New Scale Group Optimization",
+            "otimizar": "Optimization"
+          },
+          "list": {
+            "actions": {
+              "auditor": "Auditor",
+              "excluir": "Delete",
+              "visualizar": "Visualise"
+            },
+            "columns": {
+              "criado-em": "Created at",
+              "criado-por": "User",
+              "descricao": "Description",
+              "final-otimizacao": "End",
+              "inicio-otimizacao": "Start",
+              "status": "Status"
+            }
+          }
+        },
+        "edit": {
+          "add-message": "Optimization %{identifier} successfully registered",
+          "delete-message": "Optimization %{identifier} successfully deleted",
+          "edit-message": "Optimization %{identifier} successfully updated",
+          "editando": "Updating Fleet Optimization",
+          "novo": "New Fleet Optimization",
+          "otimizar": "Optimize"
+        },
+        "envio": {
+          "enviadas": {
+            "columns": {
+              "acoes": "Actions",
+              "criado-em": "Created at",
+              "criado-por": "User",
+              "final": "Final date",
+              "inicio": "Initial date",
+              "otimizacao-tripulacao": "Crew Optimization"
+            },
+            "excluir": "Delete",
+            "mensagens": {
+              "title": "Validation Errors"
+            },
+            "title": "Optimizations Sent"
+          },
+          "parametros": {
+            "columns": {
+              "criado-em": "Date",
+              "criado-por": "User",
+              "descricao": "Description",
+              "final-otimizacao": "Optimization End",
+              "inicio-otimizacao": "Optimization Start",
+              "status": "Status"
+            },
+            "enviar": "Send",
+            "mensagens": {
+              "title": "Validation Errors"
+            },
+            "otimizacoes": {
+              "title": "Crew Optimizations"
+            },
+            "periodo": "Period",
+            "title": "Parameters",
+            "validar": "Validate"
+          },
+          "title": "Send Optimization for Coordination - %{descricao} - %{inicioOtimizacao} a %{finalOtimizacao}"
+        },
+        "filtro-compare-frota": {
+          "title": "Fleet Optimization Compare Filter"
+        },
+        "filtro-compare-tripulante": {
+          "title": "Crew Optimization Compare Filter"
+        },
+        "form": {
+          "ciclico": "Cyclic",
+          "combinatoria": "Combinatory?",
+          "dados-gerais": "General Data",
+          "data": "Of",
+          "descricao": "Description",
+          "deslocamento": "Displacement",
+          "dia-semana-inicio": "Start Weekday",
+          "frotas": {
+            "columns": {
+              "frota": "Fleet",
+              "quantidade": "Quantity"
+            },
+            "title": "Select Fleets"
+          },
+          "garagens": {
+            "columns": {
+              "garagem": "Garage",
+              "max-minutos": "Minutes"
+            },
+            "title": "Select Garages"
+          },
+          "limitacao-frota": "Fleet Limitation",
+          "max-combinacoes": "Maximum",
+          "max-minutos": "Maximum in Minutes",
+          "maximo-por-frota": "Maximum",
+          "minutos": "Minutes",
+          "num-semanas": "No. Weeks",
+          "observacoes": "Comments",
+          "padrao": "Standard",
+          "periodo": "Period",
+          "premissas": "Assumptions",
+          "reducao-tp": "T.P. Reduction",
+          "selecionar": "Select",
+          "tipo": "Type",
+          "tipos-servico": {
+            "columns": {
+              "minutos": "Minutes",
+              "servico": "Service Type"
+            },
+            "title": "Select Service Type"
+          },
+          "viagem-vazia": "Empty Travel"
+        },
+        "list": {
+          "actions": {
+            "comparar": "Compare",
+            "editar": "Edit",
+            "enviar-coordenacao": "Send to Coordination",
+            "excluir": "Delete",
+            "otimizacao": "New Crew Optimization",
+            "resumo": "Summary",
+            "visualizar": "View"
+          },
+          "columns": {
+            "criado-em": "Date",
+            "criado-por": "User",
+            "descricao": "Description",
+            "final-otimizacao": "Optimization End",
+            "inicio-otimizacao": "Optimization Start",
+            "status": "Status"
+          },
+          "novo": "New Fleet Optimization",
+          "title": "Fleet Optimizations"
+        },
+        "motorista": {
+          "edit": {
+            "add-message": "Crew Optimization %{identifier} successfully registered",
+            "delete-message": "Crew Optimization %{identifier} successfully deleted",
+            "edit-message": "Crew Optimization %{identifier} successfully updated",
+            "editando": "Updating Crew Optimization",
+            "novo": "New Crew Optimization",
+            "otimizar": "Optimize"
+          },
+          "form": {
+            "descricao": "Description",
+            "final-otimizacao": "Optimization End",
+            "inicio-otimizacao": "Optimization Start",
+            "maximo-interjornada": "Must be less than or equal to 20 hours",
+            "maximo-jornada": "Must be less than or equal to 15 hours",
+            "minimo-interjornada": "Must be greater than or equal to 8 hours",
+            "minimo-jornada": "Must be greater than or equal to 6 hours",
+            "observacoes": "Notes",
+            "parametros": {
+              "helpers": {
+                "horas-interjornada": "Min. 08:00h Max. 20:00h",
+                "horas-jornada": "Inform hours and minutes of Inter Workday in \"HH: mm\" format"
+              },
+              "horas-jornada": "Workday Hours",
+              "inter-jornada": "Inter Workday",
+              "limite-horas-extra": "Overtime Limit",
+              "limite-maximo-intervalo": "Max Interval Limit",
+              "limite-minimo-intervalo": "Min Interval Limit",
+              "numero-motoristas-limite": "Drivers Limit",
+              "title": "Parameters"
+            }
+          },
+          "list": {
+            "actions": {
+              "editar": "Edit",
+              "excluir": "Delete",
+              "resumo": "Summary",
+              "visualizar": "View"
+            },
+            "columns": {
+              "criado-em": "Date",
+              "criado-por": "User",
+              "descricao": "Description",
+              "final-otimizacao": "Optimization End",
+              "inicio-otimizacao": "Optimization Start",
+              "status": "Status"
+            },
+            "novo": "New Crew Optimization",
+            "title": "Crew Optimizations"
+          },
+          "resumo": {
+            "mensagens": {
+              "title": "Messages"
+            },
+            "motoristas-dia": {
+              "title": "Crew Members by Position/Day"
+            },
+            "parametros": {
+              "helpers": {
+                "horas-jornada": "Hours and minutes of Inter Workday"
+              },
+              "horas-jornada": "Workday Hours",
+              "inter-jornada": "Inter Workday",
+              "limite-horas-extra": "Overtime Limit",
+              "limite-maximo-intervalo": "Max Interval Limit",
+              "limite-minimo-intervalo": "Min Interval Limit",
+              "numero-motoristas-limite": "Drivers Limit",
+              "title": "Parameters"
+            },
+            "resumo": {
+              "adicional-noturno": "Night Extra",
+              "custo-motoristas": "Driver Costs",
+              "folgas-total": "Total days off",
+              "horas-disponiveis-motoristas": "Free Driver Hours",
+              "horas-extras": "Overtime",
+              "horas-jornada": "Workday Hours",
+              "horas-trabalhadas": "Working Hours",
+              "km-percorridos": "Distance Traveled",
+              "media-horas-trabalhadas": "Avg. Working Hours",
+              "numero-motoristas": "Nº of Drivers",
+              "repousos-remunerados": "Paid Rests",
+              "tempo-em-viagem": "Avarage Traveling Time",
+              "title": "Summary",
+              "viagens-periodo": "Trip on Period",
+              "viagens-sem-tripulante": "Trips Without Crew"
+            },
+            "title": "Optimization Summary - %{descricao}",
+            "title-simples": "Crew Optimization Summary"
+          }
+        },
+        "resumo": {
+          "frotas-dia": {
+            "title": "Vehicles by Fleet/Day"
+          },
+          "mensagens": {
+            "title": "Messages"
+          },
+          "parametros": {
+            "ciclica": "Ciclic",
+            "deslocamento": "Displacement",
+            "deslocamento-list": {
+              "limite": "Limit",
+              "tipo-servico": "Service Type"
+            },
+            "limitacao-frota": "Fleet Limitation",
+            "limitacao-frotas": {
+              "frota": "Fleet",
+              "limite": "Limit"
+            },
+            "nao": "No",
+            "periodo": "Period",
+            "reducao-tempo-preparo": "Preparation Time Reduction",
+            "reducao-tp": {
+              "garagem": "Garage",
+              "limite": "Limit"
+            },
+            "sim": "Yes",
+            "tipo": "Type",
+            "title": "Parameters",
+            "viagem-vazia": "Empty Trip"
+          },
+          "resumo": {
+            "frota": "Fleet",
+            "n-veiculos": "Nº of Vehicles",
+            "title": "Summary",
+            "veiculos": "Vehicles"
+          },
+          "title": "Fleet Optimization Summary - %{descricao} - %{inicioOtimizacao} to %{finalOtimizacao}",
+          "title-simples": "Fleet Optimization Summary"
+        }
+      },
+      "otimizacao-servico": {
+        "edit": {
+          "dados-gerais": "General Data",
+          "operacao": "Operation",
+          "secoes": "Sections",
+          "servico-excluido": "Service Deleted",
+          "servico-salvo": "Service Updated",
+          "title": "Editing Service %{codigo}",
+          "title-novo": "New Service",
+          "tripulante": "Crew Members"
+        },
+        "form": {
+          "dados-gerais": {
+            "codigo": "Service",
+            "descricao": "Description",
+            "empresa": "Company",
+            "final": "End Date Time",
+            "frequencia": "Frequency",
+            "frota": "Fleet",
+            "inicio": "Start Date Time",
+            "linha": "Line",
+            "numero-veiculo": "Vehicle Number",
+            "observacao-tripulante": "Notes for Crew Member",
+            "tipo-servico": "Service Type"
+          },
+          "intervalos": {
+            "final-intervalo": "Break End",
+            "inicio-intervalo": "Break Start",
+            "novo": "New Break Period",
+            "ordem": "Order"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Release",
+            "deslocamento-operacional-recolhimento": "Retreat",
+            "help-tempo": "Time in format hours:minutes",
+            "local-liberacao": "Release Location",
+            "local-recolhimento": "Retreat Location",
+            "tempo-desembarque": "Disembarkation Time",
+            "tempo-embarque": "Embarkation Time",
+            "tempo-preparo": "Preparation Time"
+          },
+          "secoes": {
+            "chegada": "Arrival",
+            "dias-chegada": "Days After Arrival",
+            "dias-partida": "Days After Departure",
+            "editando": "Editing Section",
+            "help-plataforma": "Box",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "local-destino": "Destination",
+            "local-origem": "Origin",
+            "novo": "New Section",
+            "ordem": "Order",
+            "partida": "Departure",
+            "plataforma": "Platform"
+          },
+          "tripulantes": {
+            "cargo": "Position",
+            "chegada": "Arrival",
+            "dados-gerais": "General Data",
+            "editando": "Editing Crew Member",
+            "frequencia": "Frequency",
+            "funcao": "Function",
+            "help-tempo": "Time in the format hours:minutes",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "intervalos": "Breaks",
+            "local-destino": "Destination",
+            "local-origem": "Origin",
+            "novo": "New Crew Member",
+            "numero-pessoa": "Crew Member Number",
+            "partida": "Departure",
+            "revezar-motorista": "Drivers Take Turns",
+            "revezar-tripulante": "Crew Members Take Turns",
+            "tempo-apresentacao": "Presentation Time",
+            "tempo-saida": "Release Time",
+            "tripulante": "Crew Member",
+            "viagem-dupla": "Double Drivers"
+          }
+        }
+      },
+      "otimizacao-tripulacao": {
+        "compare": {
+          "columns": {
+            "fim": "End",
+            "horas-disponiveis-motoristas": "Available Drivers Hours",
+            "horas-extras": "Overtime",
+            "horas-jornada": "Workday hour limit",
+            "horas-trabalhadas": "Working Hours",
+            "inicio": "Start",
+            "inter-jornada": "Rest Period Limit",
+            "km-percorridos": "Distance Traveled",
+            "limite-horas-extras": "Overtime Limit",
+            "limite-maximo-intervalo": "Max. Break Limit",
+            "limite-minimo-intervalo": "Min. Break Limit",
+            "media-horas-trabalhadas": "Avg. Working Hours",
+            "numero-motoristas": "Nº of Drivers",
+            "numero-motoristas-limite": "Nº of Drivers Limit",
+            "otimizacao": "Optimization",
+            "parametros": "Parameters",
+            "resumo": "Summary",
+            "tempo-em-viagem": "Time Traveling"
+          },
+          "title": "Crew Optimization Comparison"
+        },
+        "list": {
+          "actions": {
+            "comparar": "Compare",
+            "editar": "Edit",
+            "excluir": "Delete",
+            "resumo": "Summary",
+            "visualizar": "Visualise"
+          },
+          "columns": {
+            "criado-em": "Created at",
+            "criado-por": "User",
+            "descricao": "Description",
+            "final-otimizacao": "End",
+            "inicio-otimizacao": "Start",
+            "status": "Status"
+          },
+          "title": "Crew Optimizations"
+        }
+      },
+      "pessoa": {
+        "edit": {
+          "acesso-sistema": "System access",
+          "add-message": "Employee %{identifier} successfully registered",
+          "dados-gerais": "General Data",
+          "delete-message": "Employee %{identifier} successfully deleted",
+          "documentos": "Documents",
+          "edit-message": "Employee %{identifier} successfully updating",
+          "editando": "Updating Employee",
+          "novo": "New Employee",
+          "ocorrencias": "Occurrences",
+          "parametros-otimizacao": "Optimization Parameters",
+          "treinamentos": "Trainings"
+        },
+        "form": {
+          "acesso-sistema": {
+            "grupo-usuario": "User Group",
+            "possui-acesso": "Release System Access",
+            "senha": "Password",
+            "usuario": "User"
+          },
+          "dados-gerais": {
+            "admissao": "Admission",
+            "agrupadores": "Groupers",
+            "apelido": "Nickname",
+            "bairro": "Neighborhood",
+            "base": "Operational Basis",
+            "cargo": "Position",
+            "celular": "Cell Phone Number",
+            "cep": "Zip Code",
+            "cidade": "City",
+            "codigo": "Code",
+            "cpf": "CPF",
+            "dados-registro": "Register Data",
+            "demissao": "Resignation",
+            "e-instrutor": "Is Instructor",
+            "email": "E-mail",
+            "empresa": "Company",
+            "endereco": "Address",
+            "instrutor": "Instructor",
+            "nascimento": "Birth",
+            "nome": "Name",
+            "sexo": "Gender",
+            "tam-calca": "Pant Size",
+            "tam-camisa": "Shirt Size",
+            "tam-sapato": "Shoe Size",
+            "tamanho-vestimenta": "Clothing Size",
+            "telefone": "Telephone",
+            "vigencia": "Term"
+          },
+          "documentos": {
+            "complemento": "Code",
+            "descricao": "Description",
+            "editando": "Updating Document",
+            "emissor": "Issuer",
+            "novo": "New Document",
+            "numero": "Number",
+            "orgao-regulador": "Regulatory Body",
+            "tipo-documento": "Document Type"
+          },
+          "parametros-otimizacao": {
+            "diarias": "Dailies",
+            "dorme-fora": "Sleep Outside",
+            "editando": "Updating",
+            "horas-diarias": "Daily Hours",
+            "horas-semanais": "Weekly hours",
+            "salario": "Salary",
+            "turismo": "Tourism",
+            "turno": "Shift"
+          }
+        },
+        "list": {
+          "columns": {
+            "cargo": "Position",
+            "celular": "Cell Phone Number",
+            "codigo": "Code",
+            "empresa": "Company",
+            "nome": "Name"
+          },
+          "novo": "New Employee",
+          "title": "Employees"
+        },
+        "painel": {
+          "a": "a",
+          "admissao": "Admission",
+          "apelido": "Nickname",
+          "bairro": "Neighborhood",
+          "base": "Operational Basis",
+          "cargo": "Position",
+          "celular": "Cell phone Number",
+          "cep": "Zip Code",
+          "cidade": "City",
+          "codigo": "Code",
+          "contato": "Address and Contact",
+          "cpf": "CPF",
+          "dados-gerais": "General Data",
+          "demissao": "Resignation",
+          "detalhes": "Details",
+          "documentos": "Documents",
+          "documentos-empty": "There are no documents",
+          "e-instrutor": "Is Instructor",
+          "editando-imagem": "Updating Employee Image",
+          "email": "E-mail",
+          "empresa": "Company",
+          "endereco": "Address First Line",
+          "endereco-complemento": "Address Second Line",
+          "endereco-numero": "Building Number",
+          "grupo": "Scale Group |||| Scale Groups",
+          "instrutor": "Instructor",
+          "nascimento": "Birth",
+          "nome": "Name",
+          "novo": "New Employee",
+          "ocorrencias-empty": "There are no occurrences",
+          "parametros-otimizacao": "Optimization Parameters",
+          "placa": "License Plate",
+          "sexo": "Gender",
+          "sim": "Yes",
+          "tab": {
+            "documentos": "Documents",
+            "ocorrencias": "Occurrences",
+            "proximas-viagens": "Upcoming Travels",
+            "treinamentos": "Trainings"
+          },
+          "tam-calca": "Pants",
+          "tam-camisa": "Shirt",
+          "tam-sapato": "Shoe",
+          "telefone": "Telephone",
+          "title": "Employee",
+          "vestimenta": "Clothing Sizes"
+        },
+        "proximas-viagens": {
+          "destino": "Destination",
+          "empresa": "Company",
+          "empty": "No Data",
+          "final": "End",
+          "frota": "Fleet",
+          "inicio": "Start",
+          "linha": "Line",
+          "origem": "Origin",
+          "plataforma": "Platform",
+          "servico": "Service",
+          "tipo": "Type",
+          "veiculo": "Vehicle"
+        },
+        "upload": {
+          "explanation": "For the upload to work, it is necessary to rename the images, according to the Employee Code."
+        }
+      },
+      "planejamento": {
+        "edit": {
+          "add-message": "Planning %{identifier} successfully registered",
+          "delete-message": "Planning %{identifier} successfully deleted",
+          "edit-message": "Planning %{identifier} successfully updated",
+          "editando": "Updating Planning",
+          "novo": "New Planning"
+        },
+        "edit-tripulante": {
+          "cargo": "Position",
+          "edit-message": "Crew Member Updated",
+          "motivo-troca-escala": "Reason",
+          "novo-tripulante": "New Crew Member",
+          "numero": "Number",
+          "observacoes": "Notes",
+          "periodo": "Period",
+          "title": "Change Service %{codigo} Crew Member",
+          "tripulante-atual": "Current Crew Member",
+          "validacao-inicio-fim": "End date must be greater than start date",
+          "validacao-numero-diferente": "Crew members must be different"
+        },
+        "edit-veiculo": {
+          "cargo": "Position",
+          "edit-message": "Vehicle Updated",
+          "motivo-troca-escala": "Reason",
+          "nao-tem-tripulante": "No Vehicle Assigned",
+          "novo-veiculo": "New Vehicle",
+          "numero": "Number",
+          "observacoes": "Note",
+          "periodo": "Period",
+          "title": "Change Service %{codigo} Vehicle",
+          "validacao-inicio-fim": "End date must be greater than start date",
+          "validacao-numero-diferente": "Vehicles must be different",
+          "veiculo-atual": "Current Vehicle"
+        },
+        "form": {
+          "descricao": "Description",
+          "empresa": "Company",
+          "nome": "Name",
+          "planejamento": "Planning",
+          "visivel": "Visible"
+        },
+        "frotas": {
+          "gantt": {
+            "area-de": "Area",
+            "detalhes": "Details",
+            "grupo-add": "Add Fleet",
+            "novo-servico": "New Service",
+            "page-title": "Fleet Planning %{planejamento} - Cenário %{cenario} - %{otimizacao}",
+            "resumo": "Resume",
+            "transferencia": "Transfer",
+            "voltar": "Return"
+          },
+          "menu": {
+            "copiar": "Copy",
+            "detalhes": "Details",
+            "editar": "Edit",
+            "editar-veiculo": "Edit Vehicle",
+            "mover-transferencia": "Send to Transfer Area",
+            "sugerir-proxima": "Suggest Next"
+          }
+        },
+        "gantt-filter": {
+          "cargos": "Positions",
+          "fim": "End",
+          "frotas": "Fleets",
+          "inicio": "Start"
+        },
+        "info-servico": {
+          "cargo": "Position",
+          "codigo": "Code",
+          "descricao": "Description",
+          "desembarque": "Disembarkation",
+          "destino": "Destiny",
+          "embarque": "Embarkation",
+          "empresa": "Company",
+          "etapas": "Phases",
+          "fim": "End",
+          "frequencia": "Frequency",
+          "frota": {
+            "descricao": "Fleet",
+            "numero": "Number",
+            "veiculo": "Vehicle"
+          },
+          "inicio": "Start",
+          "jornada": "Working hours",
+          "liberacao": "Release",
+          "linha": "Line",
+          "n-h-ext": "Over H.",
+          "n-h-not": "Adt. Nig. H.",
+          "n-h-trab": "Work H.",
+          "numero": "Number",
+          "origem": "Origin",
+          "preparacao": "Preparation",
+          "recolhimento": "Retreat",
+          "secoes": "Sections",
+          "servico": "Service",
+          "tipo-servico": "Service Type",
+          "title": "Service Details - %{codigo}",
+          "title-h-ext": "Overtime",
+          "title-h-not": "Additional Night Hours",
+          "title-h-trab": "Worked hours",
+          "tripulacao": "Crew"
+        },
+        "list": {
+          "columns": {
+            "cenarios": "Nº of Scenarios",
+            "descricao": "Description",
+            "empresa": "Company",
+            "fim-vigencia": "End Term",
+            "inicio-vigencia": "Start Term",
+            "nome": "Name"
+          },
+          "novo": "New Planning",
+          "title": "Planning"
+        },
+        "painel": {
+          "ate": "Until",
+          "cenarios": "Scenarios",
+          "descricao": "Description",
+          "detalhes": "Details",
+          "nome": "Name",
+          "novo": "New Planning",
+          "otimizacoes": "Optimizations",
+          "title": "Planning",
+          "vigencia": "Term of"
+        },
+        "tripulantes": {
+          "gantt": {
+            "area-de": "Area",
+            "detalhes": "Details",
+            "grupo-add": "Add Position",
+            "novo-servico": "New Service",
+            "page-title": "Crew Planning %{planejamento} - Cenário %{cenario} - %{otiFrota} - %{otimizacao}",
+            "resumo": "Resume",
+            "transferencia": "Transfer",
+            "voltar": "Return"
+          },
+          "menu": {
+            "copiar": "Copy",
+            "detalhes": "Details",
+            "editar": "Edit",
+            "editar-tripulante": "Edit Crew",
+            "mover-transferencia": "Send to Transfer Area",
+            "sugerir-proxima": "Suggest Next"
+          }
+        }
+      },
+      "relatorio": {
+        "list": {
+          "columns": {
+            "data": "Date",
+            "status": "Status",
+            "tamanho": "Size",
+            "tipo": "Report Type",
+            "usuario": "Emitted by"
+          }
+        },
+        "relatorios": {
+          "escala-diaria": {
+            "add-message": "Your request has been received, you'll be notified when the report is available",
+            "form": {
+              "destino": "Destination",
+              "empresa": "Company",
+              "modelo": "Model",
+              "modelo-data": "Ordered by date",
+              "modelo-tripulante": "Grouped by crew member",
+              "origem": "Origin",
+              "periodo": "Period",
+              "validacao-inicio-fim": "End date must be greater than start date",
+              "veiculo": "Vehicle"
+            },
+            "novo": "Generate Daily Scale Report"
+          },
+          "escala-projetada": {
+            "add-message": "Your request has been received, you'll be notified when the report is available",
+            "form": {
+              "bases": "Bases",
+              "cargos": "Positions",
+              "empresa": "Company",
+              "grupos": "Scale Groups",
+              "periodo": "Period",
+              "tripulantes": "Crew Members",
+              "validacao-inicio-fim": "End date must be greater than start date"
+            },
+            "novo": "Generate Projected Scale Report"
+          }
+        },
+        "tipo": {
+          "escala-diaria": "Daily Scale",
+          "escala-projetada": "Projected Scale"
+        }
+      },
+      "rota": {
+        "edit": {
+          "add-message": "Route %{identifier} successfully registered",
+          "delete-message": "Route %{identifier} successfully deleted",
+          "edit-message": "Route %{identifier} successfully updated",
+          "editando": "Updating Route",
+          "novo": "New Route"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Route",
+          "title": "Routes"
+        }
+      },
+      "secao": {
+        "form": {
+          "chegada": "Arrival",
+          "editando": "Updating Section",
+          "hora-chegada": "Arrival Time",
+          "hora-partida": "Departure Time",
+          "local-destino": "Destination",
+          "local-origem": "Origin Location",
+          "novo": "New Section",
+          "ordem": "Order",
+          "partida": "Departure",
+          "principal": {
+            "chegada": "Arrival",
+            "dias-chegada": "Days after arrival",
+            "dias-partida": "Days after departure",
+            "help-dias-chegada": "Days in relation to service departure",
+            "help-dias-partida": "Days in relation to service departure",
+            "help-plataforma": "Bus station box",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "local-destino": "Destination",
+            "local-origem": "Origin Location",
+            "ordem": "Order",
+            "partida": "Departure",
+            "plataforma": "Plataform"
+          }
+        }
+      },
+      "servico": {
+        "form": {
+          "dados-gerais": {
+            "codigo": "Service",
+            "descricao": "Description",
+            "empresa": "Company",
+            "final": "End Date Time",
+            "frequencia": "Frequency",
+            "frota": "Fleet",
+            "inicio": "Start Date Time",
+            "linha": "Line",
+            "local-recolhimento": "Destination",
+            "observacao": "Service Observation",
+            "observacao-tripulante": "Crew Observation",
+            "observacao-viagem": "Trip Notes",
+            "tipo-servico": "Service Type",
+            "veiculo": "Vehicle"
+          },
+          "operacao": {
+            "deslocamento-operacional-liberacao": "Release",
+            "deslocamento-operacional-recolhimento": "Retreat",
+            "help-tempo": "Time in the format hours:minutes",
+            "local-liberacao": "Release Location",
+            "local-recolhimento": "Retreat Location",
+            "tempo-desembarque": "Disembarkation Time",
+            "tempo-embarque": "Embarkation Time",
+            "tempo-preparo": "Preparation Time"
+          }
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "empresa": "Company",
+            "linha": "Line",
+            "local-liberacao": "Release Location",
+            "local-recolhimento": "Destination"
+          }
+        }
+      },
+      "sindicato": {
+        "edit": {
+          "acordos": "Agreements",
+          "add-message": "Syndicate %{identifier} successfully registered",
+          "delete-message": "Syndicate %{identifier} successfully deleted",
+          "edit-message": "Syndicate %{identifier} successfully updated",
+          "editando": "Updating Syndicate",
+          "novo": "New Syndicate",
+          "principal": "Main"
+        },
+        "form": {
+          "cidade": "City",
+          "codigo": "Code",
+          "descricao": "Description",
+          "endereco": "Address",
+          "nome": "Name",
+          "telefone": "Telephone"
+        },
+        "list": {
+          "columns": {
+            "cidade": "City",
+            "codigo": "Code",
+            "nome": "Name",
+            "telefone": "Telephone"
+          },
+          "novo": "New Syndicate",
+          "title": "Sindicates"
+        }
+      },
+      "tempo-apresentacao-encerramento": {
+        "edit": {
+          "add-message": "Presentation/Closing Time %{identifier} successfully registered",
+          "delete-message": "Presentation/Closing Time %{identifier} successfully deleted",
+          "edit-message": "Presentation/Closing Time %{identifier} successfully updated",
+          "editando": "Updating Presentation/Closing Time",
+          "novo": "New Presentation/Closing Time"
+        },
+        "form": {
+          "frota": "Fleet",
+          "help-tempo": "Time in minutes",
+          "local": "Location",
+          "tempo-apresentacao": "Presentation Time",
+          "tempo-encerramento": "Closing Time"
+        },
+        "list": {
+          "columns": {
+            "frota": "Fleet",
+            "local": "Location",
+            "tempo-apresentacao": "Presentation Time (minutes)",
+            "tempo-encerramento": "Closing Time (minutes)"
+          },
+          "novo": "New Time",
+          "title": "Presentation/Closing Time"
+        }
+      },
+      "tempo-parada": {
+        "edit": {
+          "add-message": "Downtime %{identifier} successfully registered",
+          "delete-message": "Downtime %{identifier} successfully deleted",
+          "edit-message": "Downtime %{identifier} successfully updated",
+          "editando": "Updating Downtime",
+          "novo": "New Downtime"
+        },
+        "form": {
+          "frota": "Fleet",
+          "help-tempo": "Time in minutes",
+          "local": "Location",
+          "tempo-desembarque": "Disembarkation Time",
+          "tempo-embarque": "Embarkation Time",
+          "tempo-transito": "Traffic time"
+        },
+        "list": {
+          "columns": {
+            "frota": "Fleet",
+            "local": "Location",
+            "tempo-desembarque": "Disembarkation Time (minutes)",
+            "tempo-embarque": "Embarkation Time (minutes)",
+            "tempo-transito": "Traffic time (minutes)"
+          },
+          "novo": "New Downtime",
+          "title": "Downtime"
+        }
+      },
+      "tempo-preparo": {
+        "edit": {
+          "add-message": "Preparation Time %{identifier} successfully registered",
+          "delete-message": "Preparation Time %{identifier} successfully deleted",
+          "edit-message": "Preparation Time %{identifier} successfully updated",
+          "editando": "Updating Preparation Time",
+          "novo": "New Preparation Time"
+        },
+        "form": {
+          "frota": "Fleet",
+          "help-tempo": "Time in minutes",
+          "local": "Location",
+          "tempo": "Preparation time"
+        },
+        "list": {
+          "columns": {
+            "frota": "Fleet",
+            "local": "Location",
+            "tempo": "Preparation Time (minutes)"
+          },
+          "novo": "New Preparation Time",
+          "title": "Preparation Time"
+        }
+      },
+      "tipo-documento": {
+        "edit": {
+          "add-message": "Document Type %{identifier} successfully registered",
+          "delete-message": "Document Type %{identifier} successfully deleted",
+          "edit-message": "Document Type %{identifier} successfully updated",
+          "editando": "Updating Document Type",
+          "novo": "New Document Type"
+        },
+        "form": {
+          "alerta-vencimento": "Expiration Alert",
+          "codigo": "Code",
+          "descricao": "Description",
+          "influencia-otimizacao-frota": "Influence Fleet Optimization",
+          "influencia-otimizacao-motorista": "Influence Driver Optimization"
+        },
+        "list": {
+          "columns": {
+            "alerta-vencimento": "Expiration Alert",
+            "codigo": "Code",
+            "descricao": "Description",
+            "influencia-otimizacao-frota": "Influence Fleet Optimization",
+            "influencia-otimizacao-motorista": "Influence Driver Optimization"
+          },
+          "novo": "New Document Type",
+          "title": "Document Types"
+        }
+      },
+      "tipo-linha": {
+        "edit": {
+          "add-message": "Line Type %{identifier} successfully registered",
+          "delete-message": "Line Type %{identifier} successfully deleted",
+          "edit-message": "Line Type %{identifier} successfully updated",
+          "editando": "Updating Line Type",
+          "novo": "New Line Type"
+        },
+        "form": {
+          "codigo": "Code",
+          "descricao": "Description"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "descricao": "Description"
+          },
+          "novo": "New Line Type",
+          "title": "Line Types"
+        }
+      },
+      "tipo-local": {
+        "edit": {
+          "add-message": "Location Type %{identifier} successfully registered",
+          "delete-message": "Location Type %{identifier} successfully deleted",
+          "edit-message": "Location Type %{identifier} successfully updated",
+          "editando": "Updating Location Type",
+          "novo": "New Location Type"
+        },
+        "form": {
+          "descricao": "Description",
+          "possui-embarque-desembarque": "Has embarking or disembarking",
+          "possui-integracao-vendas": "Has sales integration",
+          "possui-troca-motorista": "Has Driver Change"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Description",
+            "possui-embarque-desembarque": "Has embarking or disembarking",
+            "possui-integracao-vendas": "Has sales integration",
+            "possui-troca-motorista": "Has Driver Change"
+          },
+          "nao": "No",
+          "novo": "New Location Type",
+          "sim": "Yes",
+          "title": "Location Types"
+        }
+      },
+      "tipo-ocorrencia-tripulacao": {
+        "edit": {
+          "add-message": "Occurrence Type %{identifier} successfully registered",
+          "delete-message": "Occurrence Type %{identifier} successfully deleted",
+          "edit-message": "Occurrence Type %{identifier} successfully updated",
+          "editando": "Updating Occurrence Type",
+          "novo": "New Occurrence Type"
+        },
+        "form": {
+          "codigo": "Code",
+          "considerar-repouso-remunerado": "Consider Paid Rest",
+          "cor": "Color",
+          "descricao": "Description",
+          "ignorar-calculo-horas-trabalhadas": "Ignore Worked Hours Calculation",
+          "impedir-escala": "Prevents Scale"
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "considerar-repouso-remunerado": "Consider Paid Rest",
+            "cor": "Color",
+            "descricao": "Description",
+            "ignorar-calculo-horas-trabalhadas": "Ignore HT Calculation",
+            "impedir-escala": "Prevents Scale"
+          },
+          "nao": "No",
+          "novo": "New Occurrence Type",
+          "sim": "Yes",
+          "title": "Occurrence Types"
+        }
+      },
+      "tipo-servico": {
+        "edit": {
+          "add-message": "Service Type %{identifier} successfully registered",
+          "delete-message": "Service Type %{identifier} successfully deleted",
+          "edit-message": "Service Type %{identifier} successfully updated",
+          "editando": "Updating Service Type",
+          "novo": "New Service Type"
+        },
+        "form": {
+          "captura-gps": "GPS Capture",
+          "codigo": "Code",
+          "cor": "Color",
+          "descricao": "Description",
+          "monitriip": "Monitriip",
+          "prioridade": "Priority",
+          "validar-sistema-vendas": "Validate Sales System"
+        },
+        "list": {
+          "columns": {
+            "captura-gps": "GPS Capture",
+            "codigo": "Code",
+            "cor": "Color",
+            "descricao": "Description",
+            "monitriip": "Monitriip",
+            "prioridade": "Priority",
+            "validar-sistema-vendas": "Validate Sales System"
+          },
+          "nao": "No",
+          "novo": "New Service Type",
+          "sim": "Yes",
+          "title": "Service Types"
+        }
+      },
+      "tipo-treinamento": {
+        "edit": {
+          "add-message": "Training Type %{identifier} successfully registered",
+          "delete-message": "Training Type %{identifier} successfully deleted",
+          "edit-message": "Training Type %{identifier} successfully updated",
+          "editando": "Updating Training Type",
+          "novo": "New Training Type"
+        },
+        "form": {
+          "descricao": "Description",
+          "duracao": "Duration",
+          "help-validade": "Enter validity in days",
+          "validade": "validity"
+        },
+        "list": {
+          "columns": {
+            "descricao": "Description",
+            "duracao": "Duration (Hours)",
+            "validade": "Validity (Days)"
+          },
+          "novo": "New Type",
+          "title": "Training Types"
+        }
+      },
+      "trafego": {
+        "detalhes": {
+          "apresentacao": "Presentation",
+          "encerramento": "Closing",
+          "liberacao": "Release",
+          "title": "Traffic"
+        },
+        "form": {
+          "apresentacao-confirmada": "Confirmed Presentation",
+          "cargo": "Position",
+          "data": "Date",
+          "destino": "Destiny",
+          "dia-anterior": "Last day",
+          "editado": "Service Edited Successfully",
+          "empresa": "Company",
+          "encerramento-confirmado": "Confirmed Closing",
+          "grupo": "Scale Group",
+          "liberacao-confirmada": "Release Confirmed",
+          "local-trajeto": "Route Location",
+          "observacao-patio": "Courtyard",
+          "observacao-tripulante": "Crew",
+          "origem": "Source",
+          "periodo": "Period",
+          "proximo-dia": "Next Day",
+          "tripulante": "Crew",
+          "veiculo": "Vehicle"
+        },
+        "list": {
+          "actions": {
+            "cancelar": "Cancel",
+            "confirmar": "Confirm",
+            "confirmar-apresentacao": "Confirm Presentation",
+            "confirmar-encerramento": "Confirm Closure",
+            "confirmar-liberacao": "Confirm Release",
+            "detalhes": "Details",
+            "editar-tripulante": "Change Crew Member",
+            "observacoes": "Notes",
+            "observacoes-title": "Service notes",
+            "salvar": "Save",
+            "sugerir-tripulante": "Suggest Crew Member"
+          },
+          "apresentado": "Presentation by %{tripulante} on %{data}",
+          "ciente": "Trip acknowledgment by %{tripulante} on %{data}",
+          "columns": {
+            "destino": "Destination",
+            "empresa": "Company",
+            "final": "End",
+            "frota": "Fleet",
+            "horario-rodoviaria": "Station Time",
+            "inicio": "Start",
+            "linha": "Line",
+            "origem": "Origin",
+            "plataforma": "Platform",
+            "servico": "Service",
+            "tipo-linha": "Type",
+            "tripulante": "Crew Member",
+            "veiculo": "Vehicle"
+          },
+          "nao-apresentado": "Presentation not concluded",
+          "nao-ciente": "No acknowledgment made"
+        },
+        "painel": {
+          "encerramento": "Closure",
+          "liberacao": "Release",
+          "realizado": "Concluded",
+          "title": "Traffic",
+          "todas": "All"
+        }
+      },
+      "treinamento": {
+        "form": {
+          "duracao": "Duration",
+          "editando": "Editing Training",
+          "final-treinamento": "End",
+          "inicio-treinamento": "Start",
+          "instrutor": "Instructor",
+          "local": "Location",
+          "novo": "New Training",
+          "tipo-treinamento": "Training Type",
+          "validade": "Validity"
+        },
+        "list": {
+          "duracao": "Duration",
+          "final-treinamento": "End",
+          "inicio-treinamento": "Start",
+          "tipo-treinamento": "Type"
+        }
+      },
+      "tripulante": {
+        "form": {
+          "cargo": "Position",
+          "chegada": "Arrival",
+          "dados-gerais": "General Data",
+          "editando": "Updating Crew Member",
+          "hora-chegada": "Arrival Time",
+          "hora-partida": "Departure Time",
+          "intervalos": "Intervals",
+          "local-destino": "Destination",
+          "local-origem": "Origin Location",
+          "novo": "New Crew Member",
+          "partida": "Departure",
+          "principal": {
+            "cargo": "Position",
+            "chegada": "Arrival",
+            "dias-chegada": "Days after arrival",
+            "dias-partida": "Days after departure",
+            "frequencia": "Frequency",
+            "funcao": "Function",
+            "help-dias-chegada": "Days in relation to service departure",
+            "help-dias-partida": "Days in relation to service departure",
+            "help-tempo": "Time in the format hours:minutes",
+            "hora-chegada": "Arrival Time",
+            "hora-partida": "Departure Time",
+            "jornada-unica": "Unique Journey",
+            "local-destino": "Destination",
+            "local-origem": "Origin Location",
+            "partida": "Departure",
+            "revezar-motorista": "Driver Relay",
+            "revezar-tripulante": "Crew Members Take Turns",
+            "tempo-apresentacao": "Presentation Time",
+            "tempo-saida": "Exit Time",
+            "tripulante": "Crew Member"
+          }
+        },
+        "info-jornada": {
+          "coordenacao": {
+            "cargo": "Position",
+            "custo": "Cost",
+            "fim": "End",
+            "folgas": "Days Off",
+            "folgas-domingo": "Sundays Off",
+            "horas-espera": "Waiting Hours",
+            "horas-extras": "Overtime",
+            "horas-trabalhadas": "Working Hours",
+            "inicio": "Start",
+            "km-percorridos": "Distance Traveled",
+            "numero-viagens": "Nº of Trips",
+            "repousos-remunerados": "Paid Rests",
+            "title": "Crew Member Info - Coordination",
+            "tripulante": "Crew Member"
+          },
+          "list": {
+            "complemento": "Complement",
+            "destino": "Destination",
+            "final": "End",
+            "frota": "Fleet",
+            "inicio": "Start",
+            "linha": "Line",
+            "observacao": "Notes",
+            "origem": "Origin",
+            "tempo-viagem": "Duration"
+          },
+          "planejamento": {
+            "cargo": "Position",
+            "custo": "Cost",
+            "fim": "End",
+            "folgas": "Days Off",
+            "folgas-domingo": "Sundays Off",
+            "horas-espera": "Waiting Hours",
+            "horas-extras": "Overtime",
+            "horas-trabalhadas": "Working Hours",
+            "inicio": "Start",
+            "km-percorridos": "Distance Traveled",
+            "numero": "Number",
+            "numero-viagens": "Nº of Trips",
+            "repousos-remunerados": "Paid Rests",
+            "title": "Crew Member Info - Planning"
+          }
+        },
+        "list": {
+          "columns": {
+            "folgas-casa": "Days off at home",
+            "folgas-domingo": "Sundays Off",
+            "folgas-fora": "Days off not at home",
+            "folgas-total": "Total days off",
+            "horas-adicional-noturno": "Night Additional",
+            "horas-espera": "Waiting Hours",
+            "horas-extras": "Overtime",
+            "horas-trabalhadas": "Working Hours",
+            "numero-viagens": "Nº of Trips",
+            "observacao": "Notes",
+            "pessoa": "Crew Member",
+            "repousos-remunerados": "Paid Rests"
+          }
+        }
+      },
+      "usuario": {
+        "admin": {
+          "painel": {
+            "api": {
+              "title": "API"
+            },
+            "conta": {
+              "title": "Account"
+            },
+            "empresas": {
+              "novo": "New Company",
+              "title": "Companies"
+            },
+            "exportacoes": {
+              "title": "Exports"
+            },
+            "grupos-usuarios": {
+              "novo": "New Groups",
+              "title": "Users Groups"
+            },
+            "importacoes": {
+              "title": "Imports"
+            },
+            "otimizacao-frota": {
+              "title": "Fleet Optimization"
+            },
+            "otimizacao-grupo": {
+              "title": "Group Scale Optimization"
+            },
+            "otimizacao-tripulacao": {
+              "title": "Crew Optimization"
+            },
+            "relatorios": {
+              "title": "Reports"
+            },
+            "tab": {
+              "api": "API",
+              "empresas": "Companies",
+              "exportacoes": "Exports",
+              "geral": "General",
+              "grupos-usuarios": "Users Groups",
+              "importacoes": "Imports",
+              "otimizacoes": "Optimizations",
+              "relatorios": "Reports",
+              "usuarios": "Users"
+            },
+            "usuarios": {
+              "title": "Users"
+            }
+          }
+        },
+        "edit": {
+          "add-message": "User %{identifier} successfully registered",
+          "delete-message": "User %{identifier} successfully deleted",
+          "edit-message": "User %{identifier} successfully updating",
+          "editando": "Updating User",
+          "novo": "New User",
+          "salvar": "Save",
+          "saved-message": "Password changed successfully",
+          "titulo-alert-erros": "Problems found"
+        },
+        "form": {
+          "celular": "Cell",
+          "confirme-nova-senha": "Confirm New Password",
+          "email": "E-mail",
+          "empresa": "Company",
+          "erro-confirma-senha": "Passwords are not the same",
+          "grupo": "User Group",
+          "nome": "Fullname",
+          "nome-usuario": "Username",
+          "nova-senha": "New password",
+          "senha": "Password",
+          "senha-atual": "Current password"
+        },
+        "list": {
+          "columns": {
+            "ativo": "Active",
+            "cargo": "Role",
+            "celular": "Cell phone",
+            "empresa": "Company",
+            "grupo": "Group",
+            "nome": "Name",
+            "ultimo-acesso": "Last Login",
+            "usuario": "User"
+          },
+          "confirmacao-ativacao": "User %{nome} was activated successfully",
+          "confirmacao-desativacao": "User %{nome} was deactivated successfully",
+          "confirmar-ativacao": "Confirm activation of user %{nome}?",
+          "confirmar-desativacao": "Confirm deactivation of user %{nome}?",
+          "novo": "New User"
+        },
+        "painel": {
+          "a": "to",
+          "admissao": "Admission date",
+          "apelido": "Nickname",
+          "bairro": "Neighborhood",
+          "base": "Operational Basis",
+          "cargo": "Role",
+          "celular": "Cell phone",
+          "cep": "Zip Code",
+          "cidade": "City",
+          "codigo": "Code",
+          "cpf": "CPF",
+          "dados-gerais": "General data",
+          "demissao": "Resignation date",
+          "detalhes": "Details",
+          "documentos-empty": "There are no documents",
+          "e-instrutor": "Is Instructor",
+          "editando-imagem": "Updating User Photo",
+          "email": "E-mail",
+          "empresa": "Company",
+          "endereco": "Address",
+          "grupo-usuario": "User Group",
+          "instrutor": "Instructor",
+          "login": "User",
+          "nascimento": "Birth Date",
+          "nome": "Name",
+          "ocorrencias-empty": "There are no occurrences",
+          "parametros-otimizacao": "Optimization Parameters",
+          "placa": "License Plate",
+          "sexo": "Gender",
+          "sim": "Yes",
+          "tab": {
+            "login": "Login Records",
+            "senha": "Change Password"
+          },
+          "tam-calca": "Pants",
+          "tam-camisa": "Shirt",
+          "tam-sapato": "Shoe",
+          "telefone": "Telephone",
+          "title": "User",
+          "vestimenta": "Clothing Sizes"
+        }
+      },
+      "usuario-login": {
+        "list": {
+          "dispositivo": "Device",
+          "local": "Location",
+          "quando": "Logged In"
+        }
+      },
+      "veiculo": {
+        "edit": {
+          "add-message": "Vehicle %{identifier} successfully registered",
+          "dados-gerais": "General Date",
+          "delete-message": "Vehicle %{identifier} successfully deleted",
+          "documentos": "Documents",
+          "edit-message": "Vehicle %{identifier} successfully updated",
+          "editando": "Updating Vehicle",
+          "novo": "New Vehicle"
+        },
+        "form": {
+          "dados-gerais": {
+            "agrupadores": "Groupers",
+            "carroceria": "Bodywork",
+            "chassi": "Chassis",
+            "codigo": "Code",
+            "codigo-chassi": "Chassis Code",
+            "empresa": "Company",
+            "fabricacao": "Year of manufacture",
+            "frota": "Fleet",
+            "modelo-carroceria": "Model",
+            "modelo-chassi": "Model",
+            "placa": "License Plate"
+          },
+          "documentos": {
+            "codigo": "Code",
+            "descricao": "Description",
+            "editando": "Updating Document",
+            "emissor": "Issuer",
+            "novo": "New Document",
+            "numero": "Number",
+            "orgao-regulador": "Regulatory Body",
+            "tipo-documento": "Document Type"
+          }
+        },
+        "info-jornada": {
+          "coordenacao": {
+            "custo": "Cost",
+            "fim": "End",
+            "frota": "Fleet",
+            "inicio": "Start",
+            "km-media": "Avg. Trip Distance",
+            "km-percorridos": "Distance Traveled",
+            "numero": "Number",
+            "numero-viagens": "Nº of Trips",
+            "perc-viagem": "% Traveling",
+            "tempo-deslocamentos": "Displacement Time",
+            "tempo-em-viagem": "Travel Time",
+            "tempo-medio": "Avg. Travel Time",
+            "tempo-parado": "Stopped Time",
+            "tempo-preparacao": "Preparation Time",
+            "title": "Vehicle Info - Coordination",
+            "veiculo": "Vehicle"
+          },
+          "planejamento": {
+            "custo": "Cost",
+            "fim": "End",
+            "frota": "Fleet",
+            "inicio": "Start",
+            "km-media": "Avg. Trip Distance",
+            "km-percorridos": "Distance Traveled",
+            "numero": "Number",
+            "numero-viagens": "Nº of Trips",
+            "perc-viagem": "% Traveling",
+            "tempo-deslocamentos": "Displacement Time",
+            "tempo-em-viagem": "Time Traveling",
+            "tempo-medio": "Avg. Travel Time",
+            "tempo-parado": "Stopped Time",
+            "tempo-preparacao": "Preparation Time",
+            "title": "Vehicle Info - Planning"
+          }
+        },
+        "list": {
+          "columns": {
+            "codigo": "Code",
+            "codigo-chassi": "Chassis Code",
+            "empresa": "Company",
+            "fabricacao": "Year of manufacture",
+            "frota": "Fleet",
+            "placa": "License Plate",
+            "prefixo": "Prefix"
+          },
+          "novo": "New Vehicle",
+          "title": "Vehicles"
+        },
+        "painel": {
+          "carroceria": "Bodywork",
+          "chassi": "Chassis",
+          "codigo": "Code",
+          "codigo-chassi": "Chassis Code",
+          "dados-gerais": "General Data",
+          "detalhes": "Details",
+          "documentos": "Documents",
+          "documentos-empty": "There are no documents",
+          "editando-imagem": "Updating Vehicle Image",
+          "empresa": "Company",
+          "fabricacao": "Year of manufacture",
+          "frota": "Fleet",
+          "novo": "New Vehicle",
+          "placa": "License Plate",
+          "tab": {
+            "documentos": "Documents",
+            "ocorrencias": "Occurrences",
+            "proximas-viagens": "Upcoming Travels"
+          },
+          "title": "Vehicle"
+        },
+        "proximas-viagens": {
+          "destino": "Destination",
+          "empresa": "Company",
+          "empty": "No Data",
+          "final": "End",
+          "frota": "Fleet",
+          "inicio": "Start",
+          "linha": "Line",
+          "origem": "Origin",
+          "plataforma": "Platform",
+          "servico": "Service",
+          "tipo": "Type",
+          "tripulante": "Crew Member"
+        },
+        "upload": {
+          "explanation": "For the upload to work, it is necessary to rename the images, according to the Vehicle Code."
+        }
+      }
+    },
+    "hubs": {
+      "exportacao": {
+        "baixar": "Download file",
+        "criado-em": "at %{hora} of %{data}",
+        "criado-por": "By %{nome}",
+        "mensagens": "Posts:",
+        "tamanho": "Size:"
+      },
+      "importacao": {
+        "connection-error": "There was a problem communicating with one of our servers, import/export services are unavailable.",
+        "criado-em": "at %{hora} of %{data}",
+        "criado-por": "By %{nome}",
+        "exportar": "Download Model",
+        "mensagens": "Messages:",
+        "n-registros": "No. of records:",
+        "n-registros-importados": "No. of imported records:",
+        "visualizar": "View"
+      },
+      "otimizacao": {
+        "criado-em": "at %{hora} of %{data}",
+        "criado-por": "By %{nome}",
+        "visualizar": "View"
+      },
+      "relatorio": {
+        "baixar": "Download File",
+        "criado-em": "at %{hora} of %{data}",
+        "criado-por": "By %{nome}",
+        "mensagens": "Messages:",
+        "nome": "%{tipo} Report",
+        "tamanho": "Filesyze:",
+        "tipo": "Type"
+      }
+    }
+  }
+}
